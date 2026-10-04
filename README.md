@@ -15,7 +15,7 @@
 
 ## 셋업 순서
 
-1. **Gmail / Google Calendar 연결** — https://claude.ai/customize/connectors
-2. **학교 Outlook → Gmail 자동 전달 설정** — `docs/outlook-setup.md` 참고 (한 번만 하면 끝)
-3. **Gmail 필터** — 전달된 학교 메일에 `School` 라벨 자동 부착
-4. 새 세션에서 "매일 아침 브리핑 Routine 만들어줘" → 매일 자동 실행
+1. ✅ Gmail / Google Calendar / 카카오톡 연결 완료
+2. ✅ 학교 메일(spark@mba2028.hbs.edu)은 이미 Gmail로 들어오고 있음 — Outlook 별도 연결 불필요
+3. ✅ Gmail 라벨 `Daily/🔴답장필요` `Daily/🟠School` `Daily/🟢이벤트` `Daily/⚪노이즈` 생성
+4. ✅ 매일 아침 7:52 (ET) 자동 브리핑 Routine
