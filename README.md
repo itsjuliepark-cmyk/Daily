@@ -10,6 +10,8 @@
 | `CLAUDE.md` | 봇의 동작 규칙 (분류 기준, 안전 규칙, 출력 형식) |
 | `rules.md` | 내가 직접 고치는 분류 규칙 (중요 발신자, 키워드, 무시할 것) |
 | `data/coffee-chats.md` | 커피챗 기록 — 누구와, 언제, 후속 조치 |
+| `linkedin.md` | 링크드인 사람 찾기 기준 + 메시지 템플릿 + "보내줘" 처리 방법 |
+| `data/linkedin-outreach.md` | 링크드인 메시지 기록 — 누구에게, 상태, 메시지 초안 |
 | `prompts/daily-brief.md` | 매일 아침 자동 실행(Routine)에 쓰는 프롬프트 |
 | `docs/outlook-setup.md` | 학교 Outlook을 로그인 없이 연결하는 방법 |
 

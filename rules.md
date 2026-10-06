@@ -6,6 +6,7 @@
 - 커피챗 요청, 일정 조율, "available", "coffee chat", "15 min", "시간 되실 때"
 - 나에게 직접 질문하는 메일 (To에 나만 있고 물음표가 있음)
 - 커피챗 상대방이 보낸 답장 (data/coffee-chats.md에 있는 사람)
+- 링크드인 수락/메시지 알림 중 data/linkedin-outreach.md에 있는 사람 ("accepted your invitation", "sent you a message") — 노이즈 규칙보다 우선
 - 중요 발신자:
   - @mckinsey.com, @bain.com, @bcg.com, @google.com 실제 사람(리크루터/현직자)
 
