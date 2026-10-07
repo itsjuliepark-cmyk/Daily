@@ -10,6 +10,7 @@
 | Connie Chen | HBS 2015 동문 | 확정 (캘린더 있음) | 10/7 (수) 8:30–9am ET (런던 1:30pm) | 감사 메일 | meet.google.com/bcm-vpki-myv |
 | Rishi | — | 이력서 보냄 (10/5) | — | 피드백 기다리는 중 | |
 | Tanvi | — | 이력서 피드백 받음 (10/5) | — | 수정 반영 | |
+| McKenzie Jones | Google | 일정 변경 확정 (qhektndus95 계정 메일) | 10/14 (수) 4:00–4:30pm ET | 캘린더 초대 미발송 — Julie 결정 대기 | jonesmckenzie@google.com |
 | 동욱 (irakim0839) | — | 일정 재조율 | 10/9 (금) 10:00pm EDT 제안 | 확정 답장 초안 작성됨 (10/4) | 10/2 일정은 Julie 사정으로 취소, Meet: meet.google.com/ikg-brdn-omu |
 
 ## 다가오는 리크루팅 이벤트
@@ -17,6 +18,16 @@
 - 10/6 (화) 2:30pm Google MBA Alumni Panel for Interns — Aldrich 112
 - 10/6 (화) 4:10pm Google Coffee Chats — Spangler 087
 - 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
+
+## 10/7 브리핑
+- [ ] **Startup Bootcamp 2027 합격 (Credit Coach 팀) — 팀 리드가 10/7 11:59pm까지 확인폼 제출** https://forms.cloud.microsoft/r/JpGAfksA5a · 필수 대면: 11/1 워크숍, 11/19 디너, 1/16–1/22
+- [ ] Adobe 2027 MBA Intern PM / PMM 지원서 미제출 (리마인더 10/7)
+- [ ] Microsoft Business Program Mgmt 인턴: Meghan Peterson 추천 완료 (10/5)
+- [ ] Bain Seoul 'Bridge to APAC' 웨비나 10/14 8:30pm ET — RSVP 10/12까지
+- [ ] NextView Ventures MBA Founders Night 10/27 6pm Longfellow Bar — RSVP luma.com/NextViewMBANight2026
+- [ ] IFC 관심 설문 10/9 (금)까지 · Rock Center 피칭 지원 10/10 마감
+- 등록됨: Google PM 패널 10/13 2:30pm, Jamie Dimon Leader's Forum 10/20 5pm, Tech Club WesTrek
+- SIPs: The Product Management Interview — 불합격 (10/6)
 
 ## 학교 마감 (10/5 브리핑)
 - [ ] **AABA RC 보드 지원 마감 10/6 (화) 자정** — https://forms.gle/GYZpDmGF2KXMFzuQ9
