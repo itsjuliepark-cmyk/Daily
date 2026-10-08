@@ -9,19 +9,20 @@
 - 이전: SK Telecom 마케팅 + AI 프로덕트
 - 지금 노리는 것: 요청에 회사/직무가 없으면 물어본다 (예: Adobe MBA PM 인턴십)
 
-## 메시지 형식 (링크드인 연결 메모 — 300자 이하)
+## 메시지 형식 (링크드인 연결 메모 — **200자 이하**)
+링크드인 Add a note 칸이 200자까지만 들어간다 (10/8 확인 — 300자 버전은 너무 길었음).
 ```
-Hi [이름], I’m Julie, an HBS RC, previously in marketing and AI product at SK Telecom.
-[개인화 한 문장] resonates with me.
-I’m pursuing [회사]’s MBA [직무] internship.
-Could we connect for a 15-minute chat? I’d truly value your advice.
+Hi [이름], I’m Julie, an HBS RC, ex-SK Telecom marketing & AI product.
+[개인화 한 문장 — 약 50–60자]
+I’m pursuing [회사]’s MBA [직무] internship. Could we chat for 15 min?
 ```
-원본 예시 (294자):
-> Hi Adelina, I’m Julie, an HBS RC, previously in marketing and AI product at SK Telecom. Your HBS journey and experience across business operations and product marketing resonate with me. I’m pursuing Adobe’s MBA PM internship. Could we connect for a 15-minute chat? I’d truly value your advice.
+예시 (198자):
+> Hi Mehreen, I’m Julie, an HBS RC, ex-SK Telecom marketing & AI product. Your path from Adobe’s PM internship to full-time resonates. I’m pursuing Adobe’s MBA PM internship. Could we chat for 15 min?
 
-- 고정 부분이 약 200자 → **개인화 문장은 100자 안쪽**, 전체 **300자 이하** (글자 수 세서 같이 표시).
+- 고정 부분이 약 130자 + 이름 → **개인화 문장은 60자 안쪽**, 전체 **200자 이하** (글자 수 세서 같이 표시).
+- 수락 후 첫 메시지(1촌 Message)는 길이 제한이 없으니, 거기서 "I’d truly value your advice" 같은 말과 구체적인 질문을 덧붙인다.
 - 상대가 HBS 같은 학년이면 "a fellow HBS RC"로 쓴다.
-- 매번 "resonates with me"만 반복하지 않아도 된다 — 같은 회사 사람끼리 메시지를 비교할 수 있으니 문장을 조금씩 다르게.
+- 같은 회사 사람끼리 메시지를 비교할 수 있으니 개인화 문장의 동사를 조금씩 다르게 (resonates / inspires me 등).
 
 ## 개인화 문장 규칙
 - 프로필에 **실제로 있는 사실** 1–2개만 쓴다: 경력 전환(예: 마케팅 → PM), 담당 제품, MBA 인턴 → 풀타임 전환, HBS 동문, 한국/SKT 연결.
