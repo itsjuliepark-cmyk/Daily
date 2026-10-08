@@ -25,25 +25,25 @@
 ### 다음 후보 (필요하면)
 Sophie Wang (Wharton, PM Express, 시애틀, 인턴 → 풀타임) · Jessica Hayt (NYU Stern, Firefly 그로스 PM 매니저, 뉴욕, 인턴 → 풀타임) · Erin Boyce (HBS '13, Photoshop 제품마케팅 Sr. Director — 시니어)
 
-## 메시지 초안 (링크드인 메모 200자 제한 버전, 10/8)
+## 메시지 초안
 
-### Mehreen K. (198자)
-Hi Mehreen, I’m Julie, an HBS RC, ex-SK Telecom marketing & AI product. Your path from Adobe’s PM internship to full-time resonates. I’m pursuing Adobe’s MBA PM internship. Could we chat for 15 min?
+### Mehreen K. (288자)
+Hi Mehreen, I’m Julie, an HBS RC, previously in marketing and AI product at SK Telecom. Your path from Adobe’s growth PM internship to a full-time role after HBS resonates with me. I’m pursuing Adobe’s MBA PM internship. Could we connect for a 15-minute chat? I’d truly value your advice.
 
-### Katalina Bock (194자)
-Hi Katalina, I’m Julie, an HBS RC, ex-SK Telecom marketing & AI product. Your path from HBS to AI and growth at Adobe resonates. I’m pursuing Adobe’s MBA PM internship. Could we chat for 15 min?
+### Katalina Bock (292자)
+Hi Katalina, I’m Julie, an HBS RC, previously in marketing and AI product at SK Telecom. Your path from HBS to product at Adobe, focused on AI innovation and growth, resonates with me. I’m pursuing Adobe’s MBA PM internship. Could we connect for a 15-minute chat? I’d truly value your advice.
 
-### Caroline Stafford (193자)
-Hi Caroline, I’m Julie, an HBS RC, ex-SK Telecom marketing & AI product. Your path from HBS to Adobe Express resonates with me. I’m pursuing Adobe’s MBA PM internship. Could we chat for 15 min?
+### Caroline Stafford (276자)
+Hi Caroline, I’m Julie, an HBS RC, previously in marketing and AI product at SK Telecom. Your journey from HBS to product marketing for Adobe Express resonates with me. I’m pursuing Adobe’s MBA PM internship. Could we connect for a 15-minute chat? I’d truly value your advice.
 
-### Claire Park (197자)
-Hi Claire, I’m Julie, an HBS RC, ex-SK Telecom marketing & AI product. Your path from growth marketing to Principal PM inspires me. I’m pursuing Adobe’s MBA PM internship. Could we chat for 15 min?
+### Claire Park (285자)
+Hi Claire, I’m Julie, an HBS RC, previously in marketing and AI product at SK Telecom. Your path from SKKU and an Adobe growth marketing internship to Principal PM speaks to me. I’m pursuing Adobe’s MBA PM internship. Could we connect for a 15-minute chat? I’d truly value your advice.
 
-### Jaera Lim (194자)
-Hi Jaera, I’m Julie, an HBS RC, ex-SK Telecom marketing & AI product. Your move from Samsung Card to Adobe PM resonates with me. I’m pursuing Adobe’s MBA PM internship. Could we chat for 15 min?
+### Jaera Lim (280자)
+Hi Jaera, I’m Julie, an HBS RC, previously in marketing and AI product at SK Telecom. Your move from Samsung Card in Seoul to product management at Adobe resonates with me. I’m pursuing Adobe’s MBA PM internship. Could we connect for a 15-minute chat? I’d truly value your advice.
 
-### Jessica Nuñez Sutherland (195자)
-Hi Jessica, I’m Julie, an HBS RC, ex-SK Telecom marketing & AI product. Your move from PMM to leading Firefly Mobile inspires me. I’m pursuing Adobe’s MBA PM internship. Could we chat for 15 min?
+### Jessica Nuñez Sutherland (291자)
+Hi Jessica, I’m Julie, an HBS RC, previously in marketing and AI product at SK Telecom. Your move from product marketing to leading GenAI product for Firefly Mobile resonates with me. I’m pursuing Adobe’s MBA PM internship. Could we connect for a 15-minute chat? I’d truly value your advice.
 
-### Christina Clark (193자)
-Hi Christina, I’m Julie, an HBS RC, ex-SK Telecom marketing & AI product. Your path from Express intern to Senior PM resonates. I’m pursuing Adobe’s MBA PM internship. Could we chat for 15 min?
+### Christina Clark (279자)
+Hi Christina, I’m Julie, an HBS RC, previously in marketing and AI product at SK Telecom. Your path from Adobe Express PM intern to Senior PM after Haas resonates with me. I’m pursuing Adobe’s MBA PM internship. Could we connect for a 15-minute chat? I’d truly value your advice.
