@@ -11,6 +11,12 @@
 | Rishi | — | 이력서 보냄 (10/5) | — | 피드백 기다리는 중 | |
 | Tanvi | — | 이력서 피드백 받음 (10/5) | — | 수정 반영 | |
 | McKenzie Jones | Google | 일정 변경 확정 (qhektndus95 계정 메일) | 10/14 (수) 4:00–4:30pm ET | 캘린더 초대 미발송 — Julie 결정 대기 | jonesmckenzie@google.com |
+| Kabir Gandhi | Apollo | 확정 (캘린더 있음) | 10/8 (목) 3:30–4pm ET | 감사 메일 | |
+| Tomi Aluko | — | 완료 | 10/7 (수) 7:30pm | 감사 메일 | |
+| Carrie Goodrich | Amazon (Sr TPM) | 팀에 추천 전달 완료 (10/7) | — | 감사 답장 보냄 | |
+| Anne Marie Checcone | HBS CPD | 이력서 세션 제안 (10/7) | — | 답장 초안 작성됨 (10/8) — 시간 잡고 수정 가능한 파일 보내기 | |
+| Martha Tassinari | HBS ('94) | 이력서 검토 중 | — | 1–2일 내 피드백 (Google 지원 전) | |
+| Jeff Bussgang | Flybridge / HBS | 오피스아워 대기 | — | 비서 Laura가 일정 연락 예정 | |
 | 동욱 (irakim0839) | — | 일정 재조율 | 10/9 (금) 10:00pm EDT 제안 | 확정 답장 초안 작성됨 (10/4) | 10/2 일정은 Julie 사정으로 취소, Meet: meet.google.com/ikg-brdn-omu |
 
 ## 다가오는 리크루팅 이벤트
@@ -18,6 +24,11 @@
 - 10/6 (화) 2:30pm Google MBA Alumni Panel for Interns — Aldrich 112
 - 10/6 (화) 4:10pm Google Coffee Chats — Spangler 087
 - 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
+
+## 10/8 브리핑
+- CPD 헤드샷 11/9 대기 1번 (10/13은 188번)
+- Morgan Stanley Asia IB Summer Associate 지원 오픈
+- 예약 발송 확인됨: Rishi·Chris·Tanvi·Raghav에게 수정 이력서 (10/8)
 
 ## 10/7 브리핑
 - [ ] **Startup Bootcamp 2027 합격 (Credit Coach 팀) — 팀 리드가 10/7 11:59pm까지 확인폼 제출** https://forms.cloud.microsoft/r/JpGAfksA5a · 필수 대면: 11/1 워크숍, 11/19 디너, 1/16–1/22
