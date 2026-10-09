@@ -11,19 +11,27 @@
 | Rishi | — | 이력서 보냄 (10/5) | — | 피드백 기다리는 중 | |
 | Tanvi | — | 이력서 피드백 받음 (10/5) | — | 수정 반영 | |
 | McKenzie Jones | Google | 일정 변경 확정 (qhektndus95 계정 메일) | 10/14 (수) 4:00–4:30pm ET | 캘린더 초대 미발송 — Julie 결정 대기 | jonesmckenzie@google.com |
-| Kabir Gandhi | Apollo | 확정 (캘린더 있음) | 10/8 (목) 3:30–4pm ET | 감사 메일 | |
+| Kabir Gandhi | Apollo | Kabir 요청으로 변경 확정 (캘린더 수정됨) | **10/12 (월) 6:00–6:30pm ET** | 감사 메일 | 10/8 3:30 → Kabir 사정으로 연기 |
 | Tomi Aluko | — | 완료 | 10/7 (수) 7:30pm | 감사 메일 | |
 | Carrie Goodrich | Amazon (Sr TPM) | 팀에 추천 전달 완료 (10/7) | — | 감사 답장 보냄 | |
 | Anne Marie Checcone | HBS CPD | 이력서 세션 제안 (10/7) | — | 답장 초안 작성됨 (10/8) — 시간 잡고 수정 가능한 파일 보내기 | |
-| Martha Tassinari | HBS ('94) | 이력서 검토 중 | — | 1–2일 내 피드백 (Google 지원 전) | |
+| Martha Tassinari | HBS ('94) | 피드백 받음 (10/8, 'MT Edits' docx) | — | 감사 답장 초안 작성됨 (10/9) — 수정 반영 후 Google 지원 | |
 | Jeff Bussgang | Flybridge / HBS | 오피스아워 대기 | — | 비서 Laura가 일정 연락 예정 | |
-| 동욱 (irakim0839) | — | 일정 재조율 | 10/9 (금) 10:00pm EDT 제안 | 확정 답장 초안 작성됨 (10/4) | 10/2 일정은 Julie 사정으로 취소, Meet: meet.google.com/ikg-brdn-omu |
+| 동욱 (irakim0839) | — | 일정 재조율 — **10/3부터 답장 대기 중** | ~~10/9 (금) 10pm~~ 리트릿과 겹침 | 기존 초안(10/9) 보내지 말 것 — 새 날짜로 수정 필요 | 10/2 일정은 Julie 사정으로 취소, Meet: meet.google.com/ikg-brdn-omu |
 
 ## 다가오는 리크루팅 이벤트
 - 10/5 (월) 5:30–7pm McKinsey + HBS RC Recruiting Kickoff — Winthrop Center 20F (등록함)
 - 10/6 (화) 2:30pm Google MBA Alumni Panel for Interns — Aldrich 112
 - 10/6 (화) 4:10pm Google Coffee Chats — Spangler 087
 - 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
+
+## 10/9 브리핑
+- **Section G 리트릿 10/9–10/11 (Killington, VT)** — 4:30pm Highline Lodge 집합, Birch Ridge Inn 6번 방. Kevin Michels에게 식비 Venmo/Zelle ($125 / 술 안 마시면 $105)
+- [ ] 오늘 마감: Section G Norms 피드백, IFC 관심 설문
+- [ ] OSS 이동 카트 반납 (또는 연장 필요 시 회신)
+- FIN1 퀴즈 0점 건: 답이 저장 안 된 것으로 확인 → 재응시 기회 받음(10/8 밤 마감), Canvas에 10/8 재채점 기록 있음
+- PM Interview SIP: Sara Torti와 통화, 등록 관련 의사 회신 요청받음 (10/8 답장함)
+- 등록됨: Meet Market Harvard x MIT 10/22 8:30pm
 
 ## 10/8 브리핑
 - CPD 헤드샷 11/9 대기 1번 (10/13은 188번)
