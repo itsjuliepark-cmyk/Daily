@@ -15,8 +15,10 @@
 | Tomi Aluko | — | 완료 | 10/7 (수) 7:30pm | 감사 메일 | |
 | Carrie Goodrich | Amazon (Sr TPM) | 팀에 추천 전달 완료 (10/7) | — | 감사 답장 보냄 | |
 | Anne Marie Checcone | HBS CPD | 이력서 세션 제안 (10/7) | — | 답장 초안 작성됨 (10/8) — 시간 잡고 수정 가능한 파일 보내기 | |
-| Martha Tassinari | HBS ('94) | 피드백 받음 (10/8, 'MT Edits' docx) | — | 감사 답장 초안 작성됨 (10/9) — 수정 반영 후 Google 지원 | |
+| Martha Tassinari | HBS ('94) | 2차 피드백 받음 (10/9, 'v13 MT Feedback' docx — 기여도 명확화 코멘트 + 여백/서식 제안) | — | 감사 답장 초안 업데이트됨 (10/10) — 반영 후 Google 지원 | 1차 10/8 'MT Edits' |
 | Jeff Bussgang | Flybridge / HBS | 오피스아워 대기 | — | 비서 Laura가 일정 연락 예정 | |
+| Manny Sahota | Microsoft | 확정 (Manny 수락, 캘린더 있음) | 11/3 (화) 3:30–4pm ET, Meet | — | 'Check-in' |
+| Sara Torti | HBS (PM Interview SIP) | 통화 완료 (10/8) | 10월 마지막 주 | Julie가 다시 연락하기로 함 | 캠퍼스 방문 때 만나자고 함 |
 | 동욱 (irakim0839) | — | 일정 재조율 — **10/3부터 답장 대기 중** | ~~10/9 (금) 10pm~~ 리트릿과 겹침 | 기존 초안(10/9) 보내지 말 것 — 새 날짜로 수정 필요 | 10/2 일정은 Julie 사정으로 취소, Meet: meet.google.com/ikg-brdn-omu |
 
 ## 다가오는 리크루팅 이벤트
@@ -24,6 +26,14 @@
 - 10/6 (화) 2:30pm Google MBA Alumni Panel for Interns — Aldrich 112
 - 10/6 (화) 4:10pm Google Coffee Chats — Spangler 087
 - 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
+
+## 10/10 브리핑
+- FIN1 퀴즈 건 해결 — Desai 교수 "Delighted it all worked out!"
+- [ ] 10/15 FRC Costco 케이스: 평소보다 준비 많이 필요 (주말에 미리)
+- [ ] (선택) An Evening with the Sharks 피칭 지원 10/10 11:59pm 마감 — Credit Coach 팀?
+- AI Club 해커톤 hold the date (RSVP 요청, $10K+ 상금)
+- Adobe PM/PMM 지원서 미제출 리마인더 계속 옴
+- GitHub 새 기기(iPhone Chrome) 로그인 인증 요청 10/9 5:24pm — 본인 아니면 비밀번호 변경
 
 ## 10/9 브리핑
 - **Section G 리트릿 10/9–10/11 (Killington, VT)** — 4:30pm Highline Lodge 집합, Birch Ridge Inn 6번 방. Kevin Michels에게 식비 Venmo/Zelle ($125 / 술 안 마시면 $105)
