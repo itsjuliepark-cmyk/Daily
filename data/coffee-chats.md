@@ -27,6 +27,11 @@
 - 10/6 (화) 4:10pm Google Coffee Chats — Spangler 087
 - 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
 
+## 10/11 브리핑
+- [ ] 학생 계좌 청구 알림 (10/10): 미납 + 새 청구 → my.harvard.edu > Student > Student Account 확인 (연체 시 수강신청 영향)
+- HarvardKey 잠금 해제 요청 10/11 1:14am — 본인 아니면 HUIT(617-495-7777) 연락
+- AI Club "AI in M&A" 10/15 6pm → 온라인(Teams)으로 변경, Luma에서 등록해야 링크 받음 (캘린더 일정 위치는 아직 'tbd')
+
 ## 10/10 브리핑
 - FIN1 퀴즈 건 해결 — Desai 교수 "Delighted it all worked out!"
 - [ ] 10/15 FRC Costco 케이스: 평소보다 준비 많이 필요 (주말에 미리)
