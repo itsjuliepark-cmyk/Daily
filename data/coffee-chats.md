@@ -17,6 +17,7 @@
 | Anne Marie Checcone | HBS CPD | 이력서 세션 제안 (10/7) | — | 답장 초안 작성됨 (10/8) — 시간 잡고 수정 가능한 파일 보내기 | |
 | Martha Tassinari | HBS ('94) | 2차 피드백 받음 (10/9, 'v13 MT Feedback' docx — 기여도 명확화 코멘트 + 여백/서식 제안) | — | 감사 답장 초안 업데이트됨 (10/10) — 반영 후 Google 지원 | 1차 10/8 'MT Edits' |
 | Jeff Bussgang | Flybridge / HBS | 오피스아워 대기 | — | 비서 Laura가 일정 연락 예정 | |
+| Chris Yoon | — | 이력서 피드백 받음 (10/11) | — | 감사 답장 예약 발송 (10/12 10:31am) | MakinaRocks 섹션에 구체적 성과 추가 등 제안 |
 | Manny Sahota | Microsoft | 확정 (Manny 수락, 캘린더 있음) | 11/3 (화) 3:30–4pm ET, Meet | — | 'Check-in' |
 | Sara Torti | HBS (PM Interview SIP) | 통화 완료 (10/8) | 10월 마지막 주 | Julie가 다시 연락하기로 함 | 캠퍼스 방문 때 만나자고 함 |
 | 동욱 (irakim0839) | — | 일정 재조율 — **10/3부터 답장 대기 중** | ~~10/9 (금) 10pm~~ 리트릿과 겹침 | 기존 초안(10/9) 보내지 말 것 — 새 날짜로 수정 필요 | 10/2 일정은 Julie 사정으로 취소, Meet: meet.google.com/ikg-brdn-omu |
@@ -26,6 +27,12 @@
 - 10/6 (화) 2:30pm Google MBA Alumni Panel for Interns — Aldrich 112
 - 10/6 (화) 4:10pm Google Coffee Chats — Spangler 087
 - 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
+
+## 10/12 브리핑 (Indigenous Peoples' Day 휴일)
+- [ ] **Bain Seoul 'Bridge to APAC' 웨비나 RSVP 오늘(10/12) 마감** — Gmail에 등록 확인 메일 없음
+- 화 10/13: Google Functional Panel (PM at Google) 2:30pm, Google Virtual Coffee Chats 4:10pm — 둘 다 12twenty 온라인, 캘린더엔 없음
+- 수 10/14: Tatte TOM 리뷰 세션 ('night before the TOM midterm' → TOM 중간고사 10/15로 보임), Strategy 퀴즈 리뷰 3:30–5 Aldrich 208, McKenzie 커피챗 4pm, Bain 웨비나 8:30pm
+- 목 10/15: FRC Costco 케이스, AI Club M&A 6pm (온라인, Luma 등록)
 
 ## 10/11 브리핑
 - [ ] 학생 계좌 청구 알림 (10/10): 미납 + 새 청구 → my.harvard.edu > Student > Student Account 확인 (연체 시 수강신청 영향)
