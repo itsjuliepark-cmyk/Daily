@@ -6,18 +6,20 @@
 |---|---|---|---|---|---|
 | Emily Sillari | Google | 완료 | 9/29 (화) | ✅ 감사 답장 보냄 (10/4) | 이력서 리뷰는 어렵고, 인터뷰 잡히면 인터뷰 준비 도와준다고 함 |
 | Ben Horwitz | — | 완료 | 10/2 (금) 1:00pm ET | ✅ 이력서 보냄, 피드백 받음 (10/5) | 이력서 봐줌 |
-| Martin Rubino | Zepo | ❓ 출처 불명 — Julie 확인 필요 | 10/13 (화) 1:30–2pm ET, Meet | 기억 안 나면 무시/취소. 캘린더 미등록 | 9/30 예약 확정 메일 1통뿐, 이전 연락 없음, 스페인(+34) 전화번호 |
+| Martín Rubino | Zepo | Martín이 10/13 1:30 예약 취소 (10/12) — 다음 주로 재예약 요청 | — | 원하면 그의 예약 링크로 다시 잡기: https://calendar.app.google/9Gfvr6nwfj7ZFmH36 | Julie가 9/30에 직접 예약했던 미팅 |
 | Connie Chen | HBS 2015 동문 | 확정 (캘린더 있음) | 10/7 (수) 8:30–9am ET (런던 1:30pm) | 감사 메일 | meet.google.com/bcm-vpki-myv |
 | Rishi | — | 이력서 보냄 (10/5) | — | 피드백 기다리는 중 | |
 | Tanvi | — | 이력서 피드백 받음 (10/5) | — | 수정 반영 | |
 | McKenzie Jones | Google | 일정 변경 확정 (qhektndus95 계정 메일) | 10/14 (수) 4:00–4:30pm ET | 캘린더 초대 미발송 — Julie 결정 대기 | jonesmckenzie@google.com |
-| Kabir Gandhi | Apollo | Kabir 요청으로 변경 확정 (캘린더 수정됨) | **10/12 (월) 6:00–6:30pm ET** | 감사 메일 | 10/8 3:30 → Kabir 사정으로 연기 |
+| Kabir Gandhi | Apollo | **재조율 중** — 10/12 6pm은 Julie 교통체증으로 7pm 제안 → Kabir 불가 | Julie 제안(10/13): 수 9pm 이후 / 목·금 6pm 이후 | Kabir 답장 대기 | 목 6pm이면 AI Club M&A(6–7pm)와 겹침 |
 | Tomi Aluko | — | 완료 | 10/7 (수) 7:30pm | 감사 메일 | |
 | Carrie Goodrich | Amazon (Sr TPM) | 팀에 추천 전달 완료 (10/7) | — | 감사 답장 보냄 | |
-| Anne Marie Checcone | HBS CPD | 이력서 세션 제안 (10/7) | — | 답장 초안 작성됨 (10/8) — 시간 잡고 수정 가능한 파일 보내기 | |
+| Anne Marie Checcone | HBS CPD | 이력서 세션 — Anne Marie가 금 10/16 4pm ET 제안 (10/12) | 10/16 (금) 4pm 제안 | 수락 답장 초안 작성 (10/13), 확정되면 12Twenty로 잡아줌 | 10/8 초안은 이제 안 써도 됨 |
 | Martha Tassinari | HBS ('94) | 2차 피드백 받음 (10/9, 'v13 MT Feedback' docx — 기여도 명확화 코멘트 + 여백/서식 제안) | — | 감사 답장 초안 업데이트됨 (10/10) — 반영 후 Google 지원 | 1차 10/8 'MT Edits' |
 | Jeff Bussgang | Flybridge / HBS | 오피스아워 대기 | — | 비서 Laura가 일정 연락 예정 | |
-| Chris Yoon | — | 이력서 피드백 받음 (10/11) | — | 감사 답장 예약 발송 (10/12 10:31am) | MakinaRocks 섹션에 구체적 성과 추가 등 제안 |
+| Chris Yoon | — | 피드백 반영본 OK ('This looks great!') + **추천해주기로 함** | — | 감사 답장 예약 (10/13 10am) | MakinaRocks 섹션 성과 추가 등 |
+| Jason Lee | Google | Google 추천 초대 → Julie 수락 (10/13) | — | **학교 메일(spark@)로 초대 링크 통해 11/12까지 최대 3개 지원** | |
+| Kay Sin | Adobe | Adobe 2027 MBA PM 인턴 추천 (10/12) | — | ✅ 지원 완료 (10/13) | |
 | Manny Sahota | Microsoft | 확정 (Manny 수락, 캘린더 있음) | 11/3 (화) 3:30–4pm ET, Meet | — | 'Check-in' |
 | Sara Torti | HBS (PM Interview SIP) | 통화 완료 (10/8) | 10월 마지막 주 | Julie가 다시 연락하기로 함 | 캠퍼스 방문 때 만나자고 함 |
 | 동욱 (irakim0839) | — | 일정 재조율 — **10/3부터 답장 대기 중** | ~~10/9 (금) 10pm~~ 리트릿과 겹침 | 기존 초안(10/9) 보내지 말 것 — 새 날짜로 수정 필요 | 10/2 일정은 Julie 사정으로 취소, Meet: meet.google.com/ikg-brdn-omu |
@@ -27,6 +29,13 @@
 - 10/6 (화) 2:30pm Google MBA Alumni Panel for Interns — Aldrich 112
 - 10/6 (화) 4:10pm Google Coffee Chats — Spangler 087
 - 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
+
+## 10/13 브리핑
+- ⚠️ 10/12 7:54pm Google MBAinternship@google.com 으로 보낸 "Question About Multiple Referrals - Google MBA Internship 2027" 메일 **반송됨** (외부 발송 불가 그룹) → Jason Lee나 Google 캠퍼스 리크루터에게 직접 문의 필요
+- ✅ Adobe 2027 MBA Intern – Product Manager (R172261) 지원 완료, Adobe 지원자 계정 이메일 인증 메일 옴
+- Cathy Hutchinson (CPD) 휴가 중 자동응답 — 'Big Tech & AI Recruiting Contacts' 문의 답장 지연
+- 오늘(화): Google PM 패널 2:30, Physical AI in the Research Lab 3:30–4:30 Hawes Hall (Luma 등록됨), Google 버추얼 커피챗 4:10 — 3:30 행사와 4:10 커피챗 시간 겹침
+- 윤식 MyTake 초대 (Korean 친구들), SA MyTakes National Coming Out Day (수, Spangler 051)
 
 ## 10/12 브리핑 (Indigenous Peoples' Day 휴일)
 - [ ] **Bain Seoul 'Bridge to APAC' 웨비나 RSVP 오늘(10/12) 마감** — Gmail에 등록 확인 메일 없음
