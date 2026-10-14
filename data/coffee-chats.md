@@ -10,14 +10,14 @@
 | Connie Chen | HBS 2015 동문 | 확정 (캘린더 있음) | 10/7 (수) 8:30–9am ET (런던 1:30pm) | 감사 메일 | meet.google.com/bcm-vpki-myv |
 | Rishi | — | 이력서 보냄 (10/5) | — | 피드백 기다리는 중 | |
 | Tanvi | — | 이력서 피드백 받음 (10/5) | — | 수정 반영 | |
-| McKenzie Jones | Google | 일정 변경 확정 (qhektndus95 계정 메일) | 10/14 (수) 4:00–4:30pm ET | 캘린더 초대 미발송 — Julie 결정 대기 | jonesmckenzie@google.com |
-| Kabir Gandhi | Apollo | **재조율 중** — 10/12 6pm은 Julie 교통체증으로 7pm 제안 → Kabir 불가 | Julie 제안(10/13): 수 9pm 이후 / 목·금 6pm 이후 | Kabir 답장 대기 | 목 6pm이면 AI Club M&A(6–7pm)와 겹침 |
+| McKenzie Jones | Google | 확정 — Julie가 캘린더 초대 보냄 (10/13, McKenzie 응답 대기) | 10/14 (수) 4:00–4:30pm ET, meet.google.com/hkz-fyfr-kwn | 감사 메일 | jonesmckenzie@google.com |
+| Kabir Gandhi | Apollo | **재조율 중** — 10/12 6pm은 Julie 교통체증으로 7pm 제안 → Kabir 불가 | Julie 제안(10/13): 수 9pm 이후 / 목·금 6pm 이후 | Kabir 답장 대기 (10/14 아침까지 답 없음) | 목 6pm이면 AI Club M&A(6–7pm)와 겹침 · ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
 | Tomi Aluko | — | 완료 | 10/7 (수) 7:30pm | 감사 메일 | |
 | Carrie Goodrich | Amazon (Sr TPM) | 팀에 추천 전달 완료 (10/7) | — | 감사 답장 보냄 | |
 | Anne Marie Checcone | HBS CPD | 이력서 세션 — Anne Marie가 금 10/16 4pm ET 제안 (10/12) | 10/16 (금) 4pm 제안 | 수락 답장 초안 작성 (10/13), 확정되면 12Twenty로 잡아줌 | 10/8 초안은 이제 안 써도 됨 |
 | Martha Tassinari | HBS ('94) | 2차 피드백 받음 (10/9, 'v13 MT Feedback' docx — 기여도 명확화 코멘트 + 여백/서식 제안) | — | 감사 답장 초안 업데이트됨 (10/10) — 반영 후 Google 지원 | 1차 10/8 'MT Edits' |
 | Jeff Bussgang | Flybridge / HBS | 오피스아워 대기 | — | 비서 Laura가 일정 연락 예정 | |
-| Chris Yoon | — | 피드백 반영본 OK ('This looks great!') + **추천해주기로 함** | — | 감사 답장 예약 (10/13 10am) | MakinaRocks 섹션 성과 추가 등 |
+| Chris Yoon | Google | Google 추천 초대 → Julie 수락 (10/13) — 두 번째 Google 추천 | — | ✅ 감사 답장 보냄 (10/13) · **spark@로 초대 링크 통해 30일 안(~11/12) 최대 3개 지원** | 이력서 피드백 반영본 OK ('This looks great!') |
 | Jason Lee | Google | Google 추천 초대 → Julie 수락 (10/13) | — | **학교 메일(spark@)로 초대 링크 통해 11/12까지 최대 3개 지원** | |
 | Kay Sin | Adobe | Adobe 2027 MBA PM 인턴 추천 (10/12) | — | ✅ 지원 완료 (10/13) | |
 | Manny Sahota | Microsoft | 확정 (Manny 수락, 캘린더 있음) | 11/3 (화) 3:30–4pm ET, Meet | — | 'Check-in' |
@@ -29,6 +29,20 @@
 - 10/6 (화) 2:30pm Google MBA Alumni Panel for Interns — Aldrich 112
 - 10/6 (화) 4:10pm Google Coffee Chats — Spangler 087
 - 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
+
+## 10/14 브리핑
+- 🔴 입학처 Katya Gonzalez-Willette: HBS/GSB 듀얼 어드밋 연결 그룹 참여 요청 (원래 10/9 마감, 10/13 리마인드) — 1) 최대 10명 / 2) 2–4명, 총 ~2시간 / 3) 올해는 불가 중 회신. 학교 메일이라 Outlook에서 답장 권장
+- ✅ Chris Yoon Google 추천 초대 수락 (10/13) — 30일 안에 최대 3개, 초대 받은 spark@ 주소로 초대 링크 통해 지원 (Jason Lee 초대와 별개)
+- Intuit PM 인턴 지원 접수 확인 메일
+- [ ] 금 10/16 11:59pm FIN1 Exercise 2 (Canvas) — Tottenham 자료 업데이트됨
+- [ ] 금 10/16 WesTrek 2027 관심 설문 (5분): https://forms.gle/HwS4dznwrVGtGQXn9
+- [ ] 택배 도착: Rock Center Locker 1
+- 기숙사 렌트 답장 (Elina Davis): 방 타입 차액 $66, 이사일부터 학기말까지 일할 계산한 $26.05가 학생 계좌에 청구됨
+- Cathy Hutchinson (CPD) 복귀 — Julie 문의 확인 중이라고 답장
+- TOM 중간 퀴즈 리뷰 세션 (4A/4B) 안내
+- 오늘(수): McKenzie 4pm (Meet), AI Club Kevin Xo (OpenAI) 5:30–6:30 Aldrich 111, Physical AI Robots 5:30–7 150 Western Ave (Luma RSVP, Kevin Xo와 겹침), Bain Seoul 웨비나 8:30pm (RSVP 했으면), Kabir에게 '수 9pm 이후' 제안해둠
+- 수 10/21 4:30–5:30 AI Club × Liberate AI 파이어사이드 — Hawes 201, HBS 학생 여러 명 채용 예정
+- Rock Center 창업 전문가 상담 수·목 / 기숙사: Chase 게임나이트 금 8:30–11:30pm로 변경, Head of the Charles 브런치, Spanish Culture Night
 
 ## 10/13 브리핑
 - ⚠️ 10/12 7:54pm Google MBAinternship@google.com 으로 보낸 "Question About Multiple Referrals - Google MBA Internship 2027" 메일 **반송됨** (외부 발송 불가 그룹) → Jason Lee나 Google 캠퍼스 리크루터에게 직접 문의 필요
