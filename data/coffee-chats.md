@@ -10,25 +10,41 @@
 | Connie Chen | HBS 2015 동문 | 확정 (캘린더 있음) | 10/7 (수) 8:30–9am ET (런던 1:30pm) | 감사 메일 | meet.google.com/bcm-vpki-myv |
 | Rishi | — | 이력서 보냄 (10/5) | — | 피드백 기다리는 중 | |
 | Tanvi | — | 이력서 피드백 받음 (10/5) | — | 수정 반영 | |
-| McKenzie Jones | Google | 확정 — Julie가 캘린더 초대 보냄 (10/13, McKenzie 응답 대기) | 10/14 (수) 4:00–4:30pm ET, meet.google.com/hkz-fyfr-kwn | 감사 메일 | jonesmckenzie@google.com |
-| Kabir Gandhi | Apollo | **재조율 중** — 10/12 6pm은 Julie 교통체증으로 7pm 제안 → Kabir 불가 | Julie 제안(10/13): 수 9pm 이후 / 목·금 6pm 이후 | Kabir 답장 대기 (10/14 아침까지 답 없음) | 목 6pm이면 AI Club M&A(6–7pm)와 겹침 · ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
+| McKenzie Jones | Google | 완료 (McKenzie 요청으로 5pm으로 변경) | 10/14 (수) 5:00–5:30pm ET | ✅ 감사 메일 보냄 (10/14) — McKenzie 'Please keep in touch!' | jonesmckenzie@google.com |
+| Kabir Gandhi | Apollo | **재조율 중** — 10/12 6pm은 Julie 교통체증으로 7pm 제안 → Kabir 불가 | Julie 제안(10/13): 수 9pm 이후 / 목·금 6pm 이후 | Kabir 답장 대기 (10/15 아침까지 답 없음 — 남은 제안은 목·금 6pm 이후) | 목 6pm이면 AI Club M&A(6–7pm)와 겹침 · ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
 | Tomi Aluko | — | 완료 | 10/7 (수) 7:30pm | 감사 메일 | |
 | Carrie Goodrich | Amazon (Sr TPM) | 팀에 추천 전달 완료 (10/7) | — | 감사 답장 보냄 | |
 | Anne Marie Checcone | HBS CPD | 이력서 세션 — Anne Marie가 금 10/16 4pm ET 제안 (10/12) | 10/16 (금) 4pm 제안 | 수락 답장 초안 작성 (10/13), 확정되면 12Twenty로 잡아줌 | 10/8 초안은 이제 안 써도 됨 |
 | Martha Tassinari | HBS ('94) | 2차 피드백 받음 (10/9, 'v13 MT Feedback' docx — 기여도 명확화 코멘트 + 여백/서식 제안) | — | 감사 답장 초안 업데이트됨 (10/10) — 반영 후 Google 지원 | 1차 10/8 'MT Edits' |
-| Jeff Bussgang | Flybridge / HBS | 오피스아워 대기 | — | 비서 Laura가 일정 연락 예정 | |
-| Chris Yoon | Google | Google 추천 초대 → Julie 수락 (10/13) — 두 번째 Google 추천 | — | ✅ 감사 답장 보냄 (10/13) · **spark@로 초대 링크 통해 30일 안(~11/12) 최대 3개 지원** | 이력서 피드백 반영본 OK ('This looks great!') |
-| Jason Lee | Google | Google 추천 초대 → Julie 수락 (10/13) | — | **학교 메일(spark@)로 초대 링크 통해 11/12까지 최대 3개 지원** | |
+| Jeff Bussgang | Flybridge / HBS | 오피스아워 조율 — Laura가 Zoom 슬롯 제안 (10/14) | 10/23 (금) 10:00 / 10:20 / 10:40 / 11:20 / 11:40 AM 중 | 5개 다 가능하다는 답장 초안 (10/15) — 수업 겹치는 시간은 빼고 보내기 | Laura Whitmer (lwhitmer@hbs.edu) |
+| Chris Yoon | Google | Google 추천 초대 → Julie 수락 (10/13) — 두 번째 Google 추천 | — | ✅ 감사 답장 보냄 (10/13) · ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) | 같은 초대로 ~11/12까지 최대 3개 · 이력서 피드백 반영본 OK |
+| Jason Lee | Google | Google 추천 초대 → Julie 수락 (10/13) | — | ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) | 같은 초대로 11/12까지 최대 3개 |
 | Kay Sin | Adobe | Adobe 2027 MBA PM 인턴 추천 (10/12) | — | ✅ 지원 완료 (10/13) | |
 | Manny Sahota | Microsoft | 확정 (Manny 수락, 캘린더 있음) | 11/3 (화) 3:30–4pm ET, Meet | — | 'Check-in' |
 | Sara Torti | HBS (PM Interview SIP) | 통화 완료 (10/8) | 10월 마지막 주 | Julie가 다시 연락하기로 함 | 캠퍼스 방문 때 만나자고 함 |
 | 동욱 (irakim0839) | — | 일정 재조율 — **10/3부터 답장 대기 중** | ~~10/9 (금) 10pm~~ 리트릿과 겹침 | 기존 초안(10/9) 보내지 말 것 — 새 날짜로 수정 필요 | 10/2 일정은 Julie 사정으로 취소, Meet: meet.google.com/ikg-brdn-omu |
+| Arun Venkatesan | NVIDIA | 추천 요청 보냄 (10/14) — Data Center GPU PM MBA 인턴 공고 열림 | — | Arun 답장 대기 | 공고: https://jobs.nvidia.com/careers/job/893397711858 · 9/27엔 리크루터 Shawn Skoog에게 연락 부탁했었음 |
 
 ## 다가오는 리크루팅 이벤트
 - 10/5 (월) 5:30–7pm McKinsey + HBS RC Recruiting Kickoff — Winthrop Center 20F (등록함)
 - 10/6 (화) 2:30pm Google MBA Alumni Panel for Interns — Aldrich 112
 - 10/6 (화) 4:10pm Google Coffee Chats — Spangler 087
 - 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
+
+## 10/15 브리핑
+- [ ] **오늘 1:50pm TOM 중간 퀴즈** — 평소 Aldrich 강의실, 노트북 완충 (Canvas로 답 입력), 클로즈드북이지만 노트 1장(앞뒤) 허용, 늦어도 시간 연장 없음
+- 🔴 Jeff Bussgang 오피스아워 (Laura Whitmer): 10/23 (금) Zoom 10:00 / 10:20 / 10:40 / 11:20 / 11:40 중 가능한 시간 전부 알려달라고 함 → 5개 다 가능하다는 초안 작성 (캘린더엔 그날 오전 일정 없음, 수업 겹치면 빼기 · 학교 메일이라 Outlook 발송 권장)
+- [ ] Anne Marie (CPD) 내일 금 10/16 4pm 이력서 세션 — Gmail 수락 초안이 아직 안 보내진 상태 (Outlook으로 답했는지 확인)
+- ✅ Google 지원 완료 (10/15 새벽) — Chris Yoon·Jason Lee 둘 다 추천인으로 연결됨
+- ✅ Toast MBA Product Manager Intern 지원 완료 (12twenty, 10/14)
+- NVIDIA MBA 인턴 (Data Center GPU PM) 공고 열림 → Arun Venkatesan에게 추천 요청 (10/14)
+- Google 'Campus Outreach General Event' 등록 완료 (메일에 일시 없음)
+- FIN1 중간 참여 피드백 메일 도착 (Desai 교수) — 내용은 메일에서 확인
+- McKenzie 커피챗은 McKenzie 요청으로 5pm으로 바뀌어 완료, 감사 메일 보냄
+- 10/14 낮 Harvard Square 근처 '칼 든 사람' 경보 → 용의자 체포, 대피 해제
+- ⚠️ 10/15 2:16am Google 보안 알림: OpenAI에 Google 계정 데이터 접근 허용됨 — 본인이 연결한 게 아니면 계정 활동 확인
+- 오늘: 6pm AI Club M&A (온라인, Luma 등록해야 링크), Therapy dog 3–5pm Spangler
+- 다가오는 것: 화 10/20 4:30 Jamie Dimon Leader's Forum (Klarman, 티켓은 Eventbrite 앱), 수 10/21 4:30 Liberate AI, 일 10/25 2pm Gallatin 고래 관찰 재도전, Section G International Flag Day
 
 ## 10/14 브리핑
 - 🔴 입학처 Katya Gonzalez-Willette: HBS/GSB 듀얼 어드밋 연결 그룹 참여 요청 (원래 10/9 마감, 10/13 리마인드) — 1) 최대 10명 / 2) 2–4명, 총 ~2시간 / 3) 올해는 불가 중 회신. 학교 메일이라 Outlook에서 답장 권장
