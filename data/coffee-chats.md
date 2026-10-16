@@ -11,12 +11,12 @@
 | Rishi | — | 이력서 보냄 (10/5) | — | 피드백 기다리는 중 | |
 | Tanvi | — | 이력서 피드백 받음 (10/5) | — | 수정 반영 | |
 | McKenzie Jones | Google | 완료 (McKenzie 요청으로 5pm으로 변경) | 10/14 (수) 5:00–5:30pm ET | ✅ 감사 메일 보냄 (10/14) — McKenzie 'Please keep in touch!' | jonesmckenzie@google.com |
-| Kabir Gandhi | Apollo | **재조율 중** — 10/12 6pm은 Julie 교통체증으로 7pm 제안 → Kabir 불가 | Julie 제안(10/13): 수 9pm 이후 / 목·금 6pm 이후 | Kabir 답장 대기 (10/15 아침까지 답 없음 — 남은 제안은 목·금 6pm 이후) | 목 6pm이면 AI Club M&A(6–7pm)와 겹침 · ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
+| Kabir Gandhi | Apollo | **재조율 중** — 10/12 6pm은 Julie 교통체증으로 7pm 제안 → Kabir 불가 | Julie 제안(10/13): 수 9pm 이후 / 목·금 6pm 이후 | Kabir 답장 대기 (10/16 아침까지 답 없음 — 남은 제안은 금 6pm 이후) | 목 6pm이면 AI Club M&A(6–7pm)와 겹침 · ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
 | Tomi Aluko | — | 완료 | 10/7 (수) 7:30pm | 감사 메일 | |
 | Carrie Goodrich | Amazon (Sr TPM) | 팀에 추천 전달 완료 (10/7) | — | 감사 답장 보냄 | |
-| Anne Marie Checcone | HBS CPD | 이력서 세션 — Anne Marie가 금 10/16 4pm ET 제안 (10/12) | 10/16 (금) 4pm 제안 | 수락 답장 초안 작성 (10/13), 확정되면 12Twenty로 잡아줌 | 10/8 초안은 이제 안 써도 됨 |
+| Anne Marie Checcone | HBS CPD | 이력서 세션 — Anne Marie가 금 10/16 4pm ET 제안 (10/12) | 10/16 (금) 4pm 제안 | 수락 답장 초안 작성 (10/13) — 10/16 아침까지 Gmail 초안 그대로, 12Twenty 확정 메일·캘린더 일정 없음 → 4시 전에 확인 | 10/8 초안은 이제 안 써도 됨 |
 | Martha Tassinari | HBS ('94) | 2차 피드백 받음 (10/9, 'v13 MT Feedback' docx — 기여도 명확화 코멘트 + 여백/서식 제안) | — | 감사 답장 초안 업데이트됨 (10/10) — 반영 후 Google 지원 | 1차 10/8 'MT Edits' |
-| Jeff Bussgang | Flybridge / HBS | 오피스아워 조율 — Laura가 Zoom 슬롯 제안 (10/14) | 10/23 (금) 10:00 / 10:20 / 10:40 / 11:20 / 11:40 AM 중 | 5개 다 가능하다는 답장 초안 (10/15) — 수업 겹치는 시간은 빼고 보내기 | Laura Whitmer (lwhitmer@hbs.edu) |
+| Jeff Bussgang | Flybridge / HBS | 오피스아워 조율 — 10/15 Laura: **2자리만 남음, 먼저 답하는 사람 배정** (나머지는 대기자) | 10/23 (금) 10:00 / 10:20 AM | 두 시간 다 가능하다는 답장 초안으로 수정 (10/16) — 바로 보내기 | Laura Whitmer (lwhitmer@hbs.edu) |
 | Chris Yoon | Google | Google 추천 초대 → Julie 수락 (10/13) — 두 번째 Google 추천 | — | ✅ 감사 답장 보냄 (10/13) · ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) | 같은 초대로 ~11/12까지 최대 3개 · 이력서 피드백 반영본 OK |
 | Jason Lee | Google | Google 추천 초대 → Julie 수락 (10/13) | — | ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) | 같은 초대로 11/12까지 최대 3개 |
 | Kay Sin | Adobe | Adobe 2027 MBA PM 인턴 추천 (10/12) | — | ✅ 지원 완료 (10/13) | |
@@ -24,12 +24,28 @@
 | Sara Torti | HBS (PM Interview SIP) | 통화 완료 (10/8) | 10월 마지막 주 | Julie가 다시 연락하기로 함 | 캠퍼스 방문 때 만나자고 함 |
 | 동욱 (irakim0839) | — | 일정 재조율 — **10/3부터 답장 대기 중** | ~~10/9 (금) 10pm~~ 리트릿과 겹침 | 기존 초안(10/9) 보내지 말 것 — 새 날짜로 수정 필요 | 10/2 일정은 Julie 사정으로 취소, Meet: meet.google.com/ikg-brdn-omu |
 | Arun Venkatesan | NVIDIA | 추천 요청 보냄 (10/14) — Data Center GPU PM MBA 인턴 공고 열림 | — | Arun 답장 대기 | 공고: https://jobs.nvidia.com/careers/job/893397711858 · 9/27엔 리크루터 Shawn Skoog에게 연락 부탁했었음 |
+| Lokesh Batra | NVIDIA | 추천 요청 보냄 (10/15 밤) — 같은 Data Center GPU PM MBA 인턴 (JR2025670), 추천 문구 초안·이력서 첨부 | — | Lokesh 답장 대기 | lbatra@nvidia.com · 9/27엔 리크루터 Shawn Skoog에게 이력서 전달 부탁했었음 |
 
 ## 다가오는 리크루팅 이벤트
 - 10/5 (월) 5:30–7pm McKinsey + HBS RC Recruiting Kickoff — Winthrop Center 20F (등록함)
 - 10/6 (화) 2:30pm Google MBA Alumni Panel for Interns — Aldrich 112
 - 10/6 (화) 4:10pm Google Coffee Chats — Spangler 087
 - 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
+
+## 10/16 브리핑
+- 🔴 Jeff Bussgang 오피스아워: 10/15 Laura가 "10/23 10:00·10:20 두 자리만 남음, 먼저 답하는 사람 배정" → 어제 초안을 두 시간 다 가능하다는 내용으로 수정 (학교 메일이라 Outlook으로 보내도 됨)
+- [ ] **오늘 4pm Anne Marie (CPD) 이력서 세션** — Gmail 수락 초안 그대로, 12Twenty 확정 메일·캘린더 일정 없음 → 확정됐는지 확인
+- [ ] **오늘 WesTrek 2027 관심 설문 마감**: https://forms.gle/HwS4dznwrVGtGQXn9
+- ✅ FIN1 Online Exercise 2 제출·채점 완료 (10/15)
+- [ ] **월 10/19 1:50–2:50pm Strategy 중간 퀴즈** — 평소 강의실, 노트북·충전기, Canvas 객관식 7문제, 오픈북·오픈노트 (Canvas 외 인터넷·AI 금지). 범위: 산업 매력도·경쟁우위·경쟁 상호작용 (crafting strategy 제외) → 연습문제·모듈 요약 복습
+- [ ] 택배 또 도착: Rock Center Basement Locker 1 (10/15)
+- NVIDIA Data Center GPU PM 인턴: Lokesh Batra에게도 추천 요청 (10/15 밤)
+- ⭐ Jane Street Strategy & Product 해피아워 수 10/28 5:30–7pm Cambridge — 월 10/26까지 관심 폼: https://docs.google.com/forms/d/e/1FAIpQLSen5r2i-6dpW6IKO5LXGHF7bH-GT6nN6jZMJWy8s13KX3nSGQ/viewform
+- AI Club: M&A 세션 슬라이드 공유됨 · 'From Bits to Bots' Physical AI & 중국 하드웨어 생태계 살롱 일 10/18 MIT
+- WSA 동문 멘토십 매칭 메일 곧 발송 예정 (신청했다면 확인)
+- 기숙사: 오늘부터 난방 모드 (68–73°F, 개인 히터 금지) · 10/19–10/23 9시 이후 외벽 담쟁이 정리 (사다리 작업, 블라인드 권장)
+- 기타: HBS NVC 킥오프 등록 (1주 후), AABA x Bodyrok 클래스 초대
+- Google 'eightfold.ai에 Google 계정으로 로그인' 알림 (10/15 12:37pm) — NVIDIA 지원 포털로 보임, 본인이면 무시
 
 ## 10/15 브리핑
 - [ ] **오늘 1:50pm TOM 중간 퀴즈** — 평소 Aldrich 강의실, 노트북 완충 (Canvas로 답 입력), 클로즈드북이지만 노트 1장(앞뒤) 허용, 늦어도 시간 연장 없음
