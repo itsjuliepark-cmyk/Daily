@@ -11,26 +11,40 @@
 | Rishi | — | 이력서 보냄 (10/5) | — | 피드백 기다리는 중 | |
 | Tanvi | — | 이력서 피드백 받음 (10/5) | — | 수정 반영 | |
 | McKenzie Jones | Google | 완료 (McKenzie 요청으로 5pm으로 변경) | 10/14 (수) 5:00–5:30pm ET | ✅ 감사 메일 보냄 (10/14) — McKenzie 'Please keep in touch!' | jonesmckenzie@google.com |
-| Kabir Gandhi | Apollo | **재조율 중** — 10/12 6pm은 Julie 교통체증으로 7pm 제안 → Kabir 불가 | Julie 제안(10/13): 수 9pm 이후 / 목·금 6pm 이후 | Kabir 답장 대기 (10/16 아침까지 답 없음 — 남은 제안은 금 6pm 이후) | 목 6pm이면 AI Club M&A(6–7pm)와 겹침 · ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
+| Kabir Gandhi | Apollo | **재조율 중** — 10/12 6pm은 Julie 교통체증으로 7pm 제안 → Kabir 불가 | Julie 제안(10/13): 수 9pm 이후 / 목·금 6pm 이후 | Kabir 답장 대기 (10/17 아침까지 답 없음 — 제안했던 시간 다 지남, 새 시간 제안 필요할 수도) | 목 6pm이면 AI Club M&A(6–7pm)와 겹침 · ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
 | Tomi Aluko | — | 완료 | 10/7 (수) 7:30pm | 감사 메일 | |
 | Carrie Goodrich | Amazon (Sr TPM) | 팀에 추천 전달 완료 (10/7) | — | 감사 답장 보냄 | |
-| Anne Marie Checcone | HBS CPD | 이력서 세션 — Anne Marie가 금 10/16 4pm ET 제안 (10/12) | 10/16 (금) 4pm 제안 | 수락 답장 초안 작성 (10/13) — 10/16 아침까지 Gmail 초안 그대로, 12Twenty 확정 메일·캘린더 일정 없음 → 4시 전에 확인 | 10/8 초안은 이제 안 써도 됨 |
+| Anne Marie Checcone | HBS CPD | 이력서 세션 — Anne Marie가 금 10/16 4pm ET 제안 (10/12) | 10/16 (금) 4pm 제안 | 수락 답장 초안 작성 (10/13) — Gmail 초안은 끝까지 안 보내짐, 10/16 4pm 세션 진행 여부는 메일로 확인 안 됨 | 10/8 초안은 이제 안 써도 됨 |
 | Martha Tassinari | HBS ('94) | 2차 피드백 받음 (10/9, 'v13 MT Feedback' docx — 기여도 명확화 코멘트 + 여백/서식 제안) | — | 감사 답장 초안 업데이트됨 (10/10) — 반영 후 Google 지원 | 1차 10/8 'MT Edits' |
-| Jeff Bussgang | Flybridge / HBS | 오피스아워 조율 — 10/15 Laura: **2자리만 남음, 먼저 답하는 사람 배정** (나머지는 대기자) | 10/23 (금) 10:00 / 10:20 AM | 두 시간 다 가능하다는 답장 초안으로 수정 (10/16) — 바로 보내기 | Laura Whitmer (lwhitmer@hbs.edu) |
+| Jeff Bussgang | Flybridge / HBS | 오피스아워 조율 — 10/15 Laura: **2자리만 남음, 먼저 답하는 사람 배정** (나머지는 대기자) | 10/23 (금) 10:00 / 10:20 AM | 두 시간 다 가능하다는 답장 초안으로 수정 (10/16) — 10/17 아침까지 Gmail 초안 그대로 (Outlook으로 보냈는지 확인) | Laura Whitmer (lwhitmer@hbs.edu) |
 | Chris Yoon | Google | Google 추천 초대 → Julie 수락 (10/13) — 두 번째 Google 추천 | — | ✅ 감사 답장 보냄 (10/13) · ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) | 같은 초대로 ~11/12까지 최대 3개 · 이력서 피드백 반영본 OK |
 | Jason Lee | Google | Google 추천 초대 → Julie 수락 (10/13) | — | ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) | 같은 초대로 11/12까지 최대 3개 |
 | Kay Sin | Adobe | Adobe 2027 MBA PM 인턴 추천 (10/12) | — | ✅ 지원 완료 (10/13) | |
 | Manny Sahota | Microsoft | 확정 (Manny 수락, 캘린더 있음) | 11/3 (화) 3:30–4pm ET, Meet | — | 'Check-in' |
 | Sara Torti | HBS (PM Interview SIP) | 통화 완료 (10/8) | 10월 마지막 주 | Julie가 다시 연락하기로 함 | 캠퍼스 방문 때 만나자고 함 |
 | 동욱 (irakim0839) | — | 일정 재조율 — **10/3부터 답장 대기 중** | ~~10/9 (금) 10pm~~ 리트릿과 겹침 | 기존 초안(10/9) 보내지 말 것 — 새 날짜로 수정 필요 | 10/2 일정은 Julie 사정으로 취소, Meet: meet.google.com/ikg-brdn-omu |
-| Arun Venkatesan | NVIDIA | 추천 요청 보냄 (10/14) — Data Center GPU PM MBA 인턴 공고 열림 | — | Arun 답장 대기 | 공고: https://jobs.nvidia.com/careers/job/893397711858 · 9/27엔 리크루터 Shawn Skoog에게 연락 부탁했었음 |
-| Lokesh Batra | NVIDIA | 추천 요청 보냄 (10/15 밤) — 같은 Data Center GPU PM MBA 인턴 (JR2025670), 추천 문구 초안·이력서 첨부 | — | Lokesh 답장 대기 | lbatra@nvidia.com · 9/27엔 리크루터 Shawn Skoog에게 이력서 전달 부탁했었음 |
+| Arun Venkatesan | NVIDIA | 추천 요청 보냄 (10/14) — Data Center GPU PM MBA 인턴 공고 열림 | — | NVIDIA 추천 메일 2건 도착 (10/16) — 누가 보냈는지는 메일에 없음 | 공고: https://jobs.nvidia.com/careers/job/893397711858 · 9/27엔 리크루터 Shawn Skoog에게 연락 부탁했었음 |
+| Lokesh Batra | NVIDIA | 추천 요청 보냄 (10/15 밤) — 같은 Data Center GPU PM MBA 인턴 (JR2025670), 추천 문구 초안·이력서 첨부 | — | NVIDIA 추천 메일 2건 도착 (10/16) — 누가 보냈는지는 메일에 없음 | lbatra@nvidia.com · 9/27엔 리크루터 Shawn Skoog에게 이력서 전달 부탁했었음 |
+| 재형 (jaehyoungc) | NVIDIA (GPU demand planning) | 추천 요청 (10/16) — Laptop PM 인턴 JR2025905 + GPU Data Center PM 인턴 JR2025670, 추천 코멘트 초안 전달 | — | 재형 추천 대기 — 추천 메일은 qhektndus95@gmail.com으로 갈 수 있음 (봇이 못 보는 계정) | 9/28엔 Shawn Skoog에게 전달 부탁했었음 |
 
 ## 다가오는 리크루팅 이벤트
 - 10/5 (월) 5:30–7pm McKinsey + HBS RC Recruiting Kickoff — Winthrop Center 20F (등록함)
 - 10/6 (화) 2:30pm Google MBA Alumni Panel for Interns — Aldrich 112
 - 10/6 (화) 4:10pm Google Coffee Chats — Spangler 087
 - 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
+
+## 10/17 브리핑
+- 🔴 Harvard Korea Society 와인 나잇: 구글폼은 닫혔지만 Venmo 입금 후 국문/영문 이름·학교·세부 분야·이메일 보내면 처리해준다고 함 (10/16) → 회신 초안 작성 (세부 분야는 'MBA (AI·테크)'로 적어둠 · **Venmo 먼저 보내고 발송**)
+- [ ] **NVIDIA 추천 2건 도착 (10/16)** — Product Management MBA Intern, Data Center GPU (JR2025670). 메일 속 링크로 각각 지원서를 완료해야 추천이 확정됨 (spark@으로 1건, gmail로 1건)
+- [ ] **Amazon MBA 온라인 평가** — 10/16 저녁 메일, 1주 안에 (~10/23) 완료, 최소 2시간 필요, 메일 속 개인 링크로 시작 (준비 가이드 먼저 보기)
+- NVIDIA 재형에게 Laptop PM (JR2025905) + GPU Data Center PM (JR2025670) 추천 요청 (10/16)
+- ✅ Duolingo Product Manager MBA Intern 지원 완료 (10/17)
+- [ ] 월 10/19 1:50 Strategy 중간 퀴즈 · Disney (A)·Baskin-Robbins Japan 케이스 실물은 Spangler 배부처에서 수령
+- [ ] 10/23 LEAD 수업 전 '12 Angry Men' 전체 시청 (Canvas 링크) — 섹션 상영은 월 10/19 8–10pm Aldrich 008 (선택)
+- [ ] Gallatin 323 주방 냉장고 월 10/19 교체 — 쓰고 있으면 월 8am 전에 물건 옮기기
+- FIN1 Module 2 화 10/20 시작 · FRC 7주차 wrap 슬라이드 Canvas에 올라옴
+- McKinsey: Solve 게임 10/16 권장 기한 지남 — 했는지 확인 · 10/21 McKinsey: Explained, 10/22 Affinity Mixer (등록 필요)
+- 기타: Rock Center 창업자 법률 워크숍 2회, LEGO Q&A (Moynihan 교수) 목 11/5 3:30 Aldrich 107
 
 ## 10/16 브리핑
 - 🔴 Jeff Bussgang 오피스아워: 10/15 Laura가 "10/23 10:00·10:20 두 자리만 남음, 먼저 답하는 사람 배정" → 어제 초안을 두 시간 다 가능하다는 내용으로 수정 (학교 메일이라 Outlook으로 보내도 됨)
