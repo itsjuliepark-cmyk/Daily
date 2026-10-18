@@ -11,7 +11,7 @@
 | Rishi | — | 이력서 보냄 (10/5) | — | 피드백 기다리는 중 | |
 | Tanvi | — | 이력서 피드백 받음 (10/5) | — | 수정 반영 | |
 | McKenzie Jones | Google | 완료 (McKenzie 요청으로 5pm으로 변경) | 10/14 (수) 5:00–5:30pm ET | ✅ 감사 메일 보냄 (10/14) — McKenzie 'Please keep in touch!' | jonesmckenzie@google.com |
-| Kabir Gandhi | Apollo | **재조율 중** — 10/12 6pm은 Julie 교통체증으로 7pm 제안 → Kabir 불가 | Julie 제안(10/13): 수 9pm 이후 / 목·금 6pm 이후 | Kabir 답장 대기 (10/17 아침까지 답 없음 — 제안했던 시간 다 지남, 새 시간 제안 필요할 수도) | 목 6pm이면 AI Club M&A(6–7pm)와 겹침 · ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
+| Kabir Gandhi | Apollo | **재조율 중** — 10/13 제안엔 답 없음 → Julie가 10/17 밤 새 시간 제안 | 수 10/21 3:30–4 / 목 10/22 5–5:30 / 금 10/23 1pm 이후 (ET) | Kabir 답장 대기 | 금 10/23 오전엔 Bussgang 오피스아워 가능성 · ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
 | Tomi Aluko | — | 완료 | 10/7 (수) 7:30pm | 감사 메일 | |
 | Carrie Goodrich | Amazon (Sr TPM) | 팀에 추천 전달 완료 (10/7) | — | 감사 답장 보냄 | |
 | Anne Marie Checcone | HBS CPD | 이력서 세션 — Anne Marie가 금 10/16 4pm ET 제안 (10/12) | 10/16 (금) 4pm 제안 | 수락 답장 초안 작성 (10/13) — Gmail 초안은 끝까지 안 보내짐, 10/16 4pm 세션 진행 여부는 메일로 확인 안 됨 | 10/8 초안은 이제 안 써도 됨 |
@@ -32,6 +32,14 @@
 - 10/6 (화) 2:30pm Google MBA Alumni Panel for Interns — Aldrich 112
 - 10/6 (화) 4:10pm Google Coffee Chats — Spangler 087
 - 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
+
+## 10/18 브리핑 (일)
+- ✅ Amazon MBA 온라인 평가 제출 완료 (10/17 저녁)
+- Kabir에게 다음 주 새 시간 제안 보냄 (10/17 밤): 수 10/21 3:30–4 / 목 10/22 5–5:30 / 금 10/23 1pm 이후
+- [ ] NVIDIA 추천 2건 — 메일 속 링크로 지원했는지 확인 (아직 Workday 지원 확인 메일 없음)
+- [ ] 월 10/19: 1:50 Strategy 중간 퀴즈 · Gallatin 323 냉장고 8am 전 비우기 · 8pm 12 Angry Men 섹션 상영 (선택)
+- AI Club 다가오는 행사: 목 10/29 5–6 Kent Bennett (Bessemer) Aldrich 108 · 금 10/30 4–5 Dave Munichiello (GV, 화상) Aldrich 108 · 월 11/2 4–5 Jehan Hamedi (Vizit) Aldrich 011 — 각 메일에 질문 폼
+- 오늘 저녁 8:30 Too Hot 예약 (캘린더에 있음)
 
 ## 10/17 브리핑
 - 🔴 Harvard Korea Society 와인 나잇: 구글폼은 닫혔지만 Venmo 입금 후 국문/영문 이름·학교·세부 분야·이메일 보내면 처리해준다고 함 (10/16) → 회신 초안 작성 (세부 분야는 'MBA (AI·테크)'로 적어둠 · **Venmo 먼저 보내고 발송**)
