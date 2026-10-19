@@ -26,12 +26,23 @@
 | Arun Venkatesan | NVIDIA | 추천 요청 보냄 (10/14) — Data Center GPU PM MBA 인턴 공고 열림 | — | NVIDIA 추천 메일 2건 도착 (10/16) — 누가 보냈는지는 메일에 없음 | 공고: https://jobs.nvidia.com/careers/job/893397711858 · 9/27엔 리크루터 Shawn Skoog에게 연락 부탁했었음 |
 | Lokesh Batra | NVIDIA | 추천 요청 보냄 (10/15 밤) — 같은 Data Center GPU PM MBA 인턴 (JR2025670), 추천 문구 초안·이력서 첨부 | — | NVIDIA 추천 메일 2건 도착 (10/16) — 누가 보냈는지는 메일에 없음 | lbatra@nvidia.com · 9/27엔 리크루터 Shawn Skoog에게 이력서 전달 부탁했었음 |
 | 재형 (jaehyoungc) | NVIDIA (GPU demand planning) | 추천 요청 (10/16) — Laptop PM 인턴 JR2025905 + GPU Data Center PM 인턴 JR2025670, 추천 코멘트 초안 전달 | — | 재형 추천 대기 — 추천 메일은 qhektndus95@gmail.com으로 갈 수 있음 (봇이 못 보는 계정) | 9/28엔 Shawn Skoog에게 전달 부탁했었음 |
+| David (daskaryan@gmail.com) | 창업 후 빅테크 (뉴욕) | 커피챗 요청 보냄 (10/19 새벽) — David가 먼저 연결에 긍정 답 | — | David 답장 대기 (화상 커피챗 제안) | 초기 단계 프로덕트·창업→빅테크 경로 조언 구함 |
 
 ## 다가오는 리크루팅 이벤트
 - 10/5 (월) 5:30–7pm McKinsey + HBS RC Recruiting Kickoff — Winthrop Center 20F (등록함)
 - 10/6 (화) 2:30pm Google MBA Alumni Panel for Interns — Aldrich 112
 - 10/6 (화) 4:10pm Google Coffee Chats — Spangler 087
 - 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
+
+## 10/19 브리핑 (월)
+- [ ] **오늘 1:50–2:50 Strategy 중간 퀴즈** (오픈북, 노트북·충전기) · Gallatin 323 냉장고 8am 전 비우기 · 8–10pm 12 Angry Men 섹션 상영 (선택, 10/23 LEAD 전 시청 필수)
+- ✅ AI Club 해커톤 (Replit) 등록 승인 — 토 10/24 9am–6pm Harvard i-lab. **팀 2–3명만 가능, 팀원 각자 같은 팀 이름으로 등록** — 팀 있는지 확인. 상금 $9,000 + Replit 크레딧
+- ✅ CPD 프로필 사진 촬영 대기 → 등록 확정: 11/9 (월) 2:15pm
+- [ ] NVIDIA 추천 2건 — Workday 지원 완료 확인 메일 아직 없음 (링크로 지원했는지 확인)
+- David (daskaryan)에게 화상 커피챗 요청 보냄 (10/19 새벽)
+- Kabir 아직 답 없음 (수 3:30 / 목 5 / 금 1pm 이후 제안 중)
+- 내일 화 10/20: FIN1 Module 2 시작 · Jamie Dimon Leader's Forum (Eventbrite 5pm, 캘린더 4:30–6, Klarman)
+- 기타: Akira에게 보낸 $30 Zelle이 상대 미등록으로 대기 중 · Lectures that Last (11월) 사전 공지 · CPD Kristen 'Your Career Path' 안내 메일
 
 ## 10/18 브리핑 (일)
 - ✅ Amazon MBA 온라인 평가 제출 완료 (10/17 저녁)
