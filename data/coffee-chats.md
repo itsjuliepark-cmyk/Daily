@@ -14,7 +14,7 @@
 | Kabir Gandhi | Apollo | **재조율 중** — 10/13 제안엔 답 없음 → Julie가 10/17 밤 새 시간 제안 | 수 10/21 3:30–4 / 목 10/22 5–5:30 / 금 10/23 1pm 이후 (ET) | Kabir 답장 대기 | 금 10/23 오전엔 Bussgang 오피스아워 가능성 · ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
 | Tomi Aluko | — | 완료 | 10/7 (수) 7:30pm | 감사 메일 | |
 | Carrie Goodrich | Amazon (Sr TPM) | 팀에 추천 전달 완료 (10/7) | — | 감사 답장 보냄 | |
-| Anne Marie Checcone | HBS CPD | 이력서 세션 — Anne Marie가 금 10/16 4pm ET 제안 (10/12) | 10/16 (금) 4pm 제안 | 수락 답장 초안 작성 (10/13) — Gmail 초안은 끝까지 안 보내짐, 10/16 4pm 세션 진행 여부는 메일로 확인 안 됨 | 10/8 초안은 이제 안 써도 됨 |
+| Anne Marie Checcone | HBS CPD | **확정** — 12Twenty 커리어 코치 상담 잡힘 (10/20 새벽 확정 메일) | 10/20 (화) 12:45pm ET, Zoom https://hbs.zoom.us/my/acheccone | 상담 후 감사 메일 | Gmail에 남은 예전 수락 초안 2개(10/8·10/13)는 이제 보내지 말 것 |
 | Martha Tassinari | HBS ('94) | 2차 피드백 받음 (10/9, 'v13 MT Feedback' docx — 기여도 명확화 코멘트 + 여백/서식 제안) | — | 감사 답장 초안 업데이트됨 (10/10) — 반영 후 Google 지원 | 1차 10/8 'MT Edits' |
 | Jeff Bussgang | Flybridge / HBS | 오피스아워 조율 — 10/15 Laura: **2자리만 남음, 먼저 답하는 사람 배정** (나머지는 대기자) | 10/23 (금) 10:00 / 10:20 AM | 두 시간 다 가능하다는 답장 초안으로 수정 (10/16) — 10/17 아침까지 Gmail 초안 그대로 (Outlook으로 보냈는지 확인) | Laura Whitmer (lwhitmer@hbs.edu) |
 | Chris Yoon | Google | Google 추천 초대 → Julie 수락 (10/13) — 두 번째 Google 추천 | — | ✅ 감사 답장 보냄 (10/13) · ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) | 같은 초대로 ~11/12까지 최대 3개 · 이력서 피드백 반영본 OK |
@@ -23,16 +23,28 @@
 | Manny Sahota | Microsoft | 확정 (Manny 수락, 캘린더 있음) | 11/3 (화) 3:30–4pm ET, Meet | — | 'Check-in' |
 | Sara Torti | HBS (PM Interview SIP) | 통화 완료 (10/8) | 10월 마지막 주 | Julie가 다시 연락하기로 함 | 캠퍼스 방문 때 만나자고 함 |
 | 동욱 (irakim0839) | — | 일정 재조율 — **10/3부터 답장 대기 중** | ~~10/9 (금) 10pm~~ 리트릿과 겹침 | 기존 초안(10/9) 보내지 말 것 — 새 날짜로 수정 필요 | 10/2 일정은 Julie 사정으로 취소, Meet: meet.google.com/ikg-brdn-omu |
-| Arun Venkatesan | NVIDIA | 추천 요청 보냄 (10/14) — Data Center GPU PM MBA 인턴 공고 열림 | — | NVIDIA 추천 메일 2건 도착 (10/16) — 누가 보냈는지는 메일에 없음 | 공고: https://jobs.nvidia.com/careers/job/893397711858 · 9/27엔 리크루터 Shawn Skoog에게 연락 부탁했었음 |
+| Arun Venkatesan | NVIDIA | ✅ Data Center GPU PM 추천해줌 (Julie가 10/19 감사 표시) → **Enterprise AI PM MBA 인턴 (JR2026707) 추가 추천 요청 (10/19)** | — | Arun 답장 대기 | 공고: https://jobs.nvidia.com/careers/job/893397711858 · 9/27엔 리크루터 Shawn Skoog에게 연락 부탁했었음 |
 | Lokesh Batra | NVIDIA | 추천 요청 보냄 (10/15 밤) — 같은 Data Center GPU PM MBA 인턴 (JR2025670), 추천 문구 초안·이력서 첨부 | — | NVIDIA 추천 메일 2건 도착 (10/16) — 누가 보냈는지는 메일에 없음 | lbatra@nvidia.com · 9/27엔 리크루터 Shawn Skoog에게 이력서 전달 부탁했었음 |
 | 재형 (jaehyoungc) | NVIDIA (GPU demand planning) | 추천 요청 (10/16) — Laptop PM 인턴 JR2025905 + GPU Data Center PM 인턴 JR2025670, 추천 코멘트 초안 전달 | — | 재형 추천 대기 — 추천 메일은 qhektndus95@gmail.com으로 갈 수 있음 (봇이 못 보는 계정) | 9/28엔 Shawn Skoog에게 전달 부탁했었음 |
-| David (daskaryan@gmail.com) | 창업 후 빅테크 (뉴욕) | 커피챗 요청 보냄 (10/19 새벽) — David가 먼저 연결에 긍정 답 | — | David 답장 대기 (화상 커피챗 제안) | 초기 단계 프로덕트·창업→빅테크 경로 조언 구함 |
+| David Askaryan (daskaryan@gmail.com) | 창업 후 빅테크 (뉴욕) | **확정** — David 제안(화 4:30·수 11시)은 수업과 겹쳐서 David가 수 4pm 제안 → Julie가 캘린더 초대 보냄 (10/19) | 10/21 (수) 4:00–4:30pm ET, meet.google.com/qfg-sfhd-ski | 커피챗 후 감사 메일 | 초기 단계 프로덕트·창업→빅테크 경로 조언 구함 |
 
 ## 다가오는 리크루팅 이벤트
 - 10/5 (월) 5:30–7pm McKinsey + HBS RC Recruiting Kickoff — Winthrop Center 20F (등록함)
 - 10/6 (화) 2:30pm Google MBA Alumni Panel for Interns — Aldrich 112
 - 10/6 (화) 4:10pm Google Coffee Chats — Spangler 087
 - 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
+
+## 10/20 브리핑 (화)
+- [ ] **오늘 12:45pm Anne Marie (CPD) 커리어 코치 상담** — Zoom https://hbs.zoom.us/my/acheccone (12Twenty 확정, Outlook 캘린더에 자동 등록)
+- [ ] **오늘 Jamie Dimon Leader's Forum (Klarman)** — 4:15 입장 시작 (Spangler 쪽 문), **4:45 이후엔 좌석 보장 안 됨**, 5:20 문 닫음. 티켓 QR + 하버드 학생증 필수
+- FIN1 중간 리뷰 세션 오늘 4:30–6 Aldrich 007 (Zoom도 있음) — Jamie Dimon과 겹침. FIN1 Module 2도 오늘 시작
+- ✅ David Askaryan 커피챗 확정: 수 10/21 4:00–4:30 (Google Meet, Julie가 초대 보냄) — 이어서 4:30 Liberate AI (Hawes 201)
+- Arun에게 NVIDIA Enterprise AI PM MBA 인턴 (JR2026707) 추천 추가 요청 (10/19)
+- TOM 중간 퀴즈 점수·해설, Strategy 중간 퀴즈 점수 Canvas에 올라옴 · FIN1 Statistics 튜토리얼 채점 완료
+- ⭐ NextView Ventures Rob Go 리마인드: MBA Founders & Innovators Night 화 10/27 6pm (Longfellow Bar, luma 등록)
+- AI Club: 해커톤 자원봉사 모집 (토 10/24 Batten Hall) · Vercel 'Prototype to Production' 워크숍 (GitHub+Vercel 계정 미리 만들고 시트에 참석 표시)
+- October Buzz: 추수감사절 호스트 가족 매칭·캠퍼스 식사 신청 11/13까지 · myHBS 앱 삭제 권장 (QR 스캔 방해) · 11/2 3:30 'Boost Your Class Participation' 패널 (Aldrich 208) · 11/16·17 시험 작문 워크숍
+- 기타: WII x VCPE Steve Klinsky (New Mountain Capital) 파이어사이드 · Strategy& 리크루팅 일정 · Exa API 크레딧 소진 알림 (Exa 쓰는 프로젝트 있으면 충전 필요)
 
 ## 10/19 브리핑 (월)
 - [ ] **오늘 1:50–2:50 Strategy 중간 퀴즈** (오픈북, 노트북·충전기) · Gallatin 323 냉장고 8am 전 비우기 · 8–10pm 12 Angry Men 섹션 상영 (선택, 10/23 LEAD 전 시청 필수)
