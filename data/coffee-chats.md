@@ -14,16 +14,16 @@
 | Kabir Gandhi | Apollo | **재조율 중** — 10/13 제안엔 답 없음 → Julie가 10/17 밤 새 시간 제안 | 수 10/21 3:30–4 / 목 10/22 5–5:30 / 금 10/23 1pm 이후 (ET) | Kabir 답장 대기 | 금 10/23 오전엔 Bussgang 오피스아워 가능성 · ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
 | Tomi Aluko | — | 완료 | 10/7 (수) 7:30pm | 감사 메일 | |
 | Carrie Goodrich | Amazon (Sr TPM) | 팀에 추천 전달 완료 (10/7) | — | 감사 답장 보냄 | |
-| Anne Marie Checcone | HBS CPD | **확정** — 12Twenty 커리어 코치 상담 잡힘 (10/20 새벽 확정 메일) | 10/20 (화) 12:45pm ET, Zoom https://hbs.zoom.us/my/acheccone | 상담 후 감사 메일 | Gmail에 남은 예전 수락 초안 2개(10/8·10/13)는 이제 보내지 말 것 |
+| Anne Marie Checcone | HBS CPD | 완료 — 커리어 코치 상담 (12Twenty 후기 설문 옴) | 10/20 (화) 12:45pm ET, Zoom | 감사 메일 (선택) | Gmail에 남은 예전 수락 초안 2개(10/8·10/13)는 이제 보내지 말 것 |
 | Martha Tassinari | HBS ('94) | 2차 피드백 받음 (10/9, 'v13 MT Feedback' docx — 기여도 명확화 코멘트 + 여백/서식 제안) | — | 감사 답장 초안 업데이트됨 (10/10) — 반영 후 Google 지원 | 1차 10/8 'MT Edits' |
 | Jeff Bussgang | Flybridge / HBS | 오피스아워 조율 — 10/15 Laura: **2자리만 남음, 먼저 답하는 사람 배정** (나머지는 대기자) | 10/23 (금) 10:00 / 10:20 AM | 두 시간 다 가능하다는 답장 초안으로 수정 (10/16) — 10/17 아침까지 Gmail 초안 그대로 (Outlook으로 보냈는지 확인) | Laura Whitmer (lwhitmer@hbs.edu) |
 | Chris Yoon | Google | Google 추천 초대 → Julie 수락 (10/13) — 두 번째 Google 추천 | — | ✅ 감사 답장 보냄 (10/13) · ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) | 같은 초대로 ~11/12까지 최대 3개 · 이력서 피드백 반영본 OK |
-| Jason Lee | Google | Google 추천 초대 → Julie 수락 (10/13) | — | ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) | 같은 초대로 11/12까지 최대 3개 |
+| Jason Lee | Google | Google 추천 초대 → Julie 수락 (10/13) | — | ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) · ✅ Google 리크루터가 추천 2개 모두 보인다고 확인 (10/20, CPD Cathy 통해) | 같은 초대로 11/12까지 최대 3개 |
 | Kay Sin | Adobe | Adobe 2027 MBA PM 인턴 추천 (10/12) | — | ✅ 지원 완료 (10/13) | |
 | Manny Sahota | Microsoft | 확정 (Manny 수락, 캘린더 있음) | 11/3 (화) 3:30–4pm ET, Meet | — | 'Check-in' |
 | Sara Torti | HBS (PM Interview SIP) | 통화 완료 (10/8) | 10월 마지막 주 | Julie가 다시 연락하기로 함 | 캠퍼스 방문 때 만나자고 함 |
 | 동욱 (irakim0839) | — | 일정 재조율 — **10/3부터 답장 대기 중** | ~~10/9 (금) 10pm~~ 리트릿과 겹침 | 기존 초안(10/9) 보내지 말 것 — 새 날짜로 수정 필요 | 10/2 일정은 Julie 사정으로 취소, Meet: meet.google.com/ikg-brdn-omu |
-| Arun Venkatesan | NVIDIA | ✅ Data Center GPU PM 추천해줌 (Julie가 10/19 감사 표시) → **Enterprise AI PM MBA 인턴 (JR2026707) 추가 추천 요청 (10/19)** | — | Arun 답장 대기 | 공고: https://jobs.nvidia.com/careers/job/893397711858 · 9/27엔 리크루터 Shawn Skoog에게 연락 부탁했었음 |
+| Arun Venkatesan | NVIDIA | ✅ Data Center GPU PM 추천 + ✅ Enterprise AI PM MBA 인턴 (JR2026707) 추천 메일 도착 (10/20) | — | ✅ Enterprise AI 지원 완료 (10/21 새벽, Workday 접수 확인) · 감사 메일 | 공고: https://jobs.nvidia.com/careers/job/893397711858 · 9/27엔 리크루터 Shawn Skoog에게 연락 부탁했었음 |
 | Lokesh Batra | NVIDIA | 추천 요청 보냄 (10/15 밤) — 같은 Data Center GPU PM MBA 인턴 (JR2025670), 추천 문구 초안·이력서 첨부 | — | NVIDIA 추천 메일 2건 도착 (10/16) — 누가 보냈는지는 메일에 없음 | lbatra@nvidia.com · 9/27엔 리크루터 Shawn Skoog에게 이력서 전달 부탁했었음 |
 | 재형 (jaehyoungc) | NVIDIA (GPU demand planning) | 추천 요청 (10/16) — Laptop PM 인턴 JR2025905 + GPU Data Center PM 인턴 JR2025670, 추천 코멘트 초안 전달 | — | 재형 추천 대기 — 추천 메일은 qhektndus95@gmail.com으로 갈 수 있음 (봇이 못 보는 계정) | 9/28엔 Shawn Skoog에게 전달 부탁했었음 |
 | David Askaryan (daskaryan@gmail.com) | 창업 후 빅테크 (뉴욕) | **확정** — David 제안(화 4:30·수 11시)은 수업과 겹쳐서 David가 수 4pm 제안 → Julie가 캘린더 초대 보냄 (10/19) | 10/21 (수) 4:00–4:30pm ET, meet.google.com/qfg-sfhd-ski | 커피챗 후 감사 메일 | 초기 단계 프로덕트·창업→빅테크 경로 조언 구함 |
@@ -33,6 +33,19 @@
 - 10/6 (화) 2:30pm Google MBA Alumni Panel for Interns — Aldrich 112
 - 10/6 (화) 4:10pm Google Coffee Chats — Spangler 087
 - 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
+
+## 10/21 브리핑 (수)
+- [ ] **오늘 4:00–4:30 David Askaryan 커피챗** (Meet qfg-sfhd-ski) — 3:30 Toast Product Internship Spotlight (Aldrich 208, 12twenty 등록함)과 겹칠 수 있음 → 4시 전에 빠져나오기
+- 오늘 4:30–5:30 AI Club × Liberate AI 파이어사이드 (Hawes 201) · McKinsey: Explained (10/21, 등록 필요)
+- [ ] **택배 5개**: Rock Center 지하 Locker 7 (3개), Locker 2 (1개), **냉장 택배 1개 — Student Mail Center Cold Storage B010 (먼저 찾기)**
+- ✅ NVIDIA Enterprise AI PM MBA 인턴 (JR2026707) 추천 도착 (10/20) → 지원 완료 (10/21 새벽)
+- ✅ Google: CPD Cathy가 리크루터에게 확인 — Chris·Jason 추천 2개 모두 프로필에 보임, 추가로 할 것 없음
+- ✅ Anne Marie 커리어 코치 상담 완료 (10/20)
+- ✗ Duolingo PM MBA 인턴 — 불합격 (10/20)
+- [ ] 토 10/24 AI 해커톤: 팀원 각자 Luma에 같은 팀 이름으로 등록해야 함 (솔로면 팀 찾기 링크 메일 있음)
+- Section G: 섹션 회비 안내 세션 (금액·납부 방법 곧 공지) · 주간 Grafton 모임
+- MKT: Moynihan 교수 오피스아워 예약 링크 · 중간 수업 피드백 설문
+- 기타: CVS 메일 — Gatorade·Gatorade Zero 리콜 안내 (샀으면 확인) · WII x VCPE Lori Whelan (Silversmith) 파이어사이드 · AABA Bodyrok 클래스 취소
 
 ## 10/20 브리핑 (화)
 - [ ] **오늘 12:45pm Anne Marie (CPD) 커리어 코치 상담** — Zoom https://hbs.zoom.us/my/acheccone (12Twenty 확정, Outlook 캘린더에 자동 등록)
