@@ -11,12 +11,12 @@
 | Rishi | — | 이력서 보냄 (10/5) | — | 피드백 기다리는 중 | |
 | Tanvi | — | 이력서 피드백 받음 (10/5) | — | 수정 반영 | |
 | McKenzie Jones | Google | 완료 (McKenzie 요청으로 5pm으로 변경) | 10/14 (수) 5:00–5:30pm ET | ✅ 감사 메일 보냄 (10/14) — McKenzie 'Please keep in touch!' | jonesmckenzie@google.com |
-| Kabir Gandhi | Apollo | **재조율 중** — 10/13 제안엔 답 없음 → Julie가 10/17 밤 새 시간 제안 | 수 10/21 3:30–4 / 목 10/22 5–5:30 / 금 10/23 1pm 이후 (ET) | Kabir 답장 대기 | 금 10/23 오전엔 Bussgang 오피스아워 가능성 · ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
+| Kabir Gandhi | Apollo | **재조율 중** — 10/13 제안엔 답 없음 → Julie가 10/17 밤 새 시간 제안 | 수 10/21 3:30–4 / 목 10/22 5–5:30 / 금 10/23 1pm 이후 (ET) | Kabir 답장 대기 (10/22 아침까지 답 없음 — 남은 제안은 금 10/23 1pm 이후뿐) | ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
 | Tomi Aluko | — | 완료 | 10/7 (수) 7:30pm | 감사 메일 | |
 | Carrie Goodrich | Amazon (Sr TPM) | 팀에 추천 전달 완료 (10/7) | — | 감사 답장 보냄 | |
-| Anne Marie Checcone | HBS CPD | 완료 — 커리어 코치 상담 (12Twenty 후기 설문 옴) | 10/20 (화) 12:45pm ET, Zoom | 감사 메일 (선택) | Gmail에 남은 예전 수락 초안 2개(10/8·10/13)는 이제 보내지 말 것 |
+| Anne Marie Checcone | HBS CPD | 완료 — 커리어 코치 상담 | 10/20 (화) 12:45pm ET, Zoom | ✅ 감사 메일 보냄 → Anne Marie 'Stay in touch with your progress!' (10/21) | Gmail에 남은 예전 수락 초안 2개(10/8·10/13)는 이제 보내지 말 것 |
 | Martha Tassinari | HBS ('94) | 2차 피드백 받음 (10/9, 'v13 MT Feedback' docx — 기여도 명확화 코멘트 + 여백/서식 제안) | — | 감사 답장 초안 업데이트됨 (10/10) — 반영 후 Google 지원 | 1차 10/8 'MT Edits' |
-| Jeff Bussgang | Flybridge / HBS | 오피스아워 조율 — 10/15 Laura: **2자리만 남음, 먼저 답하는 사람 배정** (나머지는 대기자) | 10/23 (금) 10:00 / 10:20 AM | 두 시간 다 가능하다는 답장 초안으로 수정 (10/16) — 10/17 아침까지 Gmail 초안 그대로 (Outlook으로 보냈는지 확인) | Laura Whitmer (lwhitmer@hbs.edu) |
+| Jeff Bussgang | Flybridge / HBS | 오피스아워 대기자 — 10/23 Zoom 자리는 못 잡은 듯 → 10/21 Laura가 **다음 주 대면 자리** 제안 (먼저 답하는 사람 배정) | 10/26 (월) 12:50 / 1:10 PM, 10/30 (금) 2:20 PM | 세 시간 다 가능하다는 새 답장 초안 (10/22) — 예전 10/23 초안은 보내지 말 것 | Laura Whitmer (lwhitmer@hbs.edu) |
 | Chris Yoon | Google | Google 추천 초대 → Julie 수락 (10/13) — 두 번째 Google 추천 | — | ✅ 감사 답장 보냄 (10/13) · ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) | 같은 초대로 ~11/12까지 최대 3개 · 이력서 피드백 반영본 OK |
 | Jason Lee | Google | Google 추천 초대 → Julie 수락 (10/13) | — | ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) · ✅ Google 리크루터가 추천 2개 모두 보인다고 확인 (10/20, CPD Cathy 통해) | 같은 초대로 11/12까지 최대 3개 |
 | Kay Sin | Adobe | Adobe 2027 MBA PM 인턴 추천 (10/12) | — | ✅ 지원 완료 (10/13) | |
@@ -26,13 +26,24 @@
 | Arun Venkatesan | NVIDIA | ✅ Data Center GPU PM 추천 + ✅ Enterprise AI PM MBA 인턴 (JR2026707) 추천 메일 도착 (10/20) | — | ✅ Enterprise AI 지원 완료 (10/21 새벽, Workday 접수 확인) · 감사 메일 | 공고: https://jobs.nvidia.com/careers/job/893397711858 · 9/27엔 리크루터 Shawn Skoog에게 연락 부탁했었음 |
 | Lokesh Batra | NVIDIA | 추천 요청 보냄 (10/15 밤) — 같은 Data Center GPU PM MBA 인턴 (JR2025670), 추천 문구 초안·이력서 첨부 | — | NVIDIA 추천 메일 2건 도착 (10/16) — 누가 보냈는지는 메일에 없음 | lbatra@nvidia.com · 9/27엔 리크루터 Shawn Skoog에게 이력서 전달 부탁했었음 |
 | 재형 (jaehyoungc) | NVIDIA (GPU demand planning) | 추천 요청 (10/16) — Laptop PM 인턴 JR2025905 + GPU Data Center PM 인턴 JR2025670, 추천 코멘트 초안 전달 | — | 재형 추천 대기 — 추천 메일은 qhektndus95@gmail.com으로 갈 수 있음 (봇이 못 보는 계정) | 9/28엔 Shawn Skoog에게 전달 부탁했었음 |
-| David Askaryan (daskaryan@gmail.com) | 창업 후 빅테크 (뉴욕) | **확정** — David 제안(화 4:30·수 11시)은 수업과 겹쳐서 David가 수 4pm 제안 → Julie가 캘린더 초대 보냄 (10/19) | 10/21 (수) 4:00–4:30pm ET, meet.google.com/qfg-sfhd-ski | 커피챗 후 감사 메일 | 초기 단계 프로덕트·창업→빅테크 경로 조언 구함 |
+| David Askaryan (daskaryan@gmail.com) | 창업 후 빅테크 (뉴욕) | 완료 (10/21 Meet) | 10/21 (수) 4:00–4:30pm ET | ✅ 감사 메일 보냄 → David 'definitely stay in touch' | 초기 단계 프로덕트·창업→빅테크 경로 조언 구함 |
 
 ## 다가오는 리크루팅 이벤트
 - 10/5 (월) 5:30–7pm McKinsey + HBS RC Recruiting Kickoff — Winthrop Center 20F (등록함)
 - 10/6 (화) 2:30pm Google MBA Alumni Panel for Interns — Aldrich 112
 - 10/6 (화) 4:10pm Google Coffee Chats — Spangler 087
 - 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
+
+## 10/22 브리핑 (목)
+- 🔴 **Jeff Bussgang 대면 오피스아워** (Laura, 10/21 아침 메일): 10/26 (월) 12:50 / 1:10 PM, 10/30 (금) 2:20 PM — 먼저 답하는 사람 배정, 나머지는 대기자 → 세 시간 다 가능하다는 답장 초안 작성 (하루 지나서 찼을 수 있음 · 학교 메일이라 Outlook 발송도 OK)
+- ✅ David Askaryan 커피챗 완료 + 감사 메일 주고받음 (10/21) · ✅ Anne Marie도 감사 메일에 답장
+- TOM 중간 참여 피드백 (Prof. Myers) 도착
+- [ ] 냉장 택배 또 도착 (10/21) — Student Mail Center Cold Storage B010
+- [ ] **내일 금 10/23 LEAD 수업 전 '12 Angry Men' 전체 시청** · 오늘 LEAD Feedback Workshop (180분)
+- 오늘 8:40pm Meet Market Harvard x MIT — Cantab (등록함)
+- AI 해커톤 (토 10/24 9–6, Batten Hall): **등록 오늘 5pm 마감** — 팀원 각자 같은 팀 이름으로 등록됐는지 확인
+- 학사 일정 공지: 봄 RC 시험 4/30 (금) 종료, 5/1부터 출발 가능 · 2/26 (금) 트렉용 휴강일 · 봄 학기 금요일은 12:30 종료, 월요일 9:10 시작 · 12/1 상세 시간표 전 여행은 환불 가능하게
+- 기타: AI Club 'Forward-Deployed Engineering' 파이어사이드 (Rama Pyarasani) · Section G Flag Day 안내
 
 ## 10/21 브리핑 (수)
 - [ ] **오늘 4:00–4:30 David Askaryan 커피챗** (Meet qfg-sfhd-ski) — 3:30 Toast Product Internship Spotlight (Aldrich 208, 12twenty 등록함)과 겹칠 수 있음 → 4시 전에 빠져나오기
