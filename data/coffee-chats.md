@@ -11,12 +11,12 @@
 | Rishi | — | 이력서 보냄 (10/5) | — | 피드백 기다리는 중 | |
 | Tanvi | — | 이력서 피드백 받음 (10/5) | — | 수정 반영 | |
 | McKenzie Jones | Google | 완료 (McKenzie 요청으로 5pm으로 변경) | 10/14 (수) 5:00–5:30pm ET | ✅ 감사 메일 보냄 (10/14) — McKenzie 'Please keep in touch!' | jonesmckenzie@google.com |
-| Kabir Gandhi | Apollo | **재조율 중** — 10/13 제안엔 답 없음 → Julie가 10/17 밤 새 시간 제안 | 수 10/21 3:30–4 / 목 10/22 5–5:30 / 금 10/23 1pm 이후 (ET) | Kabir 답장 대기 (10/22 아침까지 답 없음 — 남은 제안은 금 10/23 1pm 이후뿐) | ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
+| Kabir Gandhi | Apollo | **재조율 중** — 10/13 제안엔 답 없음 → Julie가 10/17 밤 새 시간 제안 | 수 10/21 3:30–4 / 목 10/22 5–5:30 / 금 10/23 1pm 이후 (ET) | Kabir 답장 대기 (10/23 아침까지 답 없음 — 제안한 시간은 오늘 1pm 이후가 마지막, 이후엔 새로 제안 필요) | ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
 | Tomi Aluko | — | 완료 | 10/7 (수) 7:30pm | 감사 메일 | |
 | Carrie Goodrich | Amazon (Sr TPM) | 팀에 추천 전달 완료 (10/7) | — | 감사 답장 보냄 | |
 | Anne Marie Checcone | HBS CPD | 완료 — 커리어 코치 상담 | 10/20 (화) 12:45pm ET, Zoom | ✅ 감사 메일 보냄 → Anne Marie 'Stay in touch with your progress!' (10/21) | Gmail에 남은 예전 수락 초안 2개(10/8·10/13)는 이제 보내지 말 것 |
 | Martha Tassinari | HBS ('94) | 2차 피드백 받음 (10/9, 'v13 MT Feedback' docx — 기여도 명확화 코멘트 + 여백/서식 제안) | — | 감사 답장 초안 업데이트됨 (10/10) — 반영 후 Google 지원 | 1차 10/8 'MT Edits' |
-| Jeff Bussgang | Flybridge / HBS | 오피스아워 대기자 — 10/23 Zoom 자리는 못 잡은 듯 → 10/21 Laura가 **다음 주 대면 자리** 제안 (먼저 답하는 사람 배정) | 10/26 (월) 12:50 / 1:10 PM, 10/30 (금) 2:20 PM | 세 시간 다 가능하다는 새 답장 초안 (10/22) — 예전 10/23 초안은 보내지 말 것 | Laura Whitmer (lwhitmer@hbs.edu) |
+| Jeff Bussgang | Flybridge / HBS | 오피스아워 대기자 — 10/23 Zoom 자리는 못 잡은 듯 → 10/21 Laura가 **다음 주 대면 자리** 제안 (먼저 답하는 사람 배정) | 10/26 (월) 12:50 / 1:10 PM, 10/30 (금) 2:20 PM | 세 시간 다 가능하다는 새 답장 초안 (10/22) — 10/23 아침까지 Gmail 초안 그대로 (Outlook으로 보냈는지 확인) · 10/22 3:40 급구 Zoom 자리는 16분 만에 마감 · 예전 10/23 초안은 보내지 말 것 | Laura Whitmer (lwhitmer@hbs.edu) |
 | Chris Yoon | Google | Google 추천 초대 → Julie 수락 (10/13) — 두 번째 Google 추천 | — | ✅ 감사 답장 보냄 (10/13) · ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) | 같은 초대로 ~11/12까지 최대 3개 · 이력서 피드백 반영본 OK |
 | Jason Lee | Google | Google 추천 초대 → Julie 수락 (10/13) | — | ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) · ✅ Google 리크루터가 추천 2개 모두 보인다고 확인 (10/20, CPD Cathy 통해) | 같은 초대로 11/12까지 최대 3개 |
 | Kay Sin | Adobe | Adobe 2027 MBA PM 인턴 추천 (10/12) | — | ✅ 지원 완료 (10/13) | |
@@ -33,6 +33,18 @@
 - 10/6 (화) 2:30pm Google MBA Alumni Panel for Interns — Aldrich 112
 - 10/6 (화) 4:10pm Google Coffee Chats — Spangler 087
 - 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
+
+## 10/23 브리핑 (금)
+- 🔴 Jeff Bussgang: 10/22 오후 3:40 급구 Zoom 자리 메일 → 16분 만에 마감 · 다음 주 대면 자리(10/26 12:50·1:10, 10/30 2:20) 답장 초안은 아직 Gmail에 그대로
+- [ ] **오늘 LEAD 수업 ('12 Angry Men' 미리 다 보기)**
+- ✅ GoFundMe MBA Product Management Internship (Summer 2027) 지원 접수 (10/23)
+- [ ] Microsoft: 'Senior Strategy & Investment Analyst - AI Experiences' (Mountain View) 지원서 작성 중으로 남아 있다는 알림 — 마무리할지 결정
+- TikTok 채용 사이트 인증 메일 (지원 진행 중인 듯)
+- ✅ HBS Tech Club 소규모 저녁 모임 신청서 제출 (10/22)
+- [ ] **내일 토 10/24 9am–6pm AI 해커톤** — Harvard i-lab, Batten Hall (125 Western Ave)
+- [ ] 월 10/26: ⭐ Jane Street S&P 해피아워 관심 폼 마감 (행사는 수 10/28 5:30)
+- 다가오는 것: 일 10/25 2pm Gallatin 고래 관찰 · 10/26–30 HBS Spirit Week · 화 10/27 6pm NextView · 목 10/29 5pm Kent Bennett · 금 10/30 4pm Dave Munichiello (GV) & 4:30 AABA Fun Run
+- AI Club FDE 세션 (Rama Pyarasani)은 11/5로 연기 · President's Innovation Challenge (Harvard i-lab) 공지 · McKinsey 'What a summer could look like' 메일
 
 ## 10/22 브리핑 (목)
 - 🔴 **Jeff Bussgang 대면 오피스아워** (Laura, 10/21 아침 메일): 10/26 (월) 12:50 / 1:10 PM, 10/30 (금) 2:20 PM — 먼저 답하는 사람 배정, 나머지는 대기자 → 세 시간 다 가능하다는 답장 초안 작성 (하루 지나서 찼을 수 있음 · 학교 메일이라 Outlook 발송도 OK)
