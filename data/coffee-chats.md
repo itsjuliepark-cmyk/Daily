@@ -27,12 +27,23 @@
 | Lokesh Batra | NVIDIA | 추천 요청 보냄 (10/15 밤) — 같은 Data Center GPU PM MBA 인턴 (JR2025670), 추천 문구 초안·이력서 첨부 | — | NVIDIA 추천 메일 2건 도착 (10/16) — 누가 보냈는지는 메일에 없음 | lbatra@nvidia.com · 9/27엔 리크루터 Shawn Skoog에게 이력서 전달 부탁했었음 |
 | 재형 (jaehyoungc) | NVIDIA (GPU demand planning) | 추천 요청 (10/16) — Laptop PM 인턴 JR2025905 + GPU Data Center PM 인턴 JR2025670, 추천 코멘트 초안 전달 | — | 재형 추천 대기 — 추천 메일은 qhektndus95@gmail.com으로 갈 수 있음 (봇이 못 보는 계정) | 9/28엔 Shawn Skoog에게 전달 부탁했었음 |
 | David Askaryan (daskaryan@gmail.com) | 창업 후 빅테크 (뉴욕) | 완료 (10/21 Meet) | 10/21 (수) 4:00–4:30pm ET | ✅ 감사 메일 보냄 → David 'definitely stay in touch' | 초기 단계 프로덕트·창업→빅테크 경로 조언 구함 |
+| Nilay Ajbani | Cisco (Strategy & Planning MBA 로테이션) | 리크루터가 먼저 연락 (10/23) — 'came across your resume' | — | 가상 설명회 Webex 등록 + 커피챗 관심 폼 제출 (https://forms.cloud.microsoft/r/4ZALauz17J) | niajbani@cisco.com · 설명회 링크 https://cisco.webex.com/weblink/register/r61f422c457bb39f04446f563f51a65cb |
 
 ## 다가오는 리크루팅 이벤트
 - 10/5 (월) 5:30–7pm McKinsey + HBS RC Recruiting Kickoff — Winthrop Center 20F (등록함)
 - 10/6 (화) 2:30pm Google MBA Alumni Panel for Interns — Aldrich 112
 - 10/6 (화) 4:10pm Google Coffee Chats — Spangler 087
 - 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
+
+## 10/24 브리핑 (토)
+- [ ] **오늘 AI 해커톤** — 8:30 입장, 9시 시작 (Batten Hall, 125 Western Ave) · Replit 크레딧은 https://hbs-x-mit-hackathon.replit.app 에서 Luma 등록 이메일로 · 팀 없으면 9시 전에 와서 현장 매칭
+- 🔴 Cisco 리크루터 Nilay Ajbani가 직접 연락 (10/23): Strategy & Planning MBA 로테이션 — 가상 설명회 등록 + 캠퍼스·화상 커피챗 관심 폼
+- [ ] **목 10/29 1:50–3:50pm FRC 중간고사** (평소 강의실) — 월 10/26 3–5pm 리뷰 세션 (Aldrich 207 + Zoom, 녹화) · Canvas에 연습 문제·해설·가이드 · 결과는 11/3 · 'Humble Design' 케이스 실물 월 10/26 Spangler 지하에서 수령
+- ✅ January SIPs 확정: **Startup Bootcamp, Week 2 (1/21–1/24, 2027)** — 전 세션 출석 필수, P/LP/F 성적, 철회 마감 1/12 12pm
+- [ ] 택배: Rock Center 지하 Locker 1 (10/23)
+- LEAD 중간 설문 · TOM 선택 기술 노트 'Production Processes' Canvas에
+- Section G: Heidi Roizen 케이스 후속 대화 (Feldberg 교수) · International Flag Day 안내
+- SA '250 Forum' (선거 전날 학생 토론) · WII x VCPE Steve Klinsky 리마인드
 
 ## 10/23 브리핑 (금)
 - 🔴 Jeff Bussgang: 10/22 오후 3:40 급구 Zoom 자리 메일 → 16분 만에 마감 · 다음 주 대면 자리(10/26 12:50·1:10, 10/30 2:20) 답장 초안은 아직 Gmail에 그대로
