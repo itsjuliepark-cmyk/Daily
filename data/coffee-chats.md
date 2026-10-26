@@ -11,12 +11,12 @@
 | Rishi | — | 이력서 보냄 (10/5) | — | 피드백 기다리는 중 | |
 | Tanvi | — | 이력서 피드백 받음 (10/5) | — | 수정 반영 | |
 | McKenzie Jones | Google | 완료 (McKenzie 요청으로 5pm으로 변경) | 10/14 (수) 5:00–5:30pm ET | ✅ 감사 메일 보냄 (10/14) — McKenzie 'Please keep in touch!' | jonesmckenzie@google.com |
-| Kabir Gandhi | Apollo | **재조율 중** — 10/13 제안엔 답 없음 → Julie가 10/17 밤 새 시간 제안 | 수 10/21 3:30–4 / 목 10/22 5–5:30 / 금 10/23 1pm 이후 (ET) | Kabir 답장 대기 (10/25 아침까지 답 없음 — 제안한 시간 모두 지남, 새 시간 제안 필요) | ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
+| Kabir Gandhi | Apollo | **재조율 중** — 10/13 제안엔 답 없음 → Julie가 10/17 밤 새 시간 제안 | 수 10/21 3:30–4 / 목 10/22 5–5:30 / 금 10/23 1pm 이후 (ET) | Kabir 답장 대기 (10/26 아침까지 답 없음 — 제안한 시간 모두 지남, 새 시간 제안 필요) | ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
 | Tomi Aluko | — | 완료 | 10/7 (수) 7:30pm | 감사 메일 | |
 | Carrie Goodrich | Amazon (Sr TPM) | 팀에 추천 전달 완료 (10/7) | — | 감사 답장 보냄 | |
 | Anne Marie Checcone | HBS CPD | 완료 — 커리어 코치 상담 | 10/20 (화) 12:45pm ET, Zoom | ✅ 감사 메일 보냄 → Anne Marie 'Stay in touch with your progress!' (10/21) | Gmail에 남은 예전 수락 초안 2개(10/8·10/13)는 이제 보내지 말 것 |
 | Martha Tassinari | HBS ('94) | 2차 피드백 받음 (10/9, 'v13 MT Feedback' docx — 기여도 명확화 코멘트 + 여백/서식 제안) | — | 감사 답장 초안 업데이트됨 (10/10) — 반영 후 Google 지원 | 1차 10/8 'MT Edits' |
-| Jeff Bussgang | Flybridge / HBS | 오피스아워 대기자 — 10/23 Zoom 자리는 못 잡은 듯 → 10/21 Laura가 **다음 주 대면 자리** 제안 (먼저 답하는 사람 배정) | 10/26 (월) 12:50 / 1:10 PM, 10/30 (금) 2:20 PM | 세 시간 다 가능하다는 새 답장 초안 (10/22) — 10/25 아침까지 Gmail 초안 그대로 (Outlook으로 보냈는지 확인) · 10/22 3:40 급구 Zoom 자리는 16분 만에 마감 · 예전 10/23 초안은 보내지 말 것 | Laura Whitmer (lwhitmer@hbs.edu) |
+| Jeff Bussgang | Flybridge / HBS | 오피스아워 대기자 — 10/23 Zoom 자리는 못 잡은 듯 → 10/21 Laura가 **다음 주 대면 자리** 제안 (먼저 답하는 사람 배정) | 10/26 (월) 12:50 / 1:10 PM, 10/30 (금) 2:20 PM | 세 시간 다 가능하다는 새 답장 초안 (10/22) — 10/26 아침까지 Gmail 초안 그대로 (Outlook으로 보냈는지 확인) · 10/22 3:40 급구 Zoom 자리는 16분 만에 마감 · 예전 10/23 초안은 보내지 말 것 | Laura Whitmer (lwhitmer@hbs.edu) |
 | Chris Yoon | Google | Google 추천 초대 → Julie 수락 (10/13) — 두 번째 Google 추천 | — | ✅ 감사 답장 보냄 (10/13) · ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) | 같은 초대로 ~11/12까지 최대 3개 · 이력서 피드백 반영본 OK |
 | Jason Lee | Google | Google 추천 초대 → Julie 수락 (10/13) | — | ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) · ✅ Google 리크루터가 추천 2개 모두 보인다고 확인 (10/20, CPD Cathy 통해) | 같은 초대로 11/12까지 최대 3개 |
 | Kay Sin | Adobe | Adobe 2027 MBA PM 인턴 추천 (10/12) | — | ✅ 지원 완료 (10/13) | |
@@ -28,12 +28,26 @@
 | 재형 (jaehyoungc) | NVIDIA (GPU demand planning) | 추천 요청 (10/16) — Laptop PM 인턴 JR2025905 + GPU Data Center PM 인턴 JR2025670, 추천 코멘트 초안 전달 | — | 재형 추천 대기 — 추천 메일은 qhektndus95@gmail.com으로 갈 수 있음 (봇이 못 보는 계정) | 9/28엔 Shawn Skoog에게 전달 부탁했었음 |
 | David Askaryan (daskaryan@gmail.com) | 창업 후 빅테크 (뉴욕) | 완료 (10/21 Meet) | 10/21 (수) 4:00–4:30pm ET | ✅ 감사 메일 보냄 → David 'definitely stay in touch' | 초기 단계 프로덕트·창업→빅테크 경로 조언 구함 |
 | Nilay Ajbani | Cisco (Strategy & Planning MBA 로테이션) | 리크루터가 먼저 연락 (10/23) — 'came across your resume' | — | 가상 설명회 Webex 등록 + 커피챗 관심 폼 제출 (https://forms.cloud.microsoft/r/4ZALauz17J) | niajbani@cisco.com · 설명회 링크 https://cisco.webex.com/weblink/register/r61f422c457bb39f04446f563f51a65cb |
+| Cathy Hutchinson | HBS CPD (Career Adviser) | 확정 — 커리어 코치 상담 (12twenty 예약) | 10/26 (월) 3:00pm ET, Zoom | ⚠️ 캘린더에 없음 · FRC 중간고사 리뷰 세션(3–5pm, 녹화)과 겹침 | https://hbs.zoom.us/my/cathyhutchinson · 10/20 Google 추천 확인 도와줌 |
 
 ## 다가오는 리크루팅 이벤트
 - 10/5 (월) 5:30–7pm McKinsey + HBS RC Recruiting Kickoff — Winthrop Center 20F (등록함)
 - 10/6 (화) 2:30pm Google MBA Alumni Panel for Interns — Aldrich 112
 - 10/6 (화) 4:10pm Google Coffee Chats — Spangler 087
 - 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
+
+## 10/26 브리핑 (월)
+- [ ] **오늘 3pm Cathy Hutchinson (CPD) 커리어 코치 상담** — Zoom https://hbs.zoom.us/my/cathyhutchinson · 캘린더에 없음 · ⚠️ FRC 중간고사 리뷰 세션(3–5pm, Aldrich 207 + Zoom, 녹화)과 겹침 → 리뷰는 녹화로
+- 🔴 Jeff Bussgang: 대면 자리 답장 초안(10/22) 아직 Gmail에 그대로 — **오늘 12:50·1:10 자리**는 오전 중 보내야 함, 금 10/30 2:20도 있음 · Kabir 답 없음
+- [ ] **오늘 마감:** ⭐ Jane Street S&P 해피아워 관심 폼 (행사 수 10/28 5:30) · 'Humble Design' 케이스 실물 Spangler 지하 수령
+- ✅ American Express 2027 여름 인턴 지원 2건 (10/26 새벽): Digital Product Management, Enterprise Technology Services (NY, 26012057) · Product Management, Global Commercial Services (NY, 26012558)
+- FIN1 Tutorial 'Portfolio Optimization' 채점됨 (Canvas)
+- [ ] 택배 리마인더: Rock Center 지하 Locker 1 (10/23부터 대기)
+- Section G: Heidi Roizen 후속 대화 (Feldberg 교수 참석) — **금 10/30 12:30–1:15pm** (초대장 기준, 장소 미기재)
+- 🟢 ⭐ AI Club × MIT 'Nuclear Power: AI & Policy' 믹서 화 11/3 5:30–6:30pm Aldrich 012 (Luma 등록 https://luma.com/yri7c31m) · ⭐ AI Club × Healthcare Club 'AI in Drug Discovery' (Sanofi Shameer Khader) 수 11/4 4–5pm Aldrich 107 · AABA × AASU 핼러윈 토 10/31 8–11pm
+- HBS 이벤트 캘린더: ⭐ **Samsung GSG** 설명회 월 11/2 3:45–4:30 Aldrich 107 + 커피챗 5–7pm Spangler 201–202 (RC) · ⭐ Strategy& 리크루터 오피스아워 11/2 3:30–6 (화상) · EY-Parthenon 화상 설명회 11/2 7:30pm · Founder Legal Essentials (스타트업 고용법) 화 11/3 3:30–4:30 Chao Center 300, Luma RSVP — Manny Sahota 3:30과 겹침
+- Dropbox: Ronghua Bei가 'Labprint_SampleVideo' 폴더 공유 (어젯밤 Dropbox 가입 — 이메일 인증 메일 와 있음)
+- 어제 Gallatin 고래 관찰 예정대로 진행 (1:10 Klarman 집합)
 
 ## 10/25 브리핑 (일)
 - ✅ 지원 접수 확인 4건 (10/24–25): EA 'Product Manager Intern, MBA Level' (Apex Legends, Req 216272) · Epic Games PM Intern · Qualcomm PM Internship Summer 2027 (3095762) · Intuit MBA Pricing & Monetization Strategy Intern
