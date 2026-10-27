@@ -11,12 +11,12 @@
 | Rishi | — | 이력서 보냄 (10/5) | — | 피드백 기다리는 중 | |
 | Tanvi | — | 이력서 피드백 받음 (10/5) | — | 수정 반영 | |
 | McKenzie Jones | Google | 완료 (McKenzie 요청으로 5pm으로 변경) | 10/14 (수) 5:00–5:30pm ET | ✅ 감사 메일 보냄 (10/14) — McKenzie 'Please keep in touch!' | jonesmckenzie@google.com |
-| Kabir Gandhi | Apollo | **재조율 중** — 10/13 제안엔 답 없음 → Julie가 10/17 밤 새 시간 제안 | 수 10/21 3:30–4 / 목 10/22 5–5:30 / 금 10/23 1pm 이후 (ET) | Kabir 답장 대기 (10/26 아침까지 답 없음 — 제안한 시간 모두 지남, 새 시간 제안 필요) | ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
+| Kabir Gandhi | Apollo | **재조율 중** — 10/13 제안엔 답 없음 → Julie가 10/17 밤 새 시간 제안 | 수 10/21 3:30–4 / 목 10/22 5–5:30 / 금 10/23 1pm 이후 (ET) | Kabir 답장 대기 (10/27 아침까지 답 없음 — 제안한 시간 모두 지남, 새 시간 제안 필요) | ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
 | Tomi Aluko | — | 완료 | 10/7 (수) 7:30pm | 감사 메일 | |
 | Carrie Goodrich | Amazon (Sr TPM) | 팀에 추천 전달 완료 (10/7) | — | 감사 답장 보냄 | |
 | Anne Marie Checcone | HBS CPD | 완료 — 커리어 코치 상담 | 10/20 (화) 12:45pm ET, Zoom | ✅ 감사 메일 보냄 → Anne Marie 'Stay in touch with your progress!' (10/21) | Gmail에 남은 예전 수락 초안 2개(10/8·10/13)는 이제 보내지 말 것 |
 | Martha Tassinari | HBS ('94) | 2차 피드백 받음 (10/9, 'v13 MT Feedback' docx — 기여도 명확화 코멘트 + 여백/서식 제안) | — | 감사 답장 초안 업데이트됨 (10/10) — 반영 후 Google 지원 | 1차 10/8 'MT Edits' |
-| Jeff Bussgang | Flybridge / HBS | 오피스아워 대기자 — 10/23 Zoom 자리는 못 잡은 듯 → 10/21 Laura가 **다음 주 대면 자리** 제안 (먼저 답하는 사람 배정) | 10/26 (월) 12:50 / 1:10 PM, 10/30 (금) 2:20 PM | 세 시간 다 가능하다는 새 답장 초안 (10/22) — 10/26 아침까지 Gmail 초안 그대로 (Outlook으로 보냈는지 확인) · 10/22 3:40 급구 Zoom 자리는 16분 만에 마감 · 예전 10/23 초안은 보내지 말 것 | Laura Whitmer (lwhitmer@hbs.edu) |
+| Jeff Bussgang | Flybridge / HBS | 오피스아워 대기자 — 10/21 Laura가 다음 주 대면 자리 제안 (먼저 답하는 사람 배정) · 월 10/26 자리는 지남 (10/26 아침 12:50 급구 자리도 3분 만에 마감) | 남은 후보: 10/30 (금) 2:20 PM | 답장 초안 10/27 수정 — 금 2:20 자리 요청 + 안 되면 대기 유지 (Gmail 초안, 미발송 · Outlook으로 이미 답했는지 확인) · 예전 10/23 초안은 보내지 말 것 | Laura Whitmer (lwhitmer@hbs.edu) |
 | Chris Yoon | Google | Google 추천 초대 → Julie 수락 (10/13) — 두 번째 Google 추천 | — | ✅ 감사 답장 보냄 (10/13) · ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) | 같은 초대로 ~11/12까지 최대 3개 · 이력서 피드백 반영본 OK |
 | Jason Lee | Google | Google 추천 초대 → Julie 수락 (10/13) | — | ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) · ✅ Google 리크루터가 추천 2개 모두 보인다고 확인 (10/20, CPD Cathy 통해) | 같은 초대로 11/12까지 최대 3개 |
 | Kay Sin | Adobe | Adobe 2027 MBA PM 인턴 추천 (10/12) | — | ✅ 지원 완료 (10/13) | |
@@ -28,13 +28,27 @@
 | 재형 (jaehyoungc) | NVIDIA (GPU demand planning) | 추천 요청 (10/16) — Laptop PM 인턴 JR2025905 + GPU Data Center PM 인턴 JR2025670, 추천 코멘트 초안 전달 | — | 재형 추천 대기 — 추천 메일은 qhektndus95@gmail.com으로 갈 수 있음 (봇이 못 보는 계정) | 9/28엔 Shawn Skoog에게 전달 부탁했었음 |
 | David Askaryan (daskaryan@gmail.com) | 창업 후 빅테크 (뉴욕) | 완료 (10/21 Meet) | 10/21 (수) 4:00–4:30pm ET | ✅ 감사 메일 보냄 → David 'definitely stay in touch' | 초기 단계 프로덕트·창업→빅테크 경로 조언 구함 |
 | Nilay Ajbani | Cisco (Strategy & Planning MBA 로테이션) | 리크루터가 먼저 연락 (10/23) — 'came across your resume' | — | 가상 설명회 Webex 등록 + 커피챗 관심 폼 제출 (https://forms.cloud.microsoft/r/4ZALauz17J) | niajbani@cisco.com · 설명회 링크 https://cisco.webex.com/weblink/register/r61f422c457bb39f04446f563f51a65cb |
-| Cathy Hutchinson | HBS CPD (Career Adviser) | 확정 — 커리어 코치 상담 (12twenty 예약) | 10/26 (월) 3:00pm ET, Zoom | ⚠️ 캘린더에 없음 · FRC 중간고사 리뷰 세션(3–5pm, 녹화)과 겹침 | https://hbs.zoom.us/my/cathyhutchinson · 10/20 Google 추천 확인 도와줌 |
+| Cathy Hutchinson | HBS CPD (Career Adviser) | 확정 — 커리어 코치 상담 (12twenty 예약) | 10/26 (월) 3:00pm ET, Zoom | 10/26 오후 12twenty 상담 후기 설문 도착 | https://hbs.zoom.us/my/cathyhutchinson · 10/20 Google 추천 확인 도와줌 |
 
 ## 다가오는 리크루팅 이벤트
 - 10/5 (월) 5:30–7pm McKinsey + HBS RC Recruiting Kickoff — Winthrop Center 20F (등록함)
 - 10/6 (화) 2:30pm Google MBA Alumni Panel for Interns — Aldrich 112
 - 10/6 (화) 4:10pm Google Coffee Chats — Spangler 087
 - 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
+
+## 10/27 브리핑 (화)
+- 🔴 Jeff Bussgang: 10/26 아침 12:50 급구 자리 메일 → 3분 만에 마감 · 월 대면 자리는 지나서 **답장 초안을 금 10/30 2:20 요청 + 대기 유지로 수정** (Gmail 초안, 미발송)
+- ✅ 10/26 Marketing 결석 → 출결 포털 제출 완료 (excused) · Moynihan 교수 답장 — 필요하면 오피스아워에서 수업·중간고사 내용 정리 도와준다고 함
+- [ ] LEAD Module 2 (Enhancing Interpersonal Effectiveness) Reflection 마감 10/26 11:30pm 지남 — 제출했는지 확인 · LEAD Midpoint Case & Content Poll (Qualtrics)
+- [ ] **FIN1 Exercise 3** — 10/26 3pm 오픈, **월 11/2 11:59pm 마감** (90분, 오픈북, 인터넷·협업 불가)
+- 오늘: 1–2pm 'AI, Ethics & the Future of Civil Society' Askwith Hall (12:30 점심) · 5–6pm MKT TA Celine Chammas 정량 기법 리뷰 Aldrich 107 (Quantitative Exercise 대비, 녹화) · FIN1 리뷰 세션 5–6 / 6–7pm Aldrich 007 (Zoom 가능) · 6pm NextView
+- 📅 SIPs 날짜 정정: **Startup Bootcamp 1/16–1/22, 2027** (배정은 그대로)
+- ✅ Microsoft Product Management Intern (200063148) 지원 완료 (10/26) — 예전 'Senior Strategy & Investment Analyst' 미완료 건과는 별개
+- TOM Kyle Myers 교수 답장 (10/21 메일에 대한 감사 답장)
+- [ ] 택배 3개: Rock Center 지하 Locker 1 · 2 · 7 (10/26)
+- 🟢 ⭐ AI Club: 'Inside Ode with Anthropic' **월 11/9 3:30–4:30 Aldrich 109** · Adam Selipsky (전 AWS CEO) **목 11/5 4pm 입장, 4:30–5:30 Klarman** (Eventbrite 등록, 선착순·Harvard ID 필요) · Rolodex Night 디렉토리 폼 11/1까지 (https://forms.gle/WJJLRCwEE73v1aLT7)
+- Harvard/Yale 테일게이트 티켓 **수 10/28 1pm** 오픈 (11/21 11–3:30 Time Out Market, $40/$60/$80) · Spirit Week 테마 안내 (SA)
+- HBS 이벤트 캘린더 (화 11/3): ⭐ Strategy& 1:1 커피챗 3:30–6 Spangler 209–210 · L.E.K. 설명회 3:30 & 커피챗 4:30 · Bain Women's Event 5:30 — 3:30대는 Manny Sahota와 겹침
 
 ## 10/26 브리핑 (월)
 - [ ] **오늘 3pm Cathy Hutchinson (CPD) 커리어 코치 상담** — Zoom https://hbs.zoom.us/my/cathyhutchinson · 캘린더에 없음 · ⚠️ FRC 중간고사 리뷰 세션(3–5pm, Aldrich 207 + Zoom, 녹화)과 겹침 → 리뷰는 녹화로
@@ -62,7 +76,7 @@
 - 🔴 Cisco 리크루터 Nilay Ajbani가 직접 연락 (10/23): Strategy & Planning MBA 로테이션 — 가상 설명회 등록 + 캠퍼스·화상 커피챗 관심 폼
 - 🔴 Jeff Bussgang: 다음 주 대면 자리(월 10/26 12:50·1:10, 금 10/30 2:20) 답장 초안 아직 Gmail에 그대로 — 월요일 자리면 이틀 남음 · Kabir는 답 없음, 제안했던 시간 모두 지남
 - [ ] **목 10/29 1:50–3:50pm FRC 중간고사** (평소 강의실) — 월 10/26 3–5pm 리뷰 세션 (Aldrich 207 + Zoom, 녹화) · Canvas에 연습 문제·해설·가이드 · 결과는 11/3 · 'Humble Design' 케이스 실물 월 10/26 Spangler 지하에서 수령
-- ✅ January SIPs 확정: **Startup Bootcamp, Week 2 (1/21–1/24, 2027)** — 전 세션 출석 필수, P/LP/F 성적, 철회 마감 1/12 12pm
+- ✅ January SIPs 확정: **Startup Bootcamp** (~~Week 2, 1/21–1/24~~ → 10/26 정정: **1/16–1/22, 2027**) — 전 세션 출석 필수, P/LP/F 성적, 철회 마감 1/12 12pm
 - [ ] 택배: Rock Center 지하 Locker 1 (10/23)
 - LEAD 중간 설문 · TOM 선택 기술 노트 'Production Processes' Canvas에
 - Section G: Heidi Roizen 케이스 후속 대화 (Feldberg 교수) · International Flag Day 안내
