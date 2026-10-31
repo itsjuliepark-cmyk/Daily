@@ -11,12 +11,12 @@
 | Rishi | — | 이력서 보냄 (10/5) | — | 피드백 기다리는 중 | |
 | Tanvi | — | 이력서 피드백 받음 (10/5) | — | 수정 반영 | |
 | McKenzie Jones | Google | 완료 (McKenzie 요청으로 5pm으로 변경) | 10/14 (수) 5:00–5:30pm ET | ✅ 감사 메일 보냄 (10/14) — McKenzie 'Please keep in touch!' | jonesmckenzie@google.com |
-| Kabir Gandhi | Apollo | **재조율 중** — 10/13 제안엔 답 없음 → Julie가 10/17 밤 새 시간 제안 | 수 10/21 3:30–4 / 목 10/22 5–5:30 / 금 10/23 1pm 이후 (ET) | Kabir 답장 대기 (10/30 아침까지 답 없음 — 제안한 시간 모두 지남, 새 시간 제안 필요) | ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
+| Kabir Gandhi | Apollo | **재조율 중** — 10/13 제안엔 답 없음 → Julie가 10/17 밤 새 시간 제안 | 수 10/21 3:30–4 / 목 10/22 5–5:30 / 금 10/23 1pm 이후 (ET) | Kabir 답장 대기 (10/31 아침까지 답 없음 — 제안한 시간 모두 지남, 새 시간 제안 필요) | ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
 | Tomi Aluko | — | 완료 | 10/7 (수) 7:30pm | 감사 메일 | |
 | Carrie Goodrich | Amazon (Sr TPM) | 팀에 추천 전달 완료 (10/7) | — | 감사 답장 보냄 | |
 | Anne Marie Checcone | HBS CPD | 완료 — 커리어 코치 상담 | 10/20 (화) 12:45pm ET, Zoom | ✅ 감사 메일 보냄 → Anne Marie 'Stay in touch with your progress!' (10/21) | Gmail에 남은 예전 수락 초안 2개(10/8·10/13)는 이제 보내지 말 것 |
 | Martha Tassinari | HBS ('94) | 2차 피드백 받음 (10/9, 'v13 MT Feedback' docx — 기여도 명확화 코멘트 + 여백/서식 제안) | — | 감사 답장 초안 업데이트됨 (10/10) — 반영 후 Google 지원 | 1차 10/8 'MT Edits' |
-| Jeff Bussgang | Flybridge / HBS | 오피스아워 대기자 — 10/27 Laura 새 메일 → 10/28 후속: 남은 자리 11/2 3:00·3:40·4:20 (10/30 2:20·11/2 3:20은 마감) | 후보: 11/2 (월) 3:00 PM | **새 스레드 답장 초안 10/29 수정 — 월 3:00 요청** (3:40·4:20은 Samsung GSG 3:45·Starbucks 4:00과 겹침) · 10/30 아침까지 미발송 (Laura 새 메일 없음) · ⚠️ 예전 10/21 스레드 초안(10/27 수정본)과 10/23 초안은 보내지 말 것 | Laura Whitmer (lwhitmer@hbs.edu) |
+| Jeff Bussgang | Flybridge / HBS | 오피스아워 대기자 — 10/27 Laura 새 메일 → 10/28 후속: 남은 자리 11/2 3:00·3:40·4:20 (10/30 2:20·11/2 3:20은 마감) | 후보: 11/2 (월) 3:00 PM | **새 스레드 답장 초안 10/29 수정 — 월 3:00 요청** (3:40·4:20은 Samsung GSG 3:45·Starbucks 4:00과 겹침) · 10/31 아침까지 Gmail에서 미발송 (Laura 새 메일 없음 — Outlook으로 보냈는지 확인) · ⚠️ 예전 10/21 스레드 초안(10/27 수정본)과 10/23 초안은 보내지 말 것 | Laura Whitmer (lwhitmer@hbs.edu) |
 | Chris Yoon | Google | Google 추천 초대 → Julie 수락 (10/13) — 두 번째 Google 추천 | — | ✅ 감사 답장 보냄 (10/13) · ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) | 같은 초대로 ~11/12까지 최대 3개 · 이력서 피드백 반영본 OK |
 | Jason Lee | Google | Google 추천 초대 → Julie 수락 (10/13) | — | ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) · ✅ Google 리크루터가 추천 2개 모두 보인다고 확인 (10/20, CPD Cathy 통해) | 같은 초대로 11/12까지 최대 3개 |
 | Kay Sin | Adobe | Adobe 2027 MBA PM 인턴 추천 (10/12) | — | ✅ 지원 완료 (10/13) | |
@@ -29,13 +29,23 @@
 | David Askaryan (daskaryan@gmail.com) | 창업 후 빅테크 (뉴욕) | 완료 (10/21 Meet) | 10/21 (수) 4:00–4:30pm ET | ✅ 감사 메일 보냄 → David 'definitely stay in touch' | 초기 단계 프로덕트·창업→빅테크 경로 조언 구함 |
 | Nilay Ajbani | Cisco (Strategy & Planning MBA 로테이션) | 리크루터가 먼저 연락 (10/23) — 'came across your resume' | — | 가상 설명회 Webex 등록 + 커피챗 관심 폼 제출 (https://forms.cloud.microsoft/r/4ZALauz17J) | niajbani@cisco.com · 설명회 링크 https://cisco.webex.com/weblink/register/r61f422c457bb39f04446f563f51a65cb |
 | Cathy Hutchinson | HBS CPD (Career Adviser) | 확정 — 커리어 코치 상담 (12twenty 예약) | 10/26 (월) 3:00pm ET, Zoom | 10/26 오후 12twenty 상담 후기 설문 도착 | https://hbs.zoom.us/my/cathyhutchinson · 10/20 Google 추천 확인 도와줌 |
-| Andrew Chey (HBS 2027) / Avis Budget Group | Avis × HBS 드링크 (CEO Brian Choi와 소규모 모임, ~25명) | 자리 확보 (10/30 안내) — **10/30까지 참석 확인 + 식이 제한 회신 요청** | 11/16 (월) 6:00–8:00pm, Alden & Harlow (40 Brattle St) | 참석 확인 답장 초안 (10/30) — 식이 제한 칸 [none] 확인 후 발송 · 원하면 이력서를 Ashley Dell'Olio (ashley.dellolio@avisbudget.com)에게 (선택) | achey@mba2027.hbs.edu · Section G Flag Day가 11/16(월)로 잡히면 시간 확인 |
+| Andrew Chey (HBS 2027) / Avis Budget Group | Avis × HBS 드링크 (CEO Brian Choi와 소규모 모임, ~25명) | 자리 확보 (10/30 안내) — **10/30까지 참석 확인 + 식이 제한 회신 요청** | 11/16 (월) 6:00–8:00pm, Alden & Harlow (40 Brattle St) | 참석 확인 답장 초안 (10/30) — 식이 제한 칸 [none] 확인 후 발송 · 10/31 아침까지 Gmail에서 미발송 (마감 10/30 지남 — Outlook으로 답했는지 확인) · 원하면 이력서를 Ashley Dell'Olio (ashley.dellolio@avisbudget.com)에게 (선택) | achey@mba2027.hbs.edu · Section G Flag Day가 11/16(월)로 잡히면 시간 확인 |
 
 ## 다가오는 리크루팅 이벤트
 - 10/5 (월) 5:30–7pm McKinsey + HBS RC Recruiting Kickoff — Winthrop Center 20F (등록함)
 - 10/6 (화) 2:30pm Google MBA Alumni Panel for Interns — Aldrich 112
 - 10/6 (화) 4:10pm Google Coffee Chats — Spangler 087
 - 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
+
+## 10/31 브리핑 (토)
+- 🔴 새 요청 없음 · Avis 참석 확인 초안 (마감 10/30)·Bussgang 월 11/2 3:00 초안 모두 Gmail에서 아직 미발송 — Outlook으로 답했는지 확인
+- [ ] **택배 3개: Student Mail Center (Rock Center 지하 B010)** — 2개 + Amazon 1개 (10/30 도착), 5 영업일 내 수령 · 토요일은 8am–12pm, 평일 8–5 · HBS ID 지참
+- [ ] 이동 카트: 10/30 4:37pm 다시 대여 기록 — 쓰고 나면 바로 메일센터 창구에 반납 (반납 전까지 리마인더 옴)
+- [ ] **월 11/2 11:59pm 마감**: MKT Quantitative Exercise #2 · FIN1 Exercise 3
+- [ ] TOM 모듈 1+2 피드백 설문 (익명) — 다음 TOM 수업 목 11/5 전까지
+- FRC 9주차 정리 슬라이드 (Canvas) · 학장 메일 'Our Mission and Values' (2027년 6월 캠퍼스 100주년)
+- 🟢 [ ] **AI Club Rolodex Night 매칭 폼 내일(일 11/1)까지** (https://forms.gle/WJJLRCwEE73v1aLT7) · GV Dave Munichiello 화상 토크는 어제 진행 · HBS Show Club Cabaret 2026
+- 내일 일 11/1 10am–4pm Startup Bootcamp 킥오프 (Spangler 51 → Hives, 노트북 필수)
 
 ## 10/30 브리핑 (금)
 - 🔴 **Avis × HBS 드링크 (CEO Brian Choi)** 자리 확보 — 월 11/16 6–8pm Alden & Harlow · **오늘(10/30)까지 참석 확인 + 식이 제한 회신** → 답장 초안 준비 ([none] 확인)
