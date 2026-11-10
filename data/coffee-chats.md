@@ -32,7 +32,7 @@
 | Andrew Chey (HBS 2027) / Avis Budget Group | Avis × HBS 드링크 (CEO Brian Choi와 소규모 모임, ~25명) | 자리 확보 (10/30 안내) — **10/30까지 참석 확인 + 식이 제한 회신 요청** | 11/16 (월) 6:00–8:00pm, Alden & Harlow (40 Brattle St) | Andrew가 11/5 다시 확인 요청 — **11/6(금)까지 회신** → 참석 확인 초안 11/6 수정 ('식이 제한·알레르기 없음'으로 채움, 확인 후 발송) · 11/10 아침까지 Gmail에서 미발송 (마감 11/6 지남 — Outlook으로 답했는지 확인) · 원하면 이력서를 Ashley Dell'Olio (ashley.dellolio@avisbudget.com)에게 (선택) | achey@mba2027.hbs.edu · Section G Flag Day가 11/16(월)로 잡히면 시간 확인 |
 | Jeffrey Fan | OpenAI | 완료 (11/5 Meet) | 11/5 (목) 4:00–4:30pm ET, Google Meet | ✅ 감사 메일 보냄 (11/6, LinkedIn 메시지도) | 'Jeff - Julie' 30분 |
 | Eileen Xia | HBS EC (CPD 케이스 프렙 코치) | 1차 완료 (11/5 Phin 대면) → **2차 케이스 프렙 목 11/12로 변경** (11/9 Eileen 업데이트 초대 · 12twenty 예약도 같은 시간) | **11/12 (목) 3:30–4:00pm ET, Zoom** (원래 수 11/11 4pm) | 케이스 준비 · ⚠️ STRAT Strategy in Practice (3:30–4:30)·BCG 온라인 케이스 (3–7pm)와 겹침 — 어느 쪽 할지 정하기 · 1차 감사 메일 (Gmail엔 안 보임 — Outlook으로 보냈는지 확인) | LinkedIn으로 연락 → 12twenty 예약 |
-| Zac Thomas (HKS) · Nora Panholzer (HBS 2027) | 공동 창업 준비 중 (AI 에이전트 관련 실험) | 30분 인터뷰 + 데모 요청 (11/9) — AI Club Rolodex 행사에서 봤다고, 이번 주 안에 원함 | 미정 — 제안: 수 11/11 2:00–4:30 / 금 11/13 10:00–12:00 (ET) | **답장 초안 준비 (11/10)** — 보내거나, 두 사람 중 한 명의 예약 링크로 직접 잡기 | 대상이 아니면 지인 소개도 부탁 |
+| Zac T. (HKS) · Nora P. (HBS 2027) | 학생 팀 (AI 에이전트 관련) | 30분 인터뷰 + 데모 요청 (11/9) — 이번 주 안에 원함 | 미정 — 제안: 수 11/11 2:00–4:30 / 금 11/13 10:00–12:00 (ET) | **답장 초안 준비 (11/10)** — 보내거나 메일 속 예약 링크로 직접 잡기 | |
 
 ## 다가오는 리크루팅 이벤트
 - 10/5 (월) 5:30–7pm McKinsey + HBS RC Recruiting Kickoff — Winthrop Center 20F (등록함)
@@ -41,7 +41,7 @@
 - 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
 
 ## 11/10 브리핑 (화)
-- 🔴 **Zac Thomas (HKS)·Nora Panholzer (HBS 2027) 인터뷰 요청** — 공동 창업 준비 중, 에이전트 만드는 사람 대상 30분 인터뷰 + 데모 (이번 주 안에) → 답장 초안 (수 11/11 2:00–4:30 / 금 11/13 10–12 제안) · 예약 링크로 직접 잡아도 됨
+- 🔴 **Zac T. (HKS)·Nora P. (HBS 2027) 인터뷰 요청** — 에이전트 만드는 사람 대상 30분 인터뷰 + 데모 (이번 주 안에) → 답장 초안 (수 11/11 2:00–4:30 / 금 11/13 10–12 제안) · 예약 링크로 직접 잡아도 됨
 - 🔴 **Eileen 2차 케이스 프렙 → 목 11/12 3:30–4:00 (Zoom)** 으로 변경 (원래 수 4pm · 12twenty도 같은 시간) — STRAT Strategy in Practice (3:30–4:30, Aldrich 112)·BCG 온라인 케이스 (3–7pm)와 겹침
 - 🔴 Gmail 미발송 초안 그대로 — **Bussgang (Laura 근무 3:30까지)** · Avis 참석 확인 (마감 11/6 지남) · Tech Club — Outlook으로 답했는지 확인
 - 🟠 **BCG 지원 오늘 밤 11:59 마감** · NVIDIA Strategic Partnerships MBA 인턴 지원 접수 확인 · 내일 마감: Bain 서울 (11:59pm PT)·IBM 녹화 인터뷰 (~11/11)·TOM 폴 · Slack: Startup Bootcamp 과제 안내 (11/1 메시지) 안 읽음 — 팀 제출 확인
