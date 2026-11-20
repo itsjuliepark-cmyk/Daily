@@ -11,12 +11,12 @@
 | Rishi | — | 이력서 보냄 (10/5) | — | 피드백 기다리는 중 | |
 | Tanvi | — | 이력서 피드백 받음 (10/5) | — | 수정 반영 | |
 | McKenzie Jones | Google | 완료 (McKenzie 요청으로 5pm으로 변경) | 10/14 (수) 5:00–5:30pm ET | ✅ 감사 메일 보냄 (10/14) — McKenzie 'Please keep in touch!' | jonesmckenzie@google.com |
-| Kabir Gandhi | Apollo | **재조율 중** — 10/13 제안엔 답 없음 → Julie가 10/17 밤 새 시간 제안 | 수 10/21 3:30–4 / 목 10/22 5–5:30 / 금 10/23 1pm 이후 (ET) | Kabir 답장 대기 (11/18 아침까지 답 없음 — 제안한 시간 모두 지남, 새 시간 제안 필요) | ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
+| Kabir Gandhi | Apollo | **재조율 중** — 10/13 제안엔 답 없음 → Julie가 10/17 밤 새 시간 제안 | 수 10/21 3:30–4 / 목 10/22 5–5:30 / 금 10/23 1pm 이후 (ET) | Kabir 답장 대기 (11/20 아침까지 답 없음 — 제안한 시간 모두 지남, 새 시간 제안 필요) | ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
 | Tomi Aluko | — | 완료 | 10/7 (수) 7:30pm | 감사 메일 | |
 | Carrie Goodrich | Amazon (Sr TPM) | 팀에 추천 전달 완료 (10/7) | — | 감사 답장 보냄 | |
 | Anne Marie Checcone | HBS CPD | 완료 — 커리어 코치 상담 → **업데이트 이력서 리뷰 받음 (11/10, 'great shape' + 사소한 코멘트 docx)** | 10/20 (화) 12:45pm ET, Zoom | ✅ 감사 메일 보냄 → Anne Marie 'Stay in touch with your progress!' (10/21) · ✅ 이력서 리뷰 감사 메일 보냄 (11/10) → Anne Marie 'Keep me posted on your progress' → ✅ 답장 (11/11) · 코멘트 반영 | Gmail에 남은 예전 수락 초안 2개(10/8·10/13)는 이제 보내지 말 것 |
 | Martha Tassinari | HBS ('94) | 2차 피드백 받음 (10/9, 'v13 MT Feedback' docx — 기여도 명확화 코멘트 + 여백/서식 제안) | — | 감사 답장 초안 업데이트됨 (10/10) — 반영 후 Google 지원 | 1차 10/8 'MT Edits' |
-| Jeff Bussgang | Flybridge / HBS | **11/9 Laura: 회신이 없어 대기명단에서 제외 확인** (11/5에 11/13 Zoom 자리 1:30·1:50·2:10·2:50·3:10 안내했었음) | 미정 | **회신 초안 11/14 수정 — 11/13 자리는 지나서 늦은 답 사과 + 대기명단 유지 요청만** (Laura 근무 평일 7:30–3:30) · 11/18 아침까지 Gmail에서 미발송 (Outlook으로 답했는지 확인) · ⚠️ 예전 초안 3개 (10/16·10/27 수정본·11/3 대기 요청)는 보내지 말 것 | Laura Whitmer (lwhitmer@hbs.edu) |
+| Jeff Bussgang | Flybridge / HBS | **11/9 Laura: 회신이 없어 대기명단에서 제외 확인** (11/5에 11/13 Zoom 자리 1:30·1:50·2:10·2:50·3:10 안내했었음) | 미정 | **회신 초안 11/14 수정 — 11/13 자리는 지나서 늦은 답 사과 + 대기명단 유지 요청만** (Laura 근무 평일 7:30–3:30) · 11/20 아침까지 Gmail에서 미발송 (Outlook으로 답했는지 확인) · ⚠️ 예전 초안 3개 (10/16·10/27 수정본·11/3 대기 요청)는 보내지 말 것 | Laura Whitmer (lwhitmer@hbs.edu) |
 | Chris Yoon | Google | Google 추천 초대 → Julie 수락 (10/13) — 두 번째 Google 추천 | — | ✅ 감사 답장 보냄 (10/13) · ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) | 같은 초대로 ~11/12까지 최대 3개 · 이력서 피드백 반영본 OK |
 | Jason Lee | Google | Google 추천 초대 → Julie 수락 (10/13) | — | ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) · ✅ Google 리크루터가 추천 2개 모두 보인다고 확인 (10/20, CPD Cathy 통해) | 같은 초대로 11/12까지 최대 3개 |
 | Kay Sin | Adobe | Adobe 2027 MBA PM 인턴 추천 (10/12) | — | ✅ 지원 완료 (10/13) | |
@@ -29,21 +29,32 @@
 | David Askaryan (daskaryan@gmail.com) | 창업 후 빅테크 (뉴욕) | 완료 (10/21 Meet) | 10/21 (수) 4:00–4:30pm ET | ✅ 감사 메일 보냄 → David 'definitely stay in touch' | 초기 단계 프로덕트·창업→빅테크 경로 조언 구함 |
 | Nilay Ajbani | Cisco (Strategy & Planning MBA 로테이션) | 리크루터가 먼저 연락 (10/23) — 'came across your resume' | — | 가상 설명회 Webex 등록 + 커피챗 관심 폼 제출 (https://forms.cloud.microsoft/r/4ZALauz17J) | niajbani@cisco.com · 설명회 링크 https://cisco.webex.com/weblink/register/r61f422c457bb39f04446f563f51a65cb |
 | Cathy Hutchinson | HBS CPD (Career Adviser) | 확정 — 커리어 코치 상담 (12twenty 예약) | 10/26 (월) 3:00pm ET, Zoom | 10/26 오후 12twenty 상담 후기 설문 도착 | https://hbs.zoom.us/my/cathyhutchinson · 10/20 Google 추천 확인 도와줌 |
-| Andrew Chey (HBS 2027) / Avis Budget Group | Avis × HBS 드링크 (CEO Brian Choi와 소규모 모임, ~25명) | **✅ 드링크 참석 (11/16)** → Avis가 CFO·전략 디렉터 1:1 커피챗 슬롯 오픈 (선착순, 1:30–4:30 30분 단위, Spangler 211/212, 이력서 지참 — 날짜는 메일에 없음, 아마 11/17) | 11/16 (월) 6:00–8:00pm, Alden & Harlow | **1:1 요청 초안 (11/17, 2:00 희망)** — 11/18 아침까지 Gmail에서 미발송 (슬롯이 11/17이었다면 이미 지남 — Outlook으로 답했는지 확인) · 예전 참석 확인 초안(11/6)은 이제 필요 없음 · 원하면 이력서를 Ashley Dell'Olio (ashley.dellolio@avisbudget.com)에게 (선택) | achey@mba2027.hbs.edu · Section G Flag Day가 11/16(월)로 잡히면 시간 확인 |
+| Andrew Chey (HBS 2027) / Avis Budget Group | Avis × HBS 드링크 (CEO Brian Choi와 소규모 모임, ~25명) | **✅ 드링크 참석 (11/16)** → Avis가 CFO·전략 디렉터 1:1 커피챗 슬롯 오픈 (선착순, 1:30–4:30 30분 단위, Spangler 211/212, 이력서 지참 — 날짜는 메일에 없음, 아마 11/17) | 11/16 (월) 6:00–8:00pm, Alden & Harlow | **1:1 요청 초안 (11/17, 2:00 희망)** — 11/20 아침까지 Gmail에서 미발송 (슬롯이 11/17이었다면 이미 지남 — Outlook으로 답했는지 확인) · 예전 참석 확인 초안(11/6)은 이제 필요 없음 · 원하면 이력서를 Ashley Dell'Olio (ashley.dellolio@avisbudget.com)에게 (선택) | achey@mba2027.hbs.edu · Section G Flag Day가 11/16(월)로 잡히면 시간 확인 |
 | Jeffrey Fan | OpenAI | 완료 (11/5 Meet) | 11/5 (목) 4:00–4:30pm ET, Google Meet | ✅ 감사 메일 보냄 (11/6, LinkedIn 메시지도) | 'Jeff - Julie' 30분 |
-| Eileen Xia | HBS EC (CPD 케이스 프렙 코치) | 1차 완료 (11/5 Phin 대면) → **2차 (11/12 3:30 Zoom) — 12twenty 후기 설문 옴** | 11/12 (목) 3:30–4:00pm ET, Zoom | **감사 메일 초안 (11/13)** — 11/11 확인 초안을 감사 메일로 바꿈 (Outlook 장애라 Gmail로 보내면 됨) · 11/18 아침까지 미발송 · 1차 감사 메일 (Gmail엔 안 보임 — Outlook으로 보냈는지 확인) | LinkedIn으로 연락 → 12twenty 예약 |
-| Zac T. (HKS) · Nora P. (HBS 2027) | 학생 팀 (AI 에이전트 관련) | 30분 인터뷰 + 데모 요청 (11/9) — 이번 주 안에 원함 | 미정 — 예약 링크로 직접 잡기 | **답장 초안 11/18 수정** (구체적 시간 빼고 예약 링크로 잡겠다는 내용 — 더는 날짜가 지나지 않게) — 11/18 아침까지 미발송 · 보내거나 메일 속 예약 링크로 직접 잡기 | |
+| Eileen Xia | HBS EC (CPD 케이스 프렙 코치) | 1차 완료 (11/5 Phin 대면) → **2차 (11/12 3:30 Zoom) — 12twenty 후기 설문 옴** | 11/12 (목) 3:30–4:00pm ET, Zoom | **감사 메일 초안 (11/13)** — 11/11 확인 초안을 감사 메일로 바꿈 (Outlook 장애라 Gmail로 보내면 됨) · 11/20 아침까지 미발송 · 1차 감사 메일 (Gmail엔 안 보임 — Outlook으로 보냈는지 확인) | LinkedIn으로 연락 → 12twenty 예약 |
+| Zac T. (HKS) · Nora P. (HBS 2027) | 학생 팀 (AI 에이전트 관련) | 30분 인터뷰 + 데모 요청 (11/9) — 이번 주 안에 원함 | 미정 — 예약 링크로 직접 잡기 | **답장 초안 11/18 수정** (구체적 시간 빼고 예약 링크로 잡겠다는 내용 — 더는 날짜가 지나지 않게) — 11/20 아침까지 미발송 · 보내거나 메일 속 예약 링크로 직접 잡기 | |
 | Jill Avery | HBS 섹션 G 체어 (Senior Lecturer) | AI 연구 기회 조언 받음 (11/12) — AI 교수 7명 추천 + AI Institute·EC 독립 프로젝트·Rock Center·i-Lab | — | ✅ 감사 답장 (11/12 밤, Gmail) → Jill 'anything else, reach out' (11/13) · 추천 교수에게 연락 · 봄학기에 다시 연락 | 봄학기엔 시간 여유가 더 있다고 함 |
 | Raphael S. | HMS | SEAS 연구자 연결을 도와주기로 함 | — | ✅ 소개용 블러브 보냄 (11/13, Gmail) · 커피/식사 제안 — 답 대기 | |
-| Deb Spar | HBS Senior Associate Dean (Faculty Development & Research) | AI 연구 상담 요청에 '시간 내겠다' 답장 (11/13) — 일정은 Kaila T.가 조율 | **12/2 (수) 오후 — Kaila: 2–5pm 중 (3pm 제외)** | ✅ 교수에게 감사 답장 (11/14) · ✅ Julie가 Kaila에게 '12/2 좋다, 시간 알려달라' 답장 (11/17, Outlook) → Kaila가 2–5pm (3pm 제외) 제안 → **2:00 확정 요청 초안 (11/18, 3:30/4:00도 가능 · 장소 문의)** | SAS 추천으로 연락 |
-| Matt Weinzierl | HBS Senior Associate Dean | AI 연구 상담 요청 → 이메일로 조언 (11/16, 일정이 꽉 차서 미팅은 어려움) — HBS RA 프로그램·AI Institute·Kempner에 직접 연락, 관심 교수에게 직접 메일 | — | **감사 답장 초안 (11/17)** — 11/18 아침까지 미발송 | SAS 추천으로 연락 |
-| Logan K. | Harvard College (AI/ML 연구 — LLM이 사용자 압박에 흔들리는 문제·해석가능성) | 11/17 첫 미팅 → 협업하고 싶다는 후속 메일 (11/17) | 다음 미팅 미정 — 제안: 금 11/20 10–12 / 월 11/23 2–4 (11/24–29는 출장, Zoom 가능) | **답장 초안 (11/18)** | |
+| Deb Spar | HBS Senior Associate Dean (Faculty Development & Research) | AI 연구 상담 요청에 '시간 내겠다' 답장 (11/13) — 일정은 Kaila T.가 조율 → **✅ 확정 (11/18)** | **12/2 (수) 3:30–4:00pm, Morgan 143** (Kaila가 초대 보냄) | ✅ 교수에게 감사 답장 (11/14) · ✅ Julie가 Kaila에게 '12/2 좋다, 시간 알려달라' 답장 (11/17, Outlook) → Kaila가 2–5pm (3pm 제외) 제안 → Julie가 '수업이 3:20에 끝나니 3:30도 되는지' 물어봄 (Outlook) → Kaila '3:30 OK, 초대 보냄' (11/18) → **Outlook에서 초대 수락** · 예전 '2:00 요청' 초안은 **확정 감사 초안으로 바꿈 (11/20)** | SAS 추천으로 연락 |
+| Matt Weinzierl | HBS Senior Associate Dean | AI 연구 상담 요청 → 이메일로 조언 (11/16, 일정이 꽉 차서 미팅은 어려움) — HBS RA 프로그램·AI Institute·Kempner에 직접 연락, 관심 교수에게 직접 메일 | — | **감사 답장 초안 (11/17)** — 11/20 아침까지 미발송 | SAS 추천으로 연락 |
+| Logan K. | Harvard College (AI/ML 연구 — LLM이 사용자 압박에 흔들리는 문제·해석가능성) | 11/17 첫 미팅 → 협업하고 싶다는 후속 메일 (11/17) | 다음 미팅 미정 — 제안: 월 11/23 2–4 (11/24–29는 Logan 출장 → Zoom 또는 돌아온 뒤 대면) | **답장 초안 (11/18) → 11/20 수정** (금 11/20은 지나서 뺌) — 11/20 아침까지 미발송 · Logan 새 메일 없음 | |
+| Santhosh P. | HBS 2028 (같은 학년) | 1:1 초대 옴 (11/20 새벽) | **11/20 (금) 12:30–1:00pm, Spangler** | Outlook에서 초대 수락 | |
 
 ## 다가오는 리크루팅 이벤트
 - 10/5 (월) 5:30–7pm McKinsey + HBS RC Recruiting Kickoff — Winthrop Center 20F (등록함)
 - 10/6 (화) 2:30pm Google MBA Alumni Panel for Interns — Aldrich 112
 - 10/6 (화) 4:10pm Google Coffee Chats — Spangler 087
 - 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
+
+## 11/20 브리핑 (금) — 11/19 실행 누락분 포함 (48시간 · 52개)
+- 🔴 ✅ **Spar 교수 미팅 확정: 수 12/2 3:30–4:00pm, Morgan 143** — Julie가 '수업이 3:20에 끝나서 3:30도 되는지' 물어봄 (Outlook) → Kaila '3:30 OK, 초대 보냄' (11/18) → **Outlook에서 초대 수락** · 예전 '2:00 요청' 초안은 **확정 감사 초안으로 바꿈**
+- 🔴 **오늘 12:30–1:00 Santhosh P. 1:1 (Spangler)** — 새벽에 초대 옴 (수락 필요) → 1:15–4:30 Section G Flag Day 2
+- 🔴 Logan K. 초안 수정 — 금 11/20 10–12는 오늘이라 빼고 **월 11/23 2–4** + (11/24–29 출장 중엔 Zoom / 돌아온 뒤 대면) · Logan 새 메일 없음
+- ✅ Moynihan 교수: AI 의사결정 프레임워크 메일에 답장 (11/19 — 수업에서 다시 다룰 기회가 생기면 발표 부탁하겠다고) → Julie 답장 (11/19) → 교수 감사 답장 (11/20) — 추가 답장 불필요
+- 미발송 초안: Kaila 감사 (새로) · Logan · Zac/Nora (예약 링크) · Weinzierl 감사 · Eileen 감사 · SAS 교수 명단 · Bussgang 대기명단 · Avis (지났을 듯) · Tech Club
+- 🟠 **Spring 2027 등록 체크리스트 (필수) — 목 1/21 9am까지 완료** → 등록은 대면: 금 1/22 1–5pm 또는 월 1/25 8am–5pm (Spangler Williams Room) · 봄 시간표 공개 수 12/2 · 개강 월 1/25
+- 🟠 NVC 지원 12/2까지 · FRC 새 케이스 'Roblox, Revenue Recognition, and the SEC' 인쇄본 — Spangler 지하 배포 데스크 · Patagonia: Krishna 최종 명단에 Julie Park 있음 → 스크린샷 건 해결 · 택배 Locker 1 리마인더 · ChatGPT/Claude Edu 라이선스 요청 접수 (2건) · May IFC FAQ · TOM Beer Game AI 실험 안내 (11/18, 지남) · 지원 접수 확인: Uber PM 인턴 · CrowdStrike MBA PM 인턴 · Duetti Product 인턴
+- 🟢 월 11/23 5–6 AI Club Show and Tell (Aldrich 110) · 5–7 Gallatin & Chase Friendsgiving (Gallatin Lounge) · ⭐ 월 11/30 3:30–5:30 Tech Club × Cognition 파이어사이드 (Aldrich 207) ↔ 4:30–6:30 Tech Club Rolodex Night (Aldrich 011, 그룹 폼) 겹침 · ⭐ 수 12/2 5:30–8 AI Club × Scale AI 학기말 소셜 (장소 추후 — Spar 미팅 뒤) · **Holidazzle 티켓 오픈** (금 12/4 9pm–2am Westin Copley · $80/$50 · 한정 — 설문 11/24까지 섹션 상금) · IOP JFK Jr. Forum · 지난 행사: AABA Vicky Tsai · Tech Club AI Stack (11/19)
 
 ## 11/18 브리핑 (수)
 - 🔴 **Spar 교수 미팅**: Julie가 Kaila에게 답장함 (11/17, Outlook) → Kaila: **12/2 2–5pm 중 아무 때나 (3pm은 교수 일정 있음)** → **2:00 확정 요청 초안** (3:30/4:00도 가능, 장소 문의)
