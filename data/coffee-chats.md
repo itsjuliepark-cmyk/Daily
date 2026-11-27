@@ -52,7 +52,7 @@ The bot updates this table every time it sees a coffee-chat-related email.
 
 ## 11/26 Briefing (Thu, Thanksgiving)
 - 🔴 No new emails needing a reply; unsent drafts: **checkup center (next week's times)**, Tom thank-you, Logan (11/30 2–3:30 or Zoom), McKinsey Laura Z., Kaila thank-you, Zac/Nora, Weinzierl, Eileen, SAS, Bussgang, Avis, Tech Club
-- 🟠 NVC team: Jack H. (HMS) shared the 'PCP contact' spreadsheet (edit access); **FIN1 Exercise 4 due Mon 11/30 11:59pm**
+- 🟠 NVC team: a teammate shared the 'PCP contact' spreadsheet (edit access); **FIN1 Exercise 4 due Mon 11/30 11:59pm**
 - 🟢 ⭐ Mon 11/30 5–6 AI Club × Modulate AI CEO Carter Huffman (Aldrich 112); on 11/30 it conflicts with the 3:30 STRAT guest session/Cognition and the 4:30 Rolodex
 
 ## 11/25 Briefing (Wed)
