@@ -1,34 +1,34 @@
-# 학교 Outlook을 매번 로그인 없이 연결하기
+# Connecting School Outlook Without Signing In Every Time
 
-학교 계정(Microsoft 365)은 보통 학교 IT가 외부 앱 연결을 막아 둡니다.
-그래서 Claude의 Microsoft 365 커넥터가 "관리자 승인 필요"로 막히는 경우가 많아요.
-**학교 비밀번호를 봇에 저장하는 방식은 쓰지 않습니다** (MFA 때문에 동작도 안 하고, 학교 규정 위반 소지).
+School accounts (Microsoft 365) usually have external app connections blocked by school IT.
+That is why Claude's Microsoft 365 connector often gets stuck on "Admin approval required".
+**We do not store the school password in the bot** (it would not work because of MFA, and it could violate school policy).
 
-## 방법 A (추천): Outlook → Gmail 자동 전달
+## Option A (recommended): auto-forward Outlook to Gmail
 
-한 번 설정하면 학교 메일이 Gmail로 계속 복사되고, 봇은 Gmail만 보면 됩니다. 로그인 만료 없음.
+Set it up once and school email keeps getting copied to Gmail, so the bot only needs to look at Gmail. No sign-in expiry.
 
-1. 지금 열어둔 Outlook 웹에서 오른쪽 위 **⚙️ 설정**
-2. **메일 → 전달(Forwarding)**
-3. **전달 사용(Enable forwarding)** 체크
-4. 받을 주소: 내 Gmail 주소
-5. **전달된 메시지의 복사본 유지(Keep a copy of forwarded messages)** 체크 ← 꼭!
-6. 저장
+1. In Outlook on the web, click **⚙️ Settings** at the top right
+2. **Mail → Forwarding**
+3. Check **Enable forwarding**
+4. Forward to: my Gmail address
+5. Check **Keep a copy of forwarded messages** ← important!
+6. Save
 
-그 다음 Gmail에서 필터 만들기:
-- 검색창 옆 필터 아이콘 → **받는사람(To)**: `@학교도메인` (예: `@school.edu`)
-- **필터 만들기** → **라벨 적용: `School`** (+ 원하면 "받은편지함 건너뛰기")
+Then create a filter in Gmail:
+- Filter icon next to the search bar → **To**: `@school-domain` (e.g. `@school.edu`)
+- **Create filter** → **Apply the label: `School`** (+ "Skip the Inbox" if you want)
 
-> 전달이 안 되고 `550 5.7.520 Access denied, your organization does not allow external forwarding`
-> 같은 반송 메일이 오면 → 학교가 외부 전달을 막은 것. 방법 B/C로.
+> If forwarding does not work and you get a bounce such as `550 5.7.520 Access denied, your organization does not allow external forwarding`,
+> the school has blocked external forwarding. Use Option B or C.
 
-## 방법 B: Microsoft 365 커넥터 재연결
+## Option B: reconnect the Microsoft 365 connector
 
-https://claude.ai/customize/connectors → Microsoft 365 → 재연결.
-"관리자 승인 필요" 화면이 뜨면 학교 IT 정책으로 막힌 것.
-참고: 이 커넥터는 메일 **검색·읽기 전용**이라, 연결돼도 라벨/답장은 Gmail 쪽에서만 가능.
+https://claude.ai/customize/connectors → Microsoft 365 → Reconnect.
+If an "Admin approval required" screen appears, it is blocked by school IT policy.
+Note: this connector is **search and read-only** for mail, so even when connected, labels and replies are only possible on the Gmail side.
 
-## 방법 C: 브라우저 세션 이용 (컴퓨터가 켜져 있을 때만)
+## Option C: use the browser session (only while the computer is on)
 
-Claude 데스크톱 앱 + Claude in Chrome 확장을 쓰면, 이미 로그인된 Outlook 탭을 Claude가 직접 읽을 수 있습니다.
-단, 컴퓨터가 켜져 있고 브라우저 로그인이 유지될 때만 동작해서 "매일 아침 자동 실행"용으로는 A가 훨씬 안정적입니다.
+With the Claude desktop app plus the Claude in Chrome extension, Claude can read an Outlook tab that is already signed in.
+However, this only works while the computer is on and the browser stays signed in, so for a "run automatically every morning" setup, Option A is much more reliable.

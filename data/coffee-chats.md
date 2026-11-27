@@ -1,529 +1,529 @@
-# 커피챗 기록
+# Coffee Chat Log
 
-봇이 커피챗 관련 메일을 볼 때마다 이 표를 갱신합니다.
+The bot updates this table every time it sees a coffee-chat-related email.
 
-| 이름 | 회사/소속 | 상태 | 일시 | 후속 조치 | 메모 |
+| Name | Company/Affiliation | Status | Date/Time | Follow-up | Notes |
 |---|---|---|---|---|---|
-| Emily Sillari | Google | 완료 | 9/29 (화) | ✅ 감사 답장 보냄 (10/4) | 이력서 리뷰는 어렵고, 인터뷰 잡히면 인터뷰 준비 도와준다고 함 |
-| Ben Horwitz | — | 완료 | 10/2 (금) 1:00pm ET | ✅ 이력서 보냄, 피드백 받음 (10/5) | 이력서 봐줌 |
-| Martín Rubino | Zepo | Martín이 10/13 1:30 예약 취소 (10/12) — 다음 주로 재예약 요청 | — | 원하면 그의 예약 링크로 다시 잡기: https://calendar.app.google/9Gfvr6nwfj7ZFmH36 | Julie가 9/30에 직접 예약했던 미팅 |
-| Connie Chen | HBS 2015 동문 | 확정 (캘린더 있음) | 10/7 (수) 8:30–9am ET (런던 1:30pm) | 감사 메일 | meet.google.com/bcm-vpki-myv |
-| Rishi | — | 이력서 보냄 (10/5) | — | 피드백 기다리는 중 | |
-| Tanvi | — | 이력서 피드백 받음 (10/5) | — | 수정 반영 | |
-| McKenzie Jones | Google | 완료 (McKenzie 요청으로 5pm으로 변경) | 10/14 (수) 5:00–5:30pm ET | ✅ 감사 메일 보냄 (10/14) — McKenzie 'Please keep in touch!' | jonesmckenzie@google.com |
-| Kabir Gandhi | Apollo | **재조율 중** — 10/13 제안엔 답 없음 → Julie가 10/17 밤 새 시간 제안 | 수 10/21 3:30–4 / 목 10/22 5–5:30 / 금 10/23 1pm 이후 (ET) | Kabir 답장 대기 (11/26 아침까지 답 없음 — 제안한 시간 모두 지남, 새 시간 제안 필요) | ⚠️ Gmail에 남은 10/12 밤 '통화 감사' 초안은 통화 전이라 보내지 말 것 |
-| Tomi Aluko | — | 완료 | 10/7 (수) 7:30pm | 감사 메일 | |
-| Carrie Goodrich | Amazon (Sr TPM) | 팀에 추천 전달 완료 (10/7) | — | 감사 답장 보냄 | |
-| Anne Marie Checcone | HBS CPD | 완료 — 커리어 코치 상담 → **업데이트 이력서 리뷰 받음 (11/10, 'great shape' + 사소한 코멘트 docx)** | 10/20 (화) 12:45pm ET, Zoom | ✅ 감사 메일 보냄 → Anne Marie 'Stay in touch with your progress!' (10/21) · ✅ 이력서 리뷰 감사 메일 보냄 (11/10) → Anne Marie 'Keep me posted on your progress' → ✅ 답장 (11/11) · 코멘트 반영 | Gmail에 남은 예전 수락 초안 2개(10/8·10/13)는 이제 보내지 말 것 |
-| Martha Tassinari | HBS ('94) | 2차 피드백 받음 (10/9, 'v13 MT Feedback' docx — 기여도 명확화 코멘트 + 여백/서식 제안) | — | 감사 답장 초안 업데이트됨 (10/10) — 반영 후 Google 지원 | 1차 10/8 'MT Edits' |
-| Jeff Bussgang | Flybridge / HBS | **11/9 Laura: 회신이 없어 대기명단에서 제외 확인** (11/5에 11/13 Zoom 자리 1:30·1:50·2:10·2:50·3:10 안내했었음) | 미정 | **회신 초안 11/14 수정 — 11/13 자리는 지나서 늦은 답 사과 + 대기명단 유지 요청만** (Laura 근무 평일 7:30–3:30) · 11/26 아침까지 Gmail에서 미발송 (Outlook으로 답했는지 확인) · ⚠️ 예전 초안 3개 (10/16·10/27 수정본·11/3 대기 요청)는 보내지 말 것 | Laura Whitmer (lwhitmer@hbs.edu) |
-| Chris Yoon | Google | Google 추천 초대 → Julie 수락 (10/13) — 두 번째 Google 추천 | — | ✅ 감사 답장 보냄 (10/13) · ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) | 같은 초대로 ~11/12까지 최대 3개 · 이력서 피드백 반영본 OK |
-| Jason Lee | Google | Google 추천 초대 → Julie 수락 (10/13) | — | ✅ Google 지원 완료 (10/15, Chris·Jason 둘 다 추천인으로 연결) · ✅ Google 리크루터가 추천 2개 모두 보인다고 확인 (10/20, CPD Cathy 통해) | 같은 초대로 11/12까지 최대 3개 |
-| Kay Sin | Adobe | Adobe 2027 MBA PM 인턴 추천 (10/12) | — | ✅ 지원 완료 (10/13) | |
-| Manny Sahota | Microsoft | 확정 (Manny 수락, 캘린더 있음) | 11/3 (화) 3:30–4pm ET, Meet | — | 'Check-in' |
-| Sara Torti | HBS (PM Interview SIP) | 통화 완료 (10/8) | 10월 마지막 주 | Julie가 다시 연락하기로 함 | 캠퍼스 방문 때 만나자고 함 |
-| 동욱 (irakim0839) | — | 일정 재조율 — **10/3부터 답장 대기 중** | ~~10/9 (금) 10pm~~ 리트릿과 겹침 | 기존 초안(10/9) 보내지 말 것 — 새 날짜로 수정 필요 | 10/2 일정은 Julie 사정으로 취소, Meet: meet.google.com/ikg-brdn-omu |
-| Arun Venkatesan | NVIDIA | ✅ Data Center GPU PM 추천 + ✅ Enterprise AI PM MBA 인턴 (JR2026707) 추천 메일 도착 (10/20) | — | ✅ Enterprise AI 지원 완료 (10/21 새벽, Workday 접수 확인) · 감사 메일 | 공고: https://jobs.nvidia.com/careers/job/893397711858 · 9/27엔 리크루터 Shawn Skoog에게 연락 부탁했었음 |
-| Lokesh Batra | NVIDIA | 추천 요청 보냄 (10/15 밤) — 같은 Data Center GPU PM MBA 인턴 (JR2025670), 추천 문구 초안·이력서 첨부 | — | NVIDIA 추천 메일 2건 도착 (10/16) — 누가 보냈는지는 메일에 없음 | lbatra@nvidia.com · 9/27엔 리크루터 Shawn Skoog에게 이력서 전달 부탁했었음 |
-| 재형 (jaehyoungc) | NVIDIA (GPU demand planning) | 추천 요청 (10/16) — Laptop PM 인턴 JR2025905 + GPU Data Center PM 인턴 JR2025670, 추천 코멘트 초안 전달 | — | 재형 추천 대기 — 추천 메일은 Julie의 다른 개인 Gmail로 갈 수 있음 (봇이 못 보는 계정) | 9/28엔 Shawn Skoog에게 전달 부탁했었음 |
-| David Askaryan (daskaryan@gmail.com) | 창업 후 빅테크 (뉴욕) | 완료 (10/21 Meet) | 10/21 (수) 4:00–4:30pm ET | ✅ 감사 메일 보냄 → David 'definitely stay in touch' | 초기 단계 프로덕트·창업→빅테크 경로 조언 구함 |
-| Nilay Ajbani | Cisco (Strategy & Planning MBA 로테이션) | 리크루터가 먼저 연락 (10/23) — 'came across your resume' | — | 가상 설명회 Webex 등록 + 커피챗 관심 폼 제출 (https://forms.cloud.microsoft/r/4ZALauz17J) | niajbani@cisco.com · 설명회 링크 https://cisco.webex.com/weblink/register/r61f422c457bb39f04446f563f51a65cb |
-| Cathy Hutchinson | HBS CPD (Career Adviser) | 확정 — 커리어 코치 상담 (12twenty 예약) | 10/26 (월) 3:00pm ET, Zoom | 10/26 오후 12twenty 상담 후기 설문 도착 | https://hbs.zoom.us/my/cathyhutchinson · 10/20 Google 추천 확인 도와줌 |
-| Andrew Chey (HBS 2027) / Avis Budget Group | Avis × HBS 드링크 (CEO Brian Choi와 소규모 모임, ~25명) | **✅ 드링크 참석 (11/16)** → Avis가 CFO·전략 디렉터 1:1 커피챗 슬롯 오픈 (선착순, 1:30–4:30 30분 단위, Spangler 211/212, 이력서 지참 — 날짜는 메일에 없음, 아마 11/17) | 11/16 (월) 6:00–8:00pm, Alden & Harlow | **1:1 요청 초안 (11/17, 2:00 희망)** — 11/26 아침까지 Gmail에서 미발송 (슬롯이 11/17이었다면 이미 지남 — Outlook으로 답했는지 확인) · 예전 참석 확인 초안(11/6)은 이제 필요 없음 · 원하면 이력서를 Ashley Dell'Olio (ashley.dellolio@avisbudget.com)에게 (선택) | achey@mba2027.hbs.edu · Section G Flag Day가 11/16(월)로 잡히면 시간 확인 |
-| Jeffrey Fan | OpenAI | 완료 (11/5 Meet) | 11/5 (목) 4:00–4:30pm ET, Google Meet | ✅ 감사 메일 보냄 (11/6, LinkedIn 메시지도) | 'Jeff - Julie' 30분 |
-| Eileen Xia | HBS EC (CPD 케이스 프렙 코치) | 1차 완료 (11/5 Phin 대면) → **2차 (11/12 3:30 Zoom) — 12twenty 후기 설문 옴** | 11/12 (목) 3:30–4:00pm ET, Zoom | **감사 메일 초안 (11/13)** — 11/11 확인 초안을 감사 메일로 바꿈 (Outlook 장애라 Gmail로 보내면 됨) · 11/26 아침까지 미발송 · 1차 감사 메일 (Gmail엔 안 보임 — Outlook으로 보냈는지 확인) | LinkedIn으로 연락 → 12twenty 예약 |
-| Zac T. (HKS) · Nora P. (HBS 2027) | 학생 팀 (AI 에이전트 관련) | 30분 인터뷰 + 데모 요청 (11/9) — 이번 주 안에 원함 | 미정 — 예약 링크로 직접 잡기 | **답장 초안 11/18 수정** (구체적 시간 빼고 예약 링크로 잡겠다는 내용 — 더는 날짜가 지나지 않게) — 11/26 아침까지 미발송 · 보내거나 메일 속 예약 링크로 직접 잡기 | |
-| Jill Avery | HBS 섹션 G 체어 (Senior Lecturer) | AI 연구 기회 조언 받음 (11/12) — AI 교수 7명 추천 + AI Institute·EC 독립 프로젝트·Rock Center·i-Lab | — | ✅ 감사 답장 (11/12 밤, Gmail) → Jill 'anything else, reach out' (11/13) · 추천 교수에게 연락 · 봄학기에 다시 연락 | 봄학기엔 시간 여유가 더 있다고 함 |
-| Raphael S. | HMS | SEAS 연구자 연결을 도와주기로 함 | — | ✅ 소개용 블러브 보냄 (11/13, Gmail) · 커피/식사 제안 — 답 대기 | |
-| Deb Spar | HBS Senior Associate Dean (Faculty Development & Research) | AI 연구 상담 요청에 '시간 내겠다' 답장 (11/13) — 일정은 Kaila T.가 조율 → **✅ 확정 (11/18)** | **12/2 (수) 3:30–4:00pm, Morgan 143** (Kaila가 초대 보냄) | ✅ 교수에게 감사 답장 (11/14) · ✅ Julie가 Kaila에게 '12/2 좋다, 시간 알려달라' 답장 (11/17, Outlook) → Kaila가 2–5pm (3pm 제외) 제안 → Julie가 '수업이 3:20에 끝나니 3:30도 되는지' 물어봄 (Outlook) → Kaila '3:30 OK, 초대 보냄' (11/18) → **Outlook에서 초대 수락** · 예전 '2:00 요청' 초안은 **확정 감사 초안으로 바꿈 (11/20)** | SAS 추천으로 연락 |
-| Matt Weinzierl | HBS Senior Associate Dean | AI 연구 상담 요청 → 이메일로 조언 (11/16, 일정이 꽉 차서 미팅은 어려움) — HBS RA 프로그램·AI Institute·Kempner에 직접 연락, 관심 교수에게 직접 메일 | — | **감사 답장 초안 (11/17)** — 11/26 아침까지 미발송 | SAS 추천으로 연락 |
-| Logan K. | Harvard College (AI/ML 연구 — LLM이 사용자 압박에 흔들리는 문제·해석가능성) | 11/17 첫 미팅 → 협업하고 싶다는 후속 메일 (11/17) | 다음 미팅 미정 — 제안: 출장 중 (11/24–29) Zoom 또는 **월 11/30 2–3:30** 대면 | **답장 초안 (11/18) → 11/20 → 11/23 수정** (보내지 않은 사이 11/20·11/23 시간이 지나감 · 늦은 답 사과 추가) — 11/26 아침까지 미발송 · Logan 새 메일 없음 | |
-| Santhosh P. | HBS 2028 (같은 학년) | 1:1 (11/20 12:30 예정이었음 — 진행 여부는 메일로 확인 안 됨) | 11/20 (금) 12:30–1:00pm, Spangler | — | |
-| Jinit S. | HBS 2028 (엔터프라이즈 AI·LLM 에이전트 경험) | NVC 팀원 제안 — Julie가 AI Club Rolodex 보고 연락 (11/21) → Jinit '월 6pm?' → Julie '6pm 안 됨, 12:30–2 어때' (Outlook) → Jinit '월 12:30 Spangler' → Julie가 당일 취소 → Jinit '화 5:30pm 가능' → Julie가 Outlook으로 확정 후 Zoom으로 변경 요청 → Jinit '5pm이면 좋겠다' | **✅ 11/24 (화) 5pm Zoom 미팅 함** (Zoom 참가 알림으로 확인) | 다음 단계는 메일에 없음 (팀 합류 여부 확인) · Gmail 초안은 더 이상 필요 없음 | NVC 등록 마감 12/2 |
-| Tom S. | HBS 2028 | NVC 팀원 제안 (11/21) → 올해는 어렵다며 정중히 거절 (11/23) | — | **감사 답장 초안 (11/24)** — 나중에 커피 제안 | |
-| 서울 검진센터 담당자 | NVC 제휴 문의 | Julie 제안 메일 (11/24) → 회의 시간 알려달라는 긍정적 회신 → Julie가 '11/25 (수) 10시 (한국)' 제안 (Outlook) → 담당자: **이번 주는 목 11/26 오후 3시 (한국)만 가능 = 보스턴 새벽 1시**, 다음 주는 화요일 빼고 다 됨 · 앞으로 담당자 개인 메일로 연락 요청 (11/25) | 제안 (한국 시간): 11/30 (월) 10:00 · 12/3 (목) 11:00 · 12/4 (금) 10:00 = 보스턴 전날 저녁 8·9·8시 | **다음 주 시간 제안 초안 (11/25)** — 11/26 아침까지 Gmail에서 미발송 (목 새벽 1시 자리는 지남 — Outlook으로 답했는지 확인) | 화상 20–30분, 정해지면 Zoom 링크 |
-| Laura Z. | McKinsey (Engagement Manager) | 체크인 메일 (11/20) — HBS 리크루팅으로 연락했었는데 지원하지 않은 이유를 물어봄 (부담 없음) | — | **답장 초안 (11/21)** — 이유 부분은 Julie가 확인·수정 · 11/26 아침까지 미발송 | 리크루팅팀 Delaney B.·Samantha J. 참조 |
+| Emily Sillari | Google | Done | Tue 9/29 | ✅ Thank-you reply sent (10/4) | Can't review the resume, but offered to help with interview prep once an interview is scheduled |
+| Ben Horwitz | n/a | Done | Fri 10/2 1:00pm ET | ✅ Resume sent, feedback received (10/5) | Reviewed the resume |
+| Martín Rubino | Zepo | Martín canceled the 10/13 1:30 booking (10/12); asked to rebook for next week | n/a | If wanted, rebook via his booking link: https://calendar.app.google/9Gfvr6nwfj7ZFmH36 | Meeting Julie booked herself on 9/30 |
+| Connie Chen | HBS 2015 alum | Confirmed (on calendar) | Wed 10/7 8:30–9am ET (1:30pm London) | Thank-you email | meet.google.com/bcm-vpki-myv |
+| Rishi | n/a | Resume sent (10/5) | n/a | Waiting for feedback | |
+| Tanvi | n/a | Resume feedback received (10/5) | n/a | Apply edits | |
+| McKenzie Jones | Google | Done (moved to 5pm at McKenzie's request) | Wed 10/14 5:00–5:30pm ET | ✅ Thank-you email sent (10/14); McKenzie: 'Please keep in touch!' | jonesmckenzie@google.com |
+| Kabir Gandhi | Apollo | **Rescheduling**: no reply to the 10/13 proposal → Julie proposed new times on the night of 10/17 | Wed 10/21 3:30–4 / Thu 10/22 5–5:30 / Fri 10/23 after 1pm (ET) | Waiting for Kabir's reply (no reply as of the morning of 11/26; all proposed times have passed, new times needed) | ⚠️ Do not send the 10/12 night 'thanks for the call' draft still in Gmail; it was written before the call |
+| Tomi Aluko | n/a | Done | Wed 10/7 7:30pm | Thank-you email | |
+| Carrie Goodrich | Amazon (Sr TPM) | Referral passed to the team (10/7) | n/a | Thank-you reply sent | |
+| Anne Marie Checcone | HBS CPD | Done: career coach session → **received a review of the updated resume (11/10, 'great shape' + minor comments in a docx)** | Tue 10/20 12:45pm ET, Zoom | ✅ Thank-you email sent → Anne Marie: 'Stay in touch with your progress!' (10/21); ✅ thank-you email for the resume review sent (11/10) → Anne Marie: 'Keep me posted on your progress' → ✅ replied (11/11); apply the comments | Do not send the two old acceptance drafts still in Gmail (10/8, 10/13) |
+| Martha Tassinari | HBS ('94) | Second round of feedback received (10/9, 'v13 MT Feedback' docx: comments to clarify contributions + margin/formatting suggestions) | n/a | Thank-you reply draft updated (10/10); apply edits, then apply to Google | First round 10/8 'MT Edits' |
+| Jeff Bussgang | Flybridge / HBS | **11/9 Laura: confirmed removal from the waitlist for not replying** (on 11/5 she had offered 11/13 Zoom slots at 1:30, 1:50, 2:10, 2:50, 3:10) | TBD | **Reply draft revised 11/14: since the 11/13 slots have passed, only an apology for the late reply + a request to stay on the waitlist** (Laura works weekdays 7:30–3:30); not sent from Gmail as of the morning of 11/26 (check whether replied via Outlook); ⚠️ do not send the three old drafts (10/16, revised 10/27, 11/3 waitlist request) | Laura Whitmer (lwhitmer@hbs.edu) |
+| Chris Yoon | Google | Google referral invite → Julie accepted (10/13); second Google referral | n/a | ✅ Thank-you reply sent (10/13); ✅ Google application done (10/15, both Chris and Jason linked as referrers) | Same invite allows up to 3 by ~11/12; resume with feedback applied is OK |
+| Jason Lee | Google | Google referral invite → Julie accepted (10/13) | n/a | ✅ Google application done (10/15, both Chris and Jason linked as referrers); ✅ Google recruiter confirmed both referrals are visible (10/20, via CPD Cathy) | Same invite allows up to 3 by 11/12 |
+| Kay Sin | Adobe | Referral for Adobe 2027 MBA PM intern (10/12) | n/a | ✅ Application done (10/13) | |
+| Manny Sahota | Microsoft | Confirmed (Manny accepted, on calendar) | Tue 11/3 3:30–4pm ET, Meet | n/a | 'Check-in' |
+| Sara Torti | HBS (PM Interview SIP) | Call done (10/8) | Last week of October | Julie to reach out again | Suggested meeting during a campus visit |
+| Dongwook (irakim0839) | n/a | Rescheduling: **waiting for a reply since 10/3** | ~~Fri 10/9 10pm~~ conflicts with the retreat | Do not send the existing draft (10/9); needs a new date | The 10/2 meeting was canceled on Julie's side; Meet: meet.google.com/ikg-brdn-omu |
+| Arun Venkatesan | NVIDIA | ✅ Data Center GPU PM referral + ✅ Enterprise AI PM MBA intern (JR2026707) referral email arrived (10/20) | n/a | ✅ Enterprise AI application done (early 10/21, Workday receipt confirmed); thank-you email | Posting: https://jobs.nvidia.com/careers/job/893397711858; on 9/27 asked him to contact recruiter Shawn Skoog |
+| Lokesh Batra | NVIDIA | Referral request sent (night of 10/15) for the same Data Center GPU PM MBA intern role (JR2025670), with draft referral text and resume attached | n/a | Two NVIDIA referral emails arrived (10/16); the emails don't say who sent them | lbatra@nvidia.com; on 9/27 asked him to pass the resume to recruiter Shawn Skoog |
+| Jaehyoung (jaehyoungc) | NVIDIA (GPU demand planning) | Referral request (10/16): Laptop PM intern JR2025905 + GPU Data Center PM intern JR2025670, draft referral comments shared | n/a | Waiting for Jaehyoung's referral; the referral email may go to Julie's other personal Gmail (an account the bot can't see) | On 9/28 asked him to pass it to Shawn Skoog |
+| David Askaryan (daskaryan@gmail.com) | Founder turned Big Tech (New York) | Done (10/21 Meet) | Wed 10/21 4:00–4:30pm ET | ✅ Thank-you email sent → David: 'definitely stay in touch' | Asked for advice on early-stage product and the founder-to-Big-Tech path |
+| Nilay Ajbani | Cisco (Strategy & Planning MBA rotation) | Recruiter reached out first (10/23): 'came across your resume' | n/a | Register for the virtual info session on Webex + submit the coffee chat interest form (https://forms.cloud.microsoft/r/4ZALauz17J) | niajbani@cisco.com; info session link https://cisco.webex.com/weblink/register/r61f422c457bb39f04446f563f51a65cb |
+| Cathy Hutchinson | HBS CPD (Career Adviser) | Confirmed: career coach session (booked on 12twenty) | Mon 10/26 3:00pm ET, Zoom | 12twenty session feedback survey arrived the afternoon of 10/26 | https://hbs.zoom.us/my/cathyhutchinson; helped confirm the Google referrals on 10/20 |
+| Andrew Chey (HBS 2027) / Avis Budget Group | Avis × HBS drinks (small gathering with CEO Brian Choi, ~25 people) | **✅ Attended the drinks (11/16)** → Avis opened 1:1 coffee chat slots with the CFO and strategy director (first come first served, 1:30–4:30 in 30-minute blocks, Spangler 211/212, bring a resume; date not in the email, probably 11/17) | Mon 11/16 6:00–8:00pm, Alden & Harlow | **1:1 request draft (11/17, hoping for 2:00)**: not sent from Gmail as of the morning of 11/26 (if the slots were on 11/17 they have already passed; check whether replied via Outlook); the old attendance confirmation draft (11/6) is no longer needed; optionally send the resume to Ashley Dell'Olio (ashley.dellolio@avisbudget.com) | achey@mba2027.hbs.edu; if Section G Flag Day lands on Mon 11/16, check the timing |
+| Jeffrey Fan | OpenAI | Done (11/5 Meet) | Thu 11/5 4:00–4:30pm ET, Google Meet | ✅ Thank-you email sent (11/6, plus a LinkedIn message) | 'Jeff - Julie' 30 minutes |
+| Eileen Xia | HBS EC (CPD case prep coach) | First session done (11/5 in person at Phin) → **second session (11/12 3:30 Zoom); 12twenty feedback survey arrived** | Thu 11/12 3:30–4:00pm ET, Zoom | **Thank-you email draft (11/13)**: turned the 11/11 confirmation draft into a thank-you email (Outlook outage, so sending from Gmail is fine); not sent as of the morning of 11/26; first-session thank-you email (not visible in Gmail; check whether sent via Outlook) | Contacted via LinkedIn → booked on 12twenty |
+| Zac T. (HKS), Nora P. (HBS 2027) | Student team (AI agents) | Request for a 30-minute interview + demo (11/9); want it this week | TBD: book directly via the booking link | **Reply draft revised 11/18** (removed specific times; says I'll book via the link so dates stop expiring); not sent as of the morning of 11/26; send it or book directly via the link in the email | |
+| Jill Avery | HBS Section G chair (Senior Lecturer) | Received advice on AI research opportunities (11/12): recommended 7 AI faculty + AI Institute, EC independent project, Rock Center, i-Lab | n/a | ✅ Thank-you reply (night of 11/12, Gmail) → Jill: 'anything else, reach out' (11/13); contact the recommended faculty; reach out again in the spring term | Said she has more time in the spring term |
+| Raphael S. | HMS | Offered to help connect with SEAS researchers | n/a | ✅ Sent an intro blurb (11/13, Gmail); suggested coffee/a meal, waiting for a reply | |
+| Deb Spar | HBS Senior Associate Dean (Faculty Development & Research) | Replied 'happy to make time' to the AI research consultation request (11/13); scheduling handled by Kaila T. → **✅ Confirmed (11/18)** | **Wed 12/2 3:30–4:00pm, Morgan 143** (Kaila sent the invite) | ✅ Thank-you reply to the professor (11/14); ✅ Julie replied to Kaila '12/2 works, let me know the time' (11/17, Outlook) → Kaila offered 2–5pm (except 3pm) → Julie asked whether 3:30 works since class ends at 3:20 (Outlook) → Kaila: '3:30 OK, invite sent' (11/18) → **accept the invite in Outlook**; the old '2:00 request' draft **was changed into a confirmation thank-you draft (11/20)** | Contacted on SAS's recommendation |
+| Matt Weinzierl | HBS Senior Associate Dean | AI research consultation request → advice by email (11/16; calendar full, so a meeting is difficult): contact the HBS RA program, AI Institute, and Kempner directly, and email faculty of interest directly | n/a | **Thank-you reply draft (11/17)**: not sent as of the morning of 11/26 | Contacted on SAS's recommendation |
+| Logan K. | Harvard College (AI/ML research: LLMs caving to user pressure, interpretability) | First meeting 11/17 → follow-up email saying he wants to collaborate (11/17) | Next meeting TBD; proposal: Zoom while traveling (11/24–29) or **Mon 11/30 2–3:30** in person | **Reply draft (11/18) → revised 11/20 → 11/23** (the 11/20 and 11/23 times passed while unsent; added an apology for the late reply); not sent as of the morning of 11/26; no new email from Logan | |
+| Santhosh P. | HBS 2028 (same class) | 1:1 (was scheduled for 11/20 12:30; not confirmed by email whether it happened) | Fri 11/20 12:30–1:00pm, Spangler | n/a | |
+| Jinit S. | HBS 2028 (enterprise AI, LLM agent experience) | NVC teammate pitch: Julie reached out after seeing the AI Club Rolodex (11/21) → Jinit 'Mon 6pm?' → Julie '6pm doesn't work, how about 12:30–2' (Outlook) → Jinit 'Mon 12:30 Spangler' → Julie canceled the same day → Jinit 'Tue 5:30pm works' → Julie confirmed via Outlook, then asked to switch to Zoom → Jinit '5pm would be better' | **✅ Met on Zoom Tue 11/24 5pm** (confirmed by the Zoom join notification) | Next steps not in email (confirm whether he is joining the team); Gmail draft no longer needed | NVC registration deadline 12/2 |
+| Tom S. | HBS 2028 | NVC teammate pitch (11/21) → politely declined, saying this year is hard (11/23) | n/a | **Thank-you reply draft (11/24)**: suggest coffee later | |
+| Seoul health checkup center contact | NVC partnership inquiry | Julie's proposal email (11/24) → positive reply asking for meeting times → Julie proposed 'Wed 11/25 10am (Korea)' (Outlook) → contact: **this week only Thu 11/26 3pm (Korea) works = 1am Boston**; next week anything except Tuesday; asked to use the contact's personal email going forward (11/25) | Proposed (Korea time): Mon 11/30 10:00, Thu 12/3 11:00, Fri 12/4 10:00 = 8pm, 9pm, 8pm the previous evening in Boston | **Draft proposing next week's times (11/25)**: not sent from Gmail as of the morning of 11/26 (the Thu 1am slot has passed; check whether replied via Outlook) | Video call 20–30 minutes; Zoom link once confirmed |
+| Laura Z. | McKinsey (Engagement Manager) | Check-in email (11/20): we connected through HBS recruiting, and she asked why I didn't apply (no pressure) | n/a | **Reply draft (11/21)**: Julie to check and edit the reasons; not sent as of the morning of 11/26 | Recruiting team Delaney B. and Samantha J. cc'd |
 
-## 다가오는 리크루팅 이벤트
-- 10/5 (월) 5:30–7pm McKinsey + HBS RC Recruiting Kickoff — Winthrop Center 20F (등록함)
-- 10/6 (화) 2:30pm Google MBA Alumni Panel for Interns — Aldrich 112
-- 10/6 (화) 4:10pm Google Coffee Chats — Spangler 087
-- 10/5 (월) McKinsey 캠퍼스 커피챗 — 12twenty에서 신청 (신청 여부 확인 필요)
+## Upcoming recruiting events
+- Mon 10/5 5:30–7pm McKinsey + HBS RC Recruiting Kickoff, Winthrop Center 20F (registered)
+- Tue 10/6 2:30pm Google MBA Alumni Panel for Interns, Aldrich 112
+- Tue 10/6 4:10pm Google Coffee Chats, Spangler 087
+- Mon 10/5 McKinsey campus coffee chats: sign up on 12twenty (check whether signed up)
 
-## 11/26 브리핑 (목, Thanksgiving)
-- 🔴 새로 답할 메일 없음 · 미발송 초안: **검진센터 (다음 주 시간 제안)** · Tom 감사 · Logan (11/30 2–3:30 또는 Zoom) · McKinsey Laura Z. · Kaila 감사 · Zac/Nora · Weinzierl · Eileen · SAS · Bussgang · Avis · Tech Club
-- 🟠 NVC 팀: Jack H. (HMS)가 'PCP contact' 스프레드시트 공유 (편집 권한) · **FIN1 연습 4 — 월 11/30 11:59pm 마감**
-- 🟢 ⭐ 월 11/30 5–6 AI Club × Modulate AI CEO Carter Huffman (Aldrich 112) — 11/30은 3:30 STRAT 초청 세션·Cognition, 4:30 Rolodex와 겹침
+## 11/26 Briefing (Thu, Thanksgiving)
+- 🔴 No new emails needing a reply; unsent drafts: **checkup center (next week's times)**, Tom thank-you, Logan (11/30 2–3:30 or Zoom), McKinsey Laura Z., Kaila thank-you, Zac/Nora, Weinzierl, Eileen, SAS, Bussgang, Avis, Tech Club
+- 🟠 NVC team: Jack H. (HMS) shared the 'PCP contact' spreadsheet (edit access); **FIN1 Exercise 4 due Mon 11/30 11:59pm**
+- 🟢 ⭐ Mon 11/30 5–6 AI Club × Modulate AI CEO Carter Huffman (Aldrich 112); on 11/30 it conflicts with the 3:30 STRAT guest session/Cognition and the 4:30 Rolodex
 
-## 11/25 브리핑 (수)
-- 🔴 ⭐ **NVC 제휴 — 서울 검진센터 담당자**: Julie가 제안한 11/25 10시 (한국)는 회의 때문에 안 됨 → **이번 주는 목 11/26 오후 3시 (한국 = 보스턴 새벽 1시)만 가능, 다음 주는 화요일 빼고 다 됨** · 앞으로 담당자 개인 메일로 연락 요청 → **다음 주 시간 제안 초안** (한국 11/30 월 10:00 · 12/3 목 11:00 · 12/4 금 10:00 = 보스턴 전날 저녁 8·9·8시) — 어제 만든 첫 초안은 Gmail에서 없어짐 (Julie가 직접 답장함)
-- ✅ **Jinit S.와 화 11/24 5pm Zoom 미팅 함** (Julie가 4:30 외부 일정 때문에 Zoom으로 바꿈) — 팀 합류 여부는 메일에 아직 없음
-- 미발송 초안: 검진센터 (새로) · Tom 감사 · Logan (11/30 2–3:30 또는 Zoom) · McKinsey Laura Z. · Kaila 감사 · Zac/Nora · Weinzierl · Eileen · SAS · Bussgang · Avis · Tech Club
-- 🟠 **FIN1 마지막 온라인 연습 (Exercise 4) — 월 11/30 11:59pm 마감** (시작하면 90분, 오픈북, 인터넷·협업 금지) · Toast 확인 폼 11/30 · IFC add/drop 12/7 9am · STRAT 마지막 Canvas 과제 2개 열림 · STRAT McBain 읽기 자료 수령 · Tech Club 이력서북 마감이 어제 (11/24)였음 — 냈는지 확인 · 택배 Locker 7 (새로) · HBS IT: Claude Edu는 claude.ai에서 HBS 메일로 'Sign in with SSO' 하면 됨
-- 🟠 STRAT Strategy in Practice: 월 11/30 3:30 Bath & Body Works CEO (Aldrich 107) · 화 12/1 3:30 Funko CEO (Aldrich 011) — 선착순 · WSA TOM 복습은 수 12/2 4–5 그대로 (취소 후 다시 보냄)
-- 🟢 ⭐ 화 12/1 5:30–6:15 AI Club × Lightspeed Raviraj Jain (Aldrich 207 + Teams) — AI Club 디너 (12/1, 시간 미정)와 겹칠 수 있음 · ⭐ 수 12/2 3:30–4:30 Tech Club × Samaya AI PM Angel An (Hawes 202) — Spar 미팅 (3:30)과 겹침
+## 11/25 Briefing (Wed)
+- 🔴 ⭐ **NVC partnership, Seoul health checkup center contact**: the 11/25 10am (Korea) Julie proposed doesn't work because of a meeting → **this week only Thu 11/26 3pm (Korea = 1am Boston) works; next week anything except Tuesday**; asked to use the contact's personal email going forward → **draft proposing next week's times** (Korea: Mon 11/30 10:00, Thu 12/3 11:00, Fri 12/4 10:00 = 8pm, 9pm, 8pm the previous evening in Boston); the first draft made yesterday disappeared from Gmail (Julie replied herself)
+- ✅ **Met Jinit S. on Zoom Tue 11/24 5pm** (Julie switched to Zoom because of a 4:30 outside commitment); nothing in email yet about whether he is joining the team
+- Unsent drafts: checkup center (new), Tom thank-you, Logan (11/30 2–3:30 or Zoom), McKinsey Laura Z., Kaila thank-you, Zac/Nora, Weinzierl, Eileen, SAS, Bussgang, Avis, Tech Club
+- 🟠 **FIN1 last online exercise (Exercise 4) due Mon 11/30 11:59pm** (90 minutes once started, open book, no internet or collaboration); Toast confirmation form 11/30; IFC add/drop 12/7 9am; last 2 STRAT Canvas assignments open; STRAT McBain reading received; Tech Club resume book deadline was yesterday (11/24), check whether submitted; package Locker 7 (new); HBS IT: for Claude Edu, use 'Sign in with SSO' with your HBS email on claude.ai
+- 🟠 STRAT Strategy in Practice: Mon 11/30 3:30 Bath & Body Works CEO (Aldrich 107); Tue 12/1 3:30 Funko CEO (Aldrich 011), first come first served; WSA TOM review stays Wed 12/2 4–5 (canceled, then re-sent)
+- 🟢 ⭐ Tue 12/1 5:30–6:15 AI Club × Lightspeed Raviraj Jain (Aldrich 207 + Teams); may conflict with the AI Club dinner (12/1, time TBD); ⭐ Wed 12/2 3:30–4:30 Tech Club × Samaya AI PM Angel An (Hawes 202); conflicts with the Spar meeting (3:30)
 
-## 11/24 브리핑 (화)
-- 🔴 ⭐ **Jinit S. 일정 변경**: Julie가 월 6pm 대신 12:30–2를 제안 → Jinit '월 12:30 Spangler' → Julie가 당일 취소 → Jinit **'오늘 (화) 5:30pm 가능'** → **수락 초안** (Spangler) · ⚠️ Gmail에 예전 Jinit 초안이 하나 더 있음 (빈칸 '[Julie: …]' 있는 것) — 보내지 말 것
-- 🔴 ⭐ **NVC 제휴 문의 — 서울 검진센터에서 긍정적 회신** (회의 시간 알려달라) → **시간 제안 초안** (한국 시간 11/26 목 10:00 · 11/30 월 10:00 · 12/1 화 9:00 = 보스턴 전날 저녁 8·8·7시) · 다른 클리닉 1곳은 자동 응답만 옴
-- 🔴 Tom S.: NVC 제안 정중히 거절 → **감사 답장 초안** · 🔴 **Toast Product MBA 인턴 — 리크루터가 요청한 짧은 확인 폼 11/30까지**
-- 미발송 초안: Jinit · 검진센터 · Tom (새로) · Logan (11/30 2–3:30 또는 Zoom) · McKinsey Laura Z. · Kaila 감사 · Zac/Nora · Weinzierl · Eileen · SAS · Bussgang · Avis · Tech Club
-- 🟠 **May IFC 배정 결과 나옴** (Schedule Scout) — 변경은 조건부 drop과 함께 신청 · 배치 처리 11/30·12/4 · **12/7 (월) 9am 마감** (이후 drop하면 큰 위약금) · 원하지 않는 대기명단은 빼기
-- 🟠 **Patagonia 픽업**: Spangler 007 (Products Office), HUID 지참 — 오늘 11:30–4 또는 11/30–12/2 10–4 · NVC 마감 12/2 (Rock Center 리마인더) · 섹션 회비 리마인더 · FIN1 오늘 리뷰 세션 취소 · MKT Fortis 롤플레이 봇 (선택) · FIN1 과제 채점됨
-- 🟢 ⭐ 수 12/2 4:30–5:30 AI Club × Ajay Agarwal (Bain Capital Ventures, Aldrich 109) — 12/2는 3:30 Spar → 4 TOM 복습 → 5:15 STRAT 복습 → 5:30 Scale AI 소셜까지 겹침 많음 · 오늘 12–1pm OpenAI Forum 네트워킹 (온라인) · Section G MyTakes · Presidential Public Service Fellowship 안내 · IOP
+## 11/24 Briefing (Tue)
+- 🔴 ⭐ **Jinit S. reschedule**: Julie proposed 12:30–2 instead of Mon 6pm → Jinit 'Mon 12:30 Spangler' → Julie canceled the same day → Jinit **'today (Tue) 5:30pm works'** → **acceptance draft** (Spangler); ⚠️ there is one more old Jinit draft in Gmail (the one with a blank '[Julie: …]'); do not send it
+- 🔴 ⭐ **NVC partnership inquiry: positive reply from the Seoul health checkup center** (asking for meeting times) → **draft proposing times** (Korea: Thu 11/26 10:00, Mon 11/30 10:00, Tue 12/1 9:00 = 8pm, 8pm, 7pm the previous evening in Boston); one other clinic only sent an auto-reply
+- 🔴 Tom S.: politely declined the NVC pitch → **thank-you reply draft**; 🔴 **Toast Product MBA intern: the short confirmation form the recruiter requested is due by 11/30**
+- Unsent drafts: Jinit, checkup center, Tom (new), Logan (11/30 2–3:30 or Zoom), McKinsey Laura Z., Kaila thank-you, Zac/Nora, Weinzierl, Eileen, SAS, Bussgang, Avis, Tech Club
+- 🟠 **May IFC assignments released** (Schedule Scout); request changes together with a conditional drop; batch processing 11/30 and 12/4; **deadline Mon 12/7 9am** (dropping after that carries a large penalty); remove waitlists you don't want
+- 🟠 **Patagonia pickup**: Spangler 007 (Products Office), bring HUID; today 11:30–4 or 11/30–12/2 10–4; NVC deadline 12/2 (Rock Center reminder); section dues reminder; FIN1 review session today canceled; MKT Fortis role-play bot (optional); FIN1 assignment graded
+- 🟢 ⭐ Wed 12/2 4:30–5:30 AI Club × Ajay Agarwal (Bain Capital Ventures, Aldrich 109); 12/2 is packed with overlaps: 3:30 Spar → 4 TOM review → 5:15 STRAT review → 5:30 Scale AI social; today 12–1pm OpenAI Forum networking (online); Section G MyTakes; Presidential Public Service Fellowship info; IOP
 
-## 11/23 브리핑 (월)
-- 🔴 ⭐ **Jinit S. (NVC 팀원 후보)**: Julie가 11/21 보낸 AI × 헬스케어 NVC 팀 제안에 '더 듣고 싶다, 내일 6pm 괜찮냐' 답장 (11/22) → **오늘 6pm 수락 초안** (대면이면 Spangler, 아니면 Zoom) — 오전에 보내기 · ⚠️ 같은 시간 Tech Club × Coinbase Jack Shewchuk 파이어사이드 (6pm Aldrich 107)
-- 🔴 Logan K. 초안 다시 수정 — 오늘 2–4 제안은 보내지 않아 지나감 → **출장 중 (11/24–29) Zoom 또는 월 11/30 2–3:30 대면** + 늦은 답 사과
-- 미발송 초안: Jinit (새로) · Logan · McKinsey Laura Z. (이유 수정 후) · Kaila 감사 · Zac/Nora · Weinzierl · Eileen · SAS · Bussgang · Avis · Tech Club
-- 🟠 **WSA 기말 복습 세션 (Klarman Hall, RC 누구나)**: 수 12/2 TOM 4–5 · STRAT 5:15–6:15 / 목 12/3 FRC 4–5 · MKT 5:15–6:15 / 월 12/7 FIN1 4–5 · LEAD 5:15–6:15 — ⚠️ 12/2는 3:30 Spar 미팅 직후, STRAT 복습은 Scale AI 소셜 (5:30)과 겹침 · 12/7 FIN1은 FRC TF 리뷰 (3–5)와 겹침
-- 🟢 오늘: 5–6 AI Club Show and Tell (Aldrich 110) · 5–7 Gallatin Friendsgiving · 6pm Tech Club × Coinbase (Aldrich 107)
+## 11/23 Briefing (Mon)
+- 🔴 ⭐ **Jinit S. (NVC teammate candidate)**: replied to the AI × healthcare NVC team pitch Julie sent on 11/21 with 'I'd like to hear more, does 6pm tomorrow work?' (11/22) → **draft accepting today at 6pm** (Spangler if in person, otherwise Zoom); send in the morning; ⚠️ conflicts with the Tech Club × Coinbase Jack Shewchuk fireside at the same time (6pm Aldrich 107)
+- 🔴 Logan K. draft revised again: today's 2–4 proposal passed unsent → **Zoom while traveling (11/24–29) or in person Mon 11/30 2–3:30** + apology for the late reply
+- Unsent drafts: Jinit (new), Logan, McKinsey Laura Z. (after editing the reasons), Kaila thank-you, Zac/Nora, Weinzierl, Eileen, SAS, Bussgang, Avis, Tech Club
+- 🟠 **WSA final review sessions (Klarman Hall, open to all RCs)**: Wed 12/2 TOM 4–5, STRAT 5:15–6:15 / Thu 12/3 FRC 4–5, MKT 5:15–6:15 / Mon 12/7 FIN1 4–5, LEAD 5:15–6:15; ⚠️ 12/2 comes right after the 3:30 Spar meeting, and the STRAT review conflicts with the Scale AI social (5:30); 12/7 FIN1 conflicts with the FRC TF review (3–5)
+- 🟢 Today: 5–6 AI Club Show and Tell (Aldrich 110), 5–7 Gallatin Friendsgiving, 6pm Tech Club × Coinbase (Aldrich 107)
 
-## 11/22 브리핑 (일)
-- 🔴 새로 답할 메일 없음 · 미발송 초안: **Logan (월 11/23 2–4 제안 — 오늘 보내야 내일 가능)** · McKinsey Laura Z. (이유 수정 후) · Kaila 감사 · Zac/Nora · Weinzierl · Eileen · SAS · Bussgang · Avis · Tech Club
-- 🟠 Canvas 주간 알림: **Startup Bootcamp '11/19 워킹 디너 결과물' — 11/19 11:59pm 마감** (이번 주에 새로 올라옴) → 제출했는지 Canvas에서 확인
-- 🟢 오늘 Entrepreneurship Conference (Klarman, 8–6) · Harvard-Yale 경기 (11/21) 티켓 전달은 보낸 친구가 취소함 (경기 지남, 할 일 없음)
+## 11/22 Briefing (Sun)
+- 🔴 No new emails needing a reply; unsent drafts: **Logan (Mon 11/23 2–4 proposal; must be sent today for tomorrow to work)**, McKinsey Laura Z. (after editing the reasons), Kaila thank-you, Zac/Nora, Weinzierl, Eileen, SAS, Bussgang, Avis, Tech Club
+- 🟠 Canvas weekly digest: **Startup Bootcamp '11/19 working dinner deliverable', due 11/19 11:59pm** (newly posted this week) → check on Canvas whether it was submitted
+- 🟢 Entrepreneurship Conference today (Klarman, 8–6); the Harvard-Yale game (11/21) ticket transfer was canceled by the friend who sent it (game is over, nothing to do)
 
-## 11/21 브리핑 (토)
-- 🔴 ⭐ **McKinsey Laura Z. (Engagement Manager) 체크인** — HBS 리크루팅으로 연락했었는데 결국 지원하지 않았다며 이유 (타이밍·다른 기회·McKinsey·리크루팅 경험)를 알려달라고 함 (부담 없음, 리크루팅팀 2명 참조) → **답장 초안**: AI·테크 PM 쪽에 집중하기로 했다는 내용 — 이유는 추측이라 **Julie가 실제 이유로 고치기**
-- 미발송 초안: **Logan (월 11/23 2–4 제안 — 주말 안에 보내야 의미 있음)** · Kaila 감사 · Zac/Nora (예약 링크) · Weinzierl 감사 · Eileen 감사 · SAS 교수 명단 · Bussgang 대기명단 · Avis (지났을 듯) · Tech Club
-- 🟠 **FRC 기말 월 12/14** (예시 기말 Canvas) · TF 리뷰 세션 월 12/7·수 12/9 3–5pm (Aldrich 207 + Zoom, 녹화) · TF 오피스아워 수 11/25·12/3 3–5pm · Gallatin 지붕 청소 11/23–25 오전 9시부터 (창밖에 작업자가 보일 수 있음) · Section G 예산 대시보드 + 환급 신청 폼 (섹션 행사 비용을 썼으면 신청 · 회비 아직이면 납부)
-- 🟢 **AI Club 소그룹 디너: 10조 — 화 12/1** (호스트 P. Power가 시간·장소 연락 예정 · Julie는 참석자) · Holidazzle 티켓 구매 확인 (금 12/4 9pm Westin Copley)
+## 11/21 Briefing (Sat)
+- 🔴 ⭐ **McKinsey Laura Z. (Engagement Manager) check-in**: we connected through HBS recruiting but I ended up not applying, and she asked for the reasons (timing, other opportunities, McKinsey, the recruiting experience) (no pressure, 2 recruiting team members cc'd) → **reply draft**: says I decided to focus on AI/tech PM; the reasons are a guess, so **Julie should replace them with the real reasons**
+- Unsent drafts: **Logan (Mon 11/23 2–4 proposal; only meaningful if sent over the weekend)**, Kaila thank-you, Zac/Nora (booking link), Weinzierl thank-you, Eileen thank-you, SAS faculty list, Bussgang waitlist, Avis (probably passed), Tech Club
+- 🟠 **FRC final Mon 12/14** (sample final on Canvas); TF review sessions Mon 12/7 and Wed 12/9 3–5pm (Aldrich 207 + Zoom, recorded); TF office hours Wed 11/25 and 12/3 3–5pm; Gallatin roof cleaning 11/23–25 from 9am (workers may be visible outside the window); Section G budget dashboard + reimbursement form (file if you spent money on a section event; pay dues if not yet paid)
+- 🟢 **AI Club small-group dinner: Group 10, Tue 12/1** (host P. Power will send time and place; Julie is an attendee); Holidazzle ticket purchase confirmed (Fri 12/4 9pm Westin Copley)
 
-## 11/20 브리핑 (금) — 11/19 실행 누락분 포함 (48시간 · 52개)
-- 🔴 ✅ **Spar 교수 미팅 확정: 수 12/2 3:30–4:00pm, Morgan 143** — Julie가 '수업이 3:20에 끝나서 3:30도 되는지' 물어봄 (Outlook) → Kaila '3:30 OK, 초대 보냄' (11/18) → **Outlook에서 초대 수락** · 예전 '2:00 요청' 초안은 **확정 감사 초안으로 바꿈**
-- 🔴 **오늘 12:30–1:00 Santhosh P. 1:1 (Spangler)** — 새벽에 초대 옴 (수락 필요) → 1:15–4:30 Section G Flag Day 2
-- 🔴 Logan K. 초안 수정 — 금 11/20 10–12는 오늘이라 빼고 **월 11/23 2–4** + (11/24–29 출장 중엔 Zoom / 돌아온 뒤 대면) · Logan 새 메일 없음
-- ✅ Moynihan 교수: AI 의사결정 프레임워크 메일에 답장 (11/19 — 수업에서 다시 다룰 기회가 생기면 발표 부탁하겠다고) → Julie 답장 (11/19) → 교수 감사 답장 (11/20) — 추가 답장 불필요
-- 미발송 초안: Kaila 감사 (새로) · Logan · Zac/Nora (예약 링크) · Weinzierl 감사 · Eileen 감사 · SAS 교수 명단 · Bussgang 대기명단 · Avis (지났을 듯) · Tech Club
-- 🟠 **Spring 2027 등록 체크리스트 (필수) — 목 1/21 9am까지 완료** → 등록은 대면: 금 1/22 1–5pm 또는 월 1/25 8am–5pm (Spangler Williams Room) · 봄 시간표 공개 수 12/2 · 개강 월 1/25
-- 🟠 NVC 지원 12/2까지 · FRC 새 케이스 'Roblox, Revenue Recognition, and the SEC' 인쇄본 — Spangler 지하 배포 데스크 · Patagonia: Krishna 최종 명단에 Julie Park 있음 → 스크린샷 건 해결 · 택배 Locker 1 리마인더 · ChatGPT/Claude Edu 라이선스 요청 접수 (2건) · May IFC FAQ · TOM Beer Game AI 실험 안내 (11/18, 지남) · 지원 접수 확인: Uber PM 인턴 · CrowdStrike MBA PM 인턴 · Duetti Product 인턴
-- 🟢 월 11/23 5–6 AI Club Show and Tell (Aldrich 110) · 5–7 Gallatin & Chase Friendsgiving (Gallatin Lounge) · ⭐ 월 11/30 3:30–5:30 Tech Club × Cognition 파이어사이드 (Aldrich 207) ↔ 4:30–6:30 Tech Club Rolodex Night (Aldrich 011, 그룹 폼) 겹침 · ⭐ 수 12/2 5:30–8 AI Club × Scale AI 학기말 소셜 (장소 추후 — Spar 미팅 뒤) · **Holidazzle 티켓 오픈** (금 12/4 9pm–2am Westin Copley · $80/$50 · 한정 — 설문 11/24까지 섹션 상금) · IOP JFK Jr. Forum · 지난 행사: AABA Vicky Tsai · Tech Club AI Stack (11/19)
+## 11/20 Briefing (Fri): includes items missed in the 11/19 run (48 hours, 52 emails)
+- 🔴 ✅ **Professor Spar meeting confirmed: Wed 12/2 3:30–4:00pm, Morgan 143**. Julie asked whether 3:30 works since class ends at 3:20 (Outlook) → Kaila: '3:30 OK, invite sent' (11/18) → **accept the invite in Outlook**; the old '2:00 request' draft **was changed into a confirmation thank-you draft**
+- 🔴 **Today 12:30–1:00 1:1 with Santhosh P. (Spangler)**: invite arrived overnight (needs accepting) → 1:15–4:30 Section G Flag Day 2
+- 🔴 Logan K. draft revised: removed Fri 11/20 10–12 since that is today, and proposed **Mon 11/23 2–4** + (Zoom while traveling 11/24–29 / in person after returning); no new email from Logan
+- ✅ Professor Moynihan: replied to the AI decision framework email (11/19: if there's a chance to revisit it in class, he'll ask me to present) → Julie replied (11/19) → professor's thank-you reply (11/20); no further reply needed
+- Unsent drafts: Kaila thank-you (new), Logan, Zac/Nora (booking link), Weinzierl thank-you, Eileen thank-you, SAS faculty list, Bussgang waitlist, Avis (probably passed), Tech Club
+- 🟠 **Spring 2027 registration checklist (required): complete by Thu 1/21 9am** → registration is in person: Fri 1/22 1–5pm or Mon 1/25 8am–5pm (Spangler Williams Room); spring schedule released Wed 12/2; classes start Mon 1/25
+- 🟠 NVC application by 12/2; FRC new case 'Roblox, Revenue Recognition, and the SEC' print copy at the Spangler basement distribution desk; Patagonia: Julie Park is on Krishna's final list → the screenshot issue is resolved; package Locker 1 reminder; ChatGPT/Claude Edu license requests received (2); May IFC FAQ; TOM Beer Game AI experiment notice (11/18, passed); application receipts: Uber PM intern, CrowdStrike MBA PM intern, Duetti Product intern
+- 🟢 Mon 11/23 5–6 AI Club Show and Tell (Aldrich 110); 5–7 Gallatin & Chase Friendsgiving (Gallatin Lounge); ⭐ Mon 11/30 3:30–5:30 Tech Club × Cognition fireside (Aldrich 207) ↔ conflicts with 4:30–6:30 Tech Club Rolodex Night (Aldrich 011, group form); ⭐ Wed 12/2 5:30–8 AI Club × Scale AI end-of-semester social (location TBA; after the Spar meeting); **Holidazzle tickets open** (Fri 12/4 9pm–2am Westin Copley; $80/$50; limited; survey by 11/24 for a section prize); IOP JFK Jr. Forum; past events: AABA Vicky Tsai, Tech Club AI Stack (11/19)
 
-## 11/18 브리핑 (수)
-- 🔴 **Spar 교수 미팅**: Julie가 Kaila에게 답장함 (11/17, Outlook) → Kaila: **12/2 2–5pm 중 아무 때나 (3pm은 교수 일정 있음)** → **2:00 확정 요청 초안** (3:30/4:00도 가능, 장소 문의)
-- 🔴 **Logan K. (Harvard College) 미팅 후속** — 어제 첫 미팅, AI/ML 연구 협업 원함 (LLM이 사용자의 잘못된 피드백에 얼마나 흔들리는지 + 해석가능성 연구, AI 튜터 프로젝트) · 11/24–29 출장 → **다음 미팅 제안 초안**: 금 11/20 10–12 / 월 11/23 2–4
-- 미발송 초안: Avis 1:1 요청 (슬롯이 어제였다면 지남) · Weinzierl 감사 · Zac/Nora (예약 링크로 잡겠다는 내용으로 수정 — 날짜 안 지나게) · SAS 교수 명단 · Eileen 감사 · Bussgang · Tech Club
-- 🟠 OSS: **빌린 이사용 카트 반납** 리마인더 · Section G Patagonia: 주문했으면 **Shopify 주문 스크린샷을 Krishna에게 회신 (급함)** · 택배 Locker 6 (새로) · STRAT 기말 **금 12/11** (연습 시험 2개 Canvas, 선택 시험 준비 세션 화 12/8 5–6pm Aldrich 8) · TOM Beer Game 해설 공개 · MKT 퀀트 #3 결과 공개
-- 🟢 AI Club: Krishna Gupta (11/17) · 7AI (11/23) 둘 다 취소 · AI Club 소그룹 디너 신청 · Tech Club 'Demystifying the AI Stack' 목 11/19 4pm (Bootcamp 디너 4:30과 겹침) · Tech Club Rolodex Night 폼 · McCulloch·Mellon Friendsgiving (시간 앞당겨짐)
+## 11/18 Briefing (Wed)
+- 🔴 **Professor Spar meeting**: Julie replied to Kaila (11/17, Outlook) → Kaila: **any time 2–5pm on 12/2 (the professor has a commitment at 3pm)** → **draft requesting 2:00** (3:30/4:00 also possible; asked about the location)
+- 🔴 **Logan K. (Harvard College) meeting follow-up**: first meeting yesterday; wants to collaborate on AI/ML research (how much LLMs get swayed by users' incorrect feedback + interpretability research, an AI tutor project); traveling 11/24–29 → **draft proposing the next meeting**: Fri 11/20 10–12 / Mon 11/23 2–4
+- Unsent drafts: Avis 1:1 request (passed if the slots were yesterday), Weinzierl thank-you, Zac/Nora (revised to say I'll book via the link so dates don't expire), SAS faculty list, Eileen thank-you, Bussgang, Tech Club
+- 🟠 OSS: reminder to **return the borrowed moving cart**; Section G Patagonia: if you ordered, **reply to Krishna with a screenshot of the Shopify order (urgent)**; package Locker 6 (new); STRAT final **Fri 12/11** (2 practice exams on Canvas, optional exam prep session Tue 12/8 5–6pm Aldrich 8); TOM Beer Game debrief released; MKT Quant #3 results released
+- 🟢 AI Club: Krishna Gupta (11/17) and 7AI (11/23) both canceled; AI Club small-group dinner sign-up; Tech Club 'Demystifying the AI Stack' Thu 11/19 4pm (conflicts with the Bootcamp dinner at 4:30); Tech Club Rolodex Night form; McCulloch/Mellon Friendsgiving (moved earlier)
 
-## 11/17 브리핑 (화)
-- 🔴 ⭐ **Avis CFO·전략 디렉터 1:1 커피챗 (선착순)** — 어제 드링크 후 리크루터가 슬롯 오픈: 1:30–4:30 (30분), Spangler 211/212, 이력서 지참 (날짜는 안 적혀 있음 — 아마 오늘) → **2:00 요청 초안** (1:30/2:30도 가능)
-- 🔴 **Spar 교수 미팅: Kaila가 12/2 (수) 오후 제안** → 수락 초안 (1:30–5pm 아무 때나) — 예전 화/목/금 제안 초안을 이걸로 바꿈
-- 🔴 Weinzierl 교수 (Senior Associate Dean): 일정이 꽉 차서 이메일로 조언 — HBS RA 프로그램 · HBS AI Institute · Kempner에 직접 연락, 관심 교수에게 직접 메일 → 감사 초안
-- 🔴 Rakuten CEO Leadership Program (2027 MBA LDP) 개인 초청 — 지원하면 **목 11/19 6:30 CEO (Mikitani) 디너** 초대 (메일로 참석 확인 필요), 같은 날 Aldrich 107 파이어사이드 (12twenty 등록) · ⚠️ 목 4:30–7:30 Bootcamp 워킹 디너 (대면 필수)와 겹침
-- 🟠 CreditCoach (Bootcamp) 피드백: 범위는 OK · ChatGPT/Claude 대신 왜 전문 앱을 쓸지 · 커뮤니티 기능 · 프로토타입 만들고 방문 트래픽 측정 — 목 워킹 디너에서 다시 이야기 / 섹션 회비 리마인더 · 택배 Locker 1 (새로) · FIN1 리뷰 세션 오늘 4:30/5:30 (선택)
-- 오늘: (2:00 Avis 1:1?) · 2:30–4 Zac 초안 시간 · 4–5 AI Club 'AI agents' → 5–6 Mike Vernal / 5:30 Krishna Gupta · **11pm TOM Beer Game 사전 제출**
-- 🟢 월 11/23 4:30 AI Club × IVC 7AI 창업자 (Aldrich 011) · Holidazzle 12/4 (티켓은 다음 주 목 이메일로) · McCulloch Friendsgiving · 어제 Section G Flag Day 1 (Aldrich 007)
+## 11/17 Briefing (Tue)
+- 🔴 ⭐ **Avis 1:1 coffee chats with the CFO and strategy director (first come first served)**: after yesterday's drinks the recruiter opened slots: 1:30–4:30 (30 minutes), Spangler 211/212, bring a resume (no date given; probably today) → **draft requesting 2:00** (1:30/2:30 also possible)
+- 🔴 **Professor Spar meeting: Kaila proposed the afternoon of Wed 12/2** → acceptance draft (any time 1:30–5pm); replaced the old Tue/Thu/Fri proposal draft with this one
+- 🔴 Professor Weinzierl (Senior Associate Dean): calendar full, so advice by email: contact the HBS RA program, HBS AI Institute, and Kempner directly, and email faculty of interest directly → thank-you draft
+- 🔴 Personal invitation to the Rakuten CEO Leadership Program (2027 MBA LDP): applicants are invited to a **Thu 11/19 6:30 dinner with the CEO (Mikitani)** (RSVP by email required), plus an Aldrich 107 fireside the same day (register on 12twenty); ⚠️ conflicts with the Thu 4:30–7:30 Bootcamp working dinner (in person, required)
+- 🟠 CreditCoach (Bootcamp) feedback: scope is OK; why use a dedicated app instead of ChatGPT/Claude; community features; build a prototype and measure visitor traffic; discuss again at Thursday's working dinner / section dues reminder; package Locker 1 (new); FIN1 review sessions today 4:30/5:30 (optional)
+- Today: (2:00 Avis 1:1?), 2:30–4 times in the Zac draft, 4–5 AI Club 'AI agents' → 5–6 Mike Vernal / 5:30 Krishna Gupta, **11pm TOM Beer Game pre-submission**
+- 🟢 Mon 11/23 4:30 AI Club × IVC 7AI founder (Aldrich 011); Holidazzle 12/4 (tickets by email next Thursday); McCulloch Friendsgiving; yesterday Section G Flag Day 1 (Aldrich 007)
 
-## 11/16 브리핑 (월)
-- ✅ Moynihan 교수: MKT 퀀트 감사 인사에 'see you tomorrow' 답장 (Julie가 Outlook으로 답장한 듯 — Gmail 감사 초안은 사라짐) · Outlook 다시 되는 것 같음
-- 🔴 미발송 초안: **Kaila (Spar 교수 일정: 화 1:30–2:30 / 목 1:30–3:30 / 금 9–12)** · SAS 교수 명단 · Eileen 감사 · Zac/Nora (**화 2:30–4:00**만 남기고 수정) · Bussgang 대기명단 · Tech Club
-- 🟠 **오늘**: 1:30 **Flag Day — 한국팀 '120 Years of Korean Beauty' 발표** (Aldrich 008, Izzy가 v7 슬라이드 공유) → 4:30 Netflix MBA 인턴 설명회 (Spangler 051) → 6–8pm **Avis 드링크** (Alden & Harlow) → 9pm JanAI (Zoom) · 밤 마감: McKinsey Solve · IFC 선택 / Rubrik 지원 접수 확인 · FIN1 폴 채점됨
-- 🟢 화 11/17 WSA 개인 재무 (Ami Shah) · 목 11/19 3:30–4:30 AABA × RLGC Vicky Tsai (Tatcha, Aldrich 208 — Bootcamp 디너 4:30 전) · HBS Show 오디션 금 11/20 4–6 추가 · AI Club Rolodex 명단 공유 · Harvard-Yale 팝업
+## 11/16 Briefing (Mon)
+- ✅ Professor Moynihan: replied 'see you tomorrow' to the MKT quant thank-you (Julie seems to have replied via Outlook; the Gmail thank-you draft is gone); Outlook seems to be working again
+- 🔴 Unsent drafts: **Kaila (Professor Spar scheduling: Tue 1:30–2:30 / Thu 1:30–3:30 / Fri 9–12)**, SAS faculty list, Eileen thank-you, Zac/Nora (revise to keep only **Tue 2:30–4:00**), Bussgang waitlist, Tech Club
+- 🟠 **Today**: 1:30 **Flag Day, Korea team presentation '120 Years of Korean Beauty'** (Aldrich 008; Izzy shared the v7 slides) → 4:30 Netflix MBA intern info session (Spangler 051) → 6–8pm **Avis drinks** (Alden & Harlow) → 9pm JanAI (Zoom); tonight's deadlines: McKinsey Solve, IFC selection / Rubrik application receipt; FIN1 poll graded
+- 🟢 Tue 11/17 WSA personal finance (Ami Shah); Thu 11/19 3:30–4:30 AABA × RLGC Vicky Tsai (Tatcha, Aldrich 208; before the 4:30 Bootcamp dinner); HBS Show auditions added Fri 11/20 4–6; AI Club Rolodex list shared; Harvard-Yale pop-up
 
-## 11/15 브리핑 (일)
-- ✅ MKT RC 퀀트 연습 #3: Canvas 오류로 답을 이메일로 제출 → Moynihan 교수가 **이메일 제출 인정** 확인 (11/15) → 감사 답장 초안
-- 🔴 Kaila (Spar 교수 일정) 초안 수정 — 월 11/16 1:30–2:30에 Julie가 잡은 'Flag day' (Aldrich 008)가 있어서 빼고 **화 1:30–2:30 / 목 1:30–3:30 / 금 9–12**로 · 미발송 초안: SAS 교수 명단 · Eileen 감사 · Zac/Nora (월·화 2:30–4:30) · Bussgang 대기명단 · Tech Club
-- 🟠 **내일 월 11/16**: 1:30 Flag day (Aldrich 008) → 4:30 Netflix MBA 인턴 설명회 (Spangler 051, 등록됨) → 5:30 AI × Marketing (선택) → **6–8pm Avis 드링크** (Alden & Harlow) → 9pm JanAI (Zoom) · 마감: McKinsey Solve · IFC 선택 (11:59pm) · 택배 Locker 6 리마인더 (Locker 7도) · CPD 여름 인턴 펀딩 안내
-- 🟢 Entrepreneurship Conference 일 11/22 티켓 거의 매진
+## 11/15 Briefing (Sun)
+- ✅ MKT RC Quant Exercise #3: submitted answers by email because of a Canvas error → Professor Moynihan **confirmed the email submission counts** (11/15) → thank-you reply draft
+- 🔴 Kaila (Professor Spar scheduling) draft revised: removed Mon 11/16 1:30–2:30 because of the 'Flag day' Julie booked (Aldrich 008), now **Tue 1:30–2:30 / Thu 1:30–3:30 / Fri 9–12**; unsent drafts: SAS faculty list, Eileen thank-you, Zac/Nora (Mon/Tue 2:30–4:30), Bussgang waitlist, Tech Club
+- 🟠 **Tomorrow, Mon 11/16**: 1:30 Flag day (Aldrich 008) → 4:30 Netflix MBA intern info session (Spangler 051, registered) → 5:30 AI × Marketing (optional) → **6–8pm Avis drinks** (Alden & Harlow) → 9pm JanAI (Zoom); deadlines: McKinsey Solve, IFC selection (11:59pm); package Locker 6 reminder (Locker 7 too); CPD summer internship funding info
+- 🟢 Entrepreneurship Conference Sun 11/22 tickets almost sold out
 
-## 11/14 브리핑 (토)
-- 🔴 ⭐ **Deb Spar 교수 (Senior Associate Dean) 미팅 OK** — 일정은 Kaila T.가 조율 · Julie가 교수에게 감사 답장함 (Kaila에게 연락하겠다고) → **Kaila에게 일정 조율 초안**: 월·화 1:30–2:30 / 목 1:30–3:30 / 금 9–12 (다음 주) — Zac 초안 (월·화 2:30–4:30)과 안 겹치게 잡음
-- 🔴 SAS: 학생 화면에선 FSS 조회가 안 될 수 있어, 교수 이름을 주면 대신 찾아주겠다고 함 → **Jill 추천 교수 7명 명단 답장 초안**
-- ✅ Avis 드링크 **참석 확정** — 리크루터가 참석자 명단(Julie 포함)에 확정 장소 안내: 월 11/16 6–8pm Alden & Harlow (40 Brattle St #3) · 예전 참석 확인 초안은 이제 필요 없음
-- ✅ Jill Avery 'anything else, reach out' · 미발송 초안: Eileen 감사 · Zac/Nora (월·화) · Bussgang (11/13 자리 지나서 **대기명단 유지 요청만**으로 수정) · Tech Club
-- ⚠️ Microsoft 장애로 HBS 메일이 11/12 오후부터 문제 (11/13 '개선 중') — Gmail로 보내는 중
-- 🟠 **월 11/16**: MKT 퀀트 #3 (11:59pm) · McKinsey Solve · IFC 선택 / Section G 회비 리마인더 다시 옴 · 택배 Locker 7 (또 1개) · Netflix 설명회 대기자 있음 — 못 가면 등록 취소
-- 🟢 다음 주: 화 11/17 4–5 AI Club 'What are AI agents?' (Aldrich 111) → 5–6 Mike Vernal / 5:30 Krishna Gupta · 수 11/18 Berkman Klein 인간-AI 관계 워크숍 (5pm~) · NVIDIA 웨비나 · 목 11/19 3:30 SCAN Health CEO (Zoom) · 3:45–4:45 Rudina Seseri (Glasswing, Aldrich 112) · **4:30–7:30 Startup Bootcamp 워킹 디너 (대면 필수)** · Rock Founder Pathway 5:30 (디너와 겹침) / NVC 지원 12/2까지 · HBS Show 오디션 · 테일게이트 음식·음료 티켓은 월–금 캠퍼스 수령
+## 11/14 Briefing (Sat)
+- 🔴 ⭐ **Professor Deb Spar (Senior Associate Dean) agreed to meet**; scheduling via Kaila T.; Julie sent the professor a thank-you reply (saying she'd contact Kaila) → **scheduling draft to Kaila**: Mon/Tue 1:30–2:30 / Thu 1:30–3:30 / Fri 9–12 (next week), chosen to avoid the Zac draft times (Mon/Tue 2:30–4:30)
+- 🔴 SAS: FSS lookup may not work from the student view, so they offered to look up faculty if I send names → **reply draft with the 7 faculty Jill recommended**
+- ✅ Avis drinks **attendance confirmed**: the recruiter sent the final location to the attendee list (including Julie): Mon 11/16 6–8pm Alden & Harlow (40 Brattle St #3); the old attendance confirmation draft is no longer needed
+- ✅ Jill Avery: 'anything else, reach out'; unsent drafts: Eileen thank-you, Zac/Nora (Mon/Tue), Bussgang (revised to **only ask to stay on the waitlist** since the 11/13 slots have passed), Tech Club
+- ⚠️ A Microsoft outage has caused problems with HBS email since the afternoon of 11/12 ('improving' on 11/13); sending from Gmail for now
+- 🟠 **Mon 11/16**: MKT Quant #3 (11:59pm), McKinsey Solve, IFC selection / Section G dues reminder again; package Locker 7 (one more); Netflix info session has a waitlist, so unregister if you can't go
+- 🟢 Next week: Tue 11/17 4–5 AI Club 'What are AI agents?' (Aldrich 111) → 5–6 Mike Vernal / 5:30 Krishna Gupta; Wed 11/18 Berkman Klein human-AI relationships workshop (from 5pm); NVIDIA webinar; Thu 11/19 3:30 SCAN Health CEO (Zoom), 3:45–4:45 Rudina Seseri (Glasswing, Aldrich 112), **4:30–7:30 Startup Bootcamp working dinner (in person, required)**, Rock Founder Pathway 5:30 (conflicts with the dinner) / NVC application by 12/2; HBS Show auditions; tailgate food and drink tickets picked up on campus Mon–Fri
 
-## 11/13 브리핑 (금)
-- ⚠️ **HBS Outlook 장애** — Julie가 Gmail로 메일 보내는 중 → Gmail 초안이 더 중요해짐 (Bussgang·Avis·Tech Club·Zac·Eileen 감사)
-- ✅ **Jill Avery (섹션 G 체어) AI 연구 조언** 받고 감사 답장함 — 연락해 볼 교수: Mitch Weiss·Jake Cook·Julian De Freitas·Madhav Kumar·Jacqueline Lane·Shunyuan Zhang·Yuan Zou · HBS AI Institute 행사 · EC 독립 프로젝트 (안내 PDF 첨부) · Rock Center·i-Lab·동문 DB · 교수 FSS 통해 오피스아워 · 봄학기에 다시 연락 (DSAIL 교수진)
-- ✅ SAS 감사 답장 보냄 (초안 사용) · Raphael (HMS)에게 SEAS 연구자 소개용 블러브 보냄 + 커피 제안
-- 🔴 Eileen 2차 케이스 프렙 (어제 3:30) → 12twenty 후기 설문 옴 · 확인 초안을 **감사 메일 초안**으로 바꿈
-- 🔴 Zac/Nora 초안 → 월 11/16·화 11/17 2:30–4:30으로 수정 (늦은 답 사과 포함) · Bussgang (오늘이 11/13 Zoom 당일) · **Avis (드링크 월 11/16 — 참석 확인 아직 Gmail에)** · Tech Club 초안 여전히 미발송
-- 🟠 **월 11/16 마감**: MKT RC 퀀트 연습 #3 (11:59pm, 열기 전 안내 확인) · McKinsey Solve (링크 오늘 도착 예정, 최근 12개월 내 했으면 면제) · IFC 선택 / TOM Beer Game 사전 제출 화 11/17 11pm / 택배 Locker 6·7 (새로 2개) · TikTok MBA 관심 폼 (2분) · GitHub: Claude 앱 권한 업데이트 요청 (무시하면 현재 권한 유지)
-- 🟢 **Entrepreneurship Conference 봉사 신청 오늘까지** (11/22 7–1 / 1–7 시프트, 무료 티켓 + 선물, 일 11/15 6pm 온보딩 필수) · ⭐ AI Club Mike Vernal (Conviction) 화 11/17 5–6pm Aldrich 011 (Krishna Gupta 5:30과 겹침) · 오늘: AI Club Frontier Reading Group 4–5pm Batten 204 → AABA 디너 7:30
+## 11/13 Briefing (Fri)
+- ⚠️ **HBS Outlook outage**: Julie is sending email from Gmail → Gmail drafts matter more now (Bussgang, Avis, Tech Club, Zac, Eileen thank-you)
+- ✅ **Received AI research advice from Jill Avery (Section G chair)** and sent a thank-you reply. Faculty to contact: Mitch Weiss, Jake Cook, Julian De Freitas, Madhav Kumar, Jacqueline Lane, Shunyuan Zhang, Yuan Zou; HBS AI Institute events; EC independent project (info PDF attached); Rock Center, i-Lab, alumni database; office hours through faculty FSS; reach out again in the spring term (DSAIL faculty)
+- ✅ Sent the SAS thank-you reply (used the draft); sent Raphael (HMS) an intro blurb for SEAS researchers + suggested coffee
+- 🔴 Eileen second case prep (yesterday 3:30) → 12twenty feedback survey arrived; turned the confirmation draft into a **thank-you email draft**
+- 🔴 Zac/Nora draft → revised to Mon 11/16 / Tue 11/17 2:30–4:30 (with an apology for the late reply); Bussgang (today is the day of the 11/13 Zoom); **Avis (drinks Mon 11/16; attendance confirmation still in Gmail)**; Tech Club draft still unsent
+- 🟠 **Due Mon 11/16**: MKT RC Quant Exercise #3 (11:59pm; check the instructions before opening), McKinsey Solve (link expected today; waived if taken in the last 12 months), IFC selection / TOM Beer Game pre-submission Tue 11/17 11pm / packages Locker 6 and 7 (2 new); TikTok MBA interest form (2 minutes); GitHub: Claude app permission update request (ignoring it keeps the current permissions)
+- 🟢 **Entrepreneurship Conference volunteer sign-up closes today** (11/22 shifts 7–1 / 1–7; free ticket + gift; required onboarding Sun 11/15 6pm); ⭐ AI Club Mike Vernal (Conviction) Tue 11/17 5–6pm Aldrich 011 (conflicts with Krishna Gupta at 5:30); today: AI Club Frontier Reading Group 4–5pm Batten 204 → AABA dinner 7:30
 
-## 11/12 브리핑 (목)
-- 🔴 ⭐ **McKinsey Associate Intern 지원 오늘 밤 11:59 마감** (McKinsey HBS 앰배서더 메일) — Solve 게임 평가 링크는 금 11/13에 오고 **월 11/16 11:59pm까지** (최근 12개월 안에 했으면 면제) · 결과는 마감 후 1–2주 · McKinsey Japan: 11/20 캠퍼스 런치챗 12–1 / 보스턴 네트워킹 디너 7–9pm · 11/22 보스턴 오피스 오픈하우스 4–6pm
-- 🔴 **오늘 3:30 Eileen 2차 케이스 프렙 (Zoom)** — 12twenty 목 3:30 리마인더 옴 (수 4pm 예약엔 후기 설문이 옴) · STRAT Strategy in Practice 3:30·BCG 온라인 케이스 (3–7pm)와 겹침 · 어제 만든 확인 초안은 이제 필요 없으면 삭제
-- ✅ Anne Marie 'Keep me posted on your progress' → 답장함
-- 🔴 미발송 초안 그대로: Bussgang · Avis (마감 지남) · Tech Club · SAS 감사 · Zac/Nora (지난 수요일 제안 빼고 **금 10–12 / 월 2:30–4:30**으로 수정)
-- 🟠 Locker 7 택배 리마인더 (Locker 2도) · IFC 랭킹 업데이트 확인 메일 (11/16까지 수정 가능) · 12twenty 상담 후기 설문
-- 오늘: 3:30 Eileen / STRAT / BCG 온라인 케이스 (3–7pm) → 6pm IFC GEO 웨비나 · AI Club × OpenClaw 밋업 (6–8pm Aldrich 111) → **11:59pm McKinsey 지원 마감**
-- 🟢 ⭐ AI Club Frontier Reading Group 금 11/13 4–5pm Batten 204 (Anthropic 'AI for scientific discovery' 등) · AABA 디너 금 7:30 (Eventbrite 리마인더) · AI Club × JanAI 창업자 토크 월 11/16 9–10pm Zoom
+## 11/12 Briefing (Thu)
+- 🔴 ⭐ **McKinsey Associate Intern application due tonight 11:59** (email from McKinsey HBS ambassadors); the Solve game assessment link arrives Fri 11/13 and is due **Mon 11/16 11:59pm** (waived if taken in the last 12 months); results 1–2 weeks after the deadline; McKinsey Japan: 11/20 campus lunch chat 12–1 / Boston networking dinner 7–9pm; 11/22 Boston office open house 4–6pm
+- 🔴 **Today 3:30 Eileen second case prep (Zoom)**: 12twenty sent a Thu 3:30 reminder (the Wed 4pm booking got a feedback survey); conflicts with STRAT Strategy in Practice 3:30 and the BCG online case (3–7pm); delete yesterday's confirmation draft if no longer needed
+- ✅ Anne Marie: 'Keep me posted on your progress' → replied
+- 🔴 Unsent drafts unchanged: Bussgang, Avis (deadline passed), Tech Club, SAS thank-you, Zac/Nora (removed last Wednesday's proposal, revised to **Fri 10–12 / Mon 2:30–4:30**)
+- 🟠 Locker 7 package reminder (Locker 2 too); IFC ranking update confirmation email (editable until 11/16); 12twenty session feedback survey
+- Today: 3:30 Eileen / STRAT / BCG online case (3–7pm) → 6pm IFC GEO webinar; AI Club × OpenClaw meetup (6–8pm Aldrich 111) → **11:59pm McKinsey application deadline**
+- 🟢 ⭐ AI Club Frontier Reading Group Fri 11/13 4–5pm Batten 204 (Anthropic 'AI for scientific discovery', etc.); AABA dinner Fri 7:30 (Eventbrite reminder); AI Club × JanAI founder talk Mon 11/16 9–10pm Zoom
 
-## 11/11 브리핑 (수)
-- 🔴 **Eileen 케이스 프렙 시간 확인 필요** — 12twenty가 **오늘 4:00pm** 리마인더를 보냄 (12twenty에 수 4pm·목 3:30 예약 2개) · Eileen 초대는 목 11/12 3:30 → 확인 초안 (목이 맞으면 12twenty 수요일 예약 취소) · 목 3:30은 STRAT·BCG 온라인 케이스와 겹치니 오늘 4시가 낫다면 초안 수정
-- 🔴 SAS (AI 연구 기회 문의 답장): 섹션 체어 먼저 만나보고, 관심 분야 교수나 Senior Associate Dean (Kerr·Weinzierl·Spar)에게 연락 권유 — EC 전엔 공식 경로 없음 → 감사 답장 초안
-- ✅ Anne Marie 업데이트 이력서 리뷰 ('great shape' + 사소한 코멘트 docx) → 감사 메일 보냄 (11/10)
-- 🔴 미발송 초안 그대로: Bussgang · Avis (마감 지남) · Tech Club · Zac/Nora (수요일 2–4:30 제안은 Eileen 4pm과 겹칠 수 있음)
-- 🟠 **오늘 밤 마감**: Bain 서울 (11:59pm PT) · TOM Beer Game 출석 폴 (11:59pm) · IBM 녹화 인터뷰 (~11/11) / TOM Beer Game 사전 제출 **화 11/17 11pm** / **5월 IFC 선택 월 11/16까지** (Schedule Scout — Korea & China·Silicon Valley AI 등, GEO 웨비나 목 11/12 6pm)
-- 🟠 Harvard 학생 계정 청구액 확인·납부 (my.harvard.edu) · 겨울방학 해외여행 계획 있으면 I-20 여행 서명 확인 (전자 신청 5–7영업일) · Epic Games 지원 결과 메일 · CPD 프로필 사진: 사진작가가 10–14영업일 내 연락 · McCulloch Hall 지하 스프링클러 수리 목 11/12 아침
-- 오늘 (수, 휴일): 4pm Eileen (확인 필요) → 5pm McKinsey AI / 5–6 AI Club Ode with Anthropic PM 토크 (Teams, 겹침) → 6pm JP & KR 디너
-- 🟢 AI Club × Marketing Club 'Future of Influence' 월 11/16 5:30–6:30 Aldrich 108 (Avis 드링크 6pm과 겹침) · Tech Club Whoop 파이어사이드 취소됨
+## 11/11 Briefing (Wed)
+- 🔴 **Need to confirm the Eileen case prep time**: 12twenty sent a reminder for **today 4:00pm** (2 bookings on 12twenty: Wed 4pm and Thu 3:30); Eileen's invite is Thu 11/12 3:30 → confirmation draft (if Thursday is right, cancel the Wednesday booking on 12twenty); Thu 3:30 conflicts with STRAT and the BCG online case, so revise the draft if today at 4 is better
+- 🔴 SAS (reply to the AI research opportunity inquiry): suggests meeting the section chair first, then contacting faculty in areas of interest or a Senior Associate Dean (Kerr, Weinzierl, Spar); no formal path before EC → thank-you reply draft
+- ✅ Anne Marie reviewed the updated resume ('great shape' + minor comments in a docx) → thank-you email sent (11/10)
+- 🔴 Unsent drafts unchanged: Bussgang, Avis (deadline passed), Tech Club, Zac/Nora (the Wednesday 2–4:30 proposal may conflict with Eileen at 4pm)
+- 🟠 **Due tonight**: Bain Seoul (11:59pm PT), TOM Beer Game attendance poll (11:59pm), IBM recorded interview (~11/11) / TOM Beer Game pre-submission **Tue 11/17 11pm** / **May IFC selection by Mon 11/16** (Schedule Scout: Korea & China, Silicon Valley AI, etc.; GEO webinar Thu 11/12 6pm)
+- 🟠 Check and pay the Harvard student account balance (my.harvard.edu); if planning international travel over winter break, check the I-20 travel signature (electronic request takes 5–7 business days); Epic Games application result email; CPD profile photo: the photographer will reach out within 10–14 business days; McCulloch Hall basement sprinkler repair Thu 11/12 morning
+- Today (Wed, holiday): 4pm Eileen (needs confirming) → 5pm McKinsey AI / 5–6 AI Club Ode with Anthropic PM talk (Teams; overlaps) → 6pm JP & KR dinner
+- 🟢 AI Club × Marketing Club 'Future of Influence' Mon 11/16 5:30–6:30 Aldrich 108 (conflicts with the Avis drinks at 6pm); Tech Club Whoop fireside canceled
 
-## 11/10 브리핑 (화)
-- 🔴 **Zac T. (HKS)·Nora P. (HBS 2027) 인터뷰 요청** — 에이전트 만드는 사람 대상 30분 인터뷰 + 데모 (이번 주 안에) → 답장 초안 (수 11/11 2:00–4:30 / 금 11/13 10–12 제안) · 예약 링크로 직접 잡아도 됨
-- 🔴 **Eileen 2차 케이스 프렙 → 목 11/12 3:30–4:00 (Zoom)** 으로 변경 (원래 수 4pm · 12twenty도 같은 시간) — STRAT Strategy in Practice (3:30–4:30, Aldrich 112)·BCG 온라인 케이스 (3–7pm)와 겹침
-- 🔴 Gmail 미발송 초안 그대로 — **Bussgang (Laura 근무 3:30까지)** · Avis 참석 확인 (마감 11/6 지남) · Tech Club — Outlook으로 답했는지 확인
-- 🟠 **BCG 지원 오늘 밤 11:59 마감** · NVIDIA Strategic Partnerships MBA 인턴 지원 접수 확인 · 내일 마감: Bain 서울 (11:59pm PT)·IBM 녹화 인터뷰 (~11/11)·TOM 폴 · Slack: Startup Bootcamp 과제 안내 (11/1 메시지) 안 읽음 — 팀 제출 확인
-- 오늘: 3:30 Anthropic IPO 강연 (Aldrich 112) · 4–5 MKT TA 오피스아워 (Aldrich 107, 강연과 겹침)
-- 🟢 AI Club × Krishna Gupta (Presto) 화 11/17 5:30–6:30 Aldrich 107 · 테일게이트 음식·음료 티켓 수령 11/16 3:30–5:30 Meredith Room 또는 11/17–20 10–4 Spangler 007
+## 11/10 Briefing (Tue)
+- 🔴 **Interview request from Zac T. (HKS) and Nora P. (HBS 2027)**: 30-minute interview + demo for people who build agents (within this week) → reply draft (proposing Wed 11/11 2:00–4:30 / Fri 11/13 10–12); booking directly via the link is also fine
+- 🔴 **Eileen second case prep moved to Thu 11/12 3:30–4:00 (Zoom)** (originally Wed 4pm; 12twenty shows the same time); conflicts with STRAT Strategy in Practice (3:30–4:30, Aldrich 112) and the BCG online case (3–7pm)
+- 🔴 Unsent Gmail drafts unchanged: **Bussgang (Laura works until 3:30)**, Avis attendance confirmation (11/6 deadline passed), Tech Club; check whether replied via Outlook
+- 🟠 **BCG application due tonight 11:59**; NVIDIA Strategic Partnerships MBA intern application receipt; due tomorrow: Bain Seoul (11:59pm PT), IBM recorded interview (~11/11), TOM poll; Slack: unread Startup Bootcamp assignment message (11/1); confirm the team submitted
+- Today: 3:30 Anthropic IPO talk (Aldrich 112); 4–5 MKT TA office hours (Aldrich 107; conflicts with the talk)
+- 🟢 AI Club × Krishna Gupta (Presto) Tue 11/17 5:30–6:30 Aldrich 107; tailgate food and drink ticket pickup 11/16 3:30–5:30 Meredith Room or 11/17–20 10–4 Spangler 007
 
-## 11/9 브리핑 (월)
-- 🔴 **Bussgang: 회신이 없어 대기명단에서 제외됐다는 확인 메일** (Laura, 오늘 아침) → 초안 수정: 늦은 답 사과 + 11/13 Zoom 자리 남았으면 아무 시간이나 / 다 찼으면 대기명단 유지 요청 — **Laura 근무가 평일 3:30까지라 오늘 일찍 발송 권장**
-- 🔴 Avis 참석 확인 초안 아직 Gmail에 (마감 11/6 지남) · Tech Club 회신 초안도
-- 🟠 Section G 회비 리마인더 (아직이면 납부 — 은행이 막으면 은행에 전화) · 택배 Locker 7 리마인더 (Locker 2도) · FIN1 DraftKings 폴 채점
-- 오늘: 2:15 CPD 프로필 사진 (Batten 207) → 3:30 Ode with Anthropic / 영주권 세션 → 4:30 McKinsey RC Women's → 6pm Lectures That Last (Klarman, 5:30 입장)
-- 🟢 AI Club × Boston OpenClaw 밋업 목 11/12 6–8pm Aldrich 111 (Luma 등록, BCG 온라인 케이스 3–7pm과 겹칠 수 있음) · HBS Entrepreneurship Conference **일 11/22**로 정정
+## 11/9 Briefing (Mon)
+- 🔴 **Bussgang: confirmation email that I was removed from the waitlist for not replying** (Laura, this morning) → draft revised: apology for the late reply + any time if 11/13 Zoom slots remain / if full, request to stay on the waitlist; **Laura works until 3:30 on weekdays, so send early today**
+- 🔴 Avis attendance confirmation draft still in Gmail (11/6 deadline passed); Tech Club reply draft too
+- 🟠 Section G dues reminder (pay if not yet paid; if the bank blocks it, call the bank); package Locker 7 reminder (Locker 2 too); FIN1 DraftKings poll graded
+- Today: 2:15 CPD profile photo (Batten 207) → 3:30 Ode with Anthropic / green card session → 4:30 McKinsey RC Women's → 6pm Lectures That Last (Klarman, doors 5:30)
+- 🟢 AI Club × Boston OpenClaw meetup Thu 11/12 6–8pm Aldrich 111 (Luma registration; may conflict with the BCG online case 3–7pm); HBS Entrepreneurship Conference corrected to **Sun 11/22**
 
-## 11/8 브리핑 (일)
-- 🔴 새 요청 없음 · Gmail 미발송 초안 그대로 — **Avis 참석 확인 (마감 11/6 지남)** · **Bussgang 11/13 자리 회신** · Tech Club 회신 — Outlook으로 답했는지 확인
-- 🟠 ✅ Together AI·Teamworks (PM MBA 인턴) 지원 접수 · Startup Bootcamp Canvas에 '11/1 워크숍 Deliverable' 과제 (마감 11/1 5pm) — 팀에서 냈는지 확인 · CPD 프로필 사진 월 11/9 2:15
-- 이번 주: 월 11/9 2:15 사진 → 3:30 Ode with Anthropic / 영주권 세션 → 4:30 McKinsey RC Women's → 6pm Lectures That Last · **화 11/10 BCG 지원 마감** · 3:30 Anthropic IPO 강연 · **수 11/11 (휴일)**: 4pm Eileen 케이스 프렙 (Zoom) → 5pm McKinsey AI → 6pm JP & KR 디너, TOM 설문·Bain 서울 지원·IBM 녹화 인터뷰 마감 · 목 11/12 BCG CCA·온라인 케이스 3–7pm · 금 11/13 Bussgang (Zoom, 회신 시) · 7:30 AABA 디너
+## 11/8 Briefing (Sun)
+- 🔴 No new requests; unsent Gmail drafts unchanged: **Avis attendance confirmation (11/6 deadline passed)**, **Bussgang 11/13 slot reply**, Tech Club reply; check whether replied via Outlook
+- 🟠 ✅ Together AI and Teamworks (PM MBA intern) application receipts; Startup Bootcamp Canvas has an '11/1 Workshop Deliverable' assignment (due 11/1 5pm); check whether the team submitted it; CPD profile photo Mon 11/9 2:15
+- This week: Mon 11/9 2:15 photo → 3:30 Ode with Anthropic / green card session → 4:30 McKinsey RC Women's → 6pm Lectures That Last; **Tue 11/10 BCG application deadline**, 3:30 Anthropic IPO talk; **Wed 11/11 (holiday)**: 4pm Eileen case prep (Zoom) → 5pm McKinsey AI → 6pm JP & KR dinner; deadlines for the TOM survey, Bain Seoul application, and IBM recorded interview; Thu 11/12 BCG CCA and online case 3–7pm; Fri 11/13 Bussgang (Zoom, if replied), 7:30 AABA dinner
 
-## 11/7 브리핑 (토)
-- 🔴 Gmail 미발송 초안 3개 — **Bussgang 11/13 자리 회신 · Avis 참석 확인 (마감 어제 11/6) · Tech Club 디너 회신** — Outlook으로 이미 답했는지 확인, 아니면 바로 보내기
-- 🔴 BCG 리마인더: **지원 화 11/10 11:59pm ET** → CCA 11/12–13 · 온라인 케이스 목 11/12 3–7pm · 케이스 구조화 워크숍 자리 몇 개 남음
-- [ ] 택배 2개 더: Rock Center 지하 **Locker 2·Locker 7**
-- 🟠 CPD 프로필 사진 **월 11/9 2:15–2:20pm Batten 207** (5분 일찍) · FRC 10주차 정리 슬라이드 · Housing: Morris 리노베이션 의견 세션 월 11/16 3–5 / 금 11/20 7–9am (선택), 겨울방학에도 방 유지
-- 🟢 Lectures That Last 월 11/9 Klarman (5:30 입장) · IOP 'From Military Service to City Hall' 목 11/12 · Gallatin 디왈리 행사 · 오늘 Asia Business Conference (Klarman) · 내일 Lovable 해커톤 12–4:30
+## 11/7 Briefing (Sat)
+- 🔴 3 unsent Gmail drafts: **Bussgang 11/13 slot reply, Avis attendance confirmation (deadline was yesterday, 11/6), Tech Club dinner reply**; check whether already replied via Outlook; otherwise send right away
+- 🔴 BCG reminder: **application due Tue 11/10 11:59pm ET** → CCA 11/12–13; online case Thu 11/12 3–7pm; a few spots left in the case structuring workshop
+- [ ] 2 more packages: Rock Center basement **Lockers 2 and 7**
+- 🟠 CPD profile photo **Mon 11/9 2:15–2:20pm Batten 207** (5 minutes early); FRC week 10 wrap-up slides; Housing: Morris renovation feedback sessions Mon 11/16 3–5 / Fri 11/20 7–9am (optional); keep your room over winter break
+- 🟢 Lectures That Last Mon 11/9 Klarman (doors 5:30); IOP 'From Military Service to City Hall' Thu 11/12; Gallatin Diwali event; Asia Business Conference today (Klarman); Lovable hackathon tomorrow 12–4:30
 
-## 11/6 브리핑 (금)
-- 🔴 **Bussgang 오피스아워 11/13 (금) Zoom 자리**: 1:30·1:50·2:10·2:50·3:10 — 가능한 시간 모두 회신 요청, **답 안 하면 대기명단에서 제외** → 회신 초안 준비 (캘린더상 전부 가능 — 금요일 수업과 겹치는 시간은 빼고 보내기)
-- 🔴 **Avis 드링크 참석 확인 오늘(금)까지** — Andrew 재확인 메일 → 초안 수정 ('식이 제한·알레르기 없음' — Tech Club 폼 답 기준, 확인 후 발송)
-- 🔴 **오늘 Tech Club 디너 (Dinner 4 캡틴)** — Mutemwa 회신 초안 아직 Gmail에 (식당·시간 정해지면 전체 회신)
-- ✅ 어제 Eileen (Phin)·OpenAI Jeff (Meet) 커피챗 완료 — Jeff 감사 메일 보냄 · Eileen이 **2차 케이스 프렙 수 11/11 4:00–4:30 (Zoom)** 잡아 줌
-- 🟠 ✅ TikTok 'Creative PM Intern (International Advertising) 2027' 지원 접수 · LEAD 중간 설문 마지막 리마인더 · FIN1 중간고사 채점 공개 (해설 파일 Canvas)
-- 오늘: 3:30–4:30 X Moonshot (Innovation Labs) · 5–6 Tech Club 'GitHub for Beginners' (Aldrich 009)
-- 🟢 Tech Club 일정: 해커톤 일 11/8 12–4:30 · Whoop Corp Strategy VP 파이어사이드 **수 11/11 6pm Aldrich 110** (JP & KR 디너 6시와 겹침) · Morgan Stanley Asia IB SA 지원 일 11/8 마감 · AI Club FDE 재공지 (본문 날짜가 10/15로 잘못 적힘)
+## 11/6 Briefing (Fri)
+- 🔴 **Bussgang office hours Fri 11/13 Zoom slots**: 1:30, 1:50, 2:10, 2:50, 3:10; asks for all available times, and **no reply means removal from the waitlist** → reply draft ready (all open on the calendar; remove any times that conflict with Friday classes before sending)
+- 🔴 **Avis drinks attendance confirmation due today (Fri)**: Andrew's follow-up email → draft revised ('no dietary restrictions or allergies', based on the Tech Club form answer; confirm, then send)
+- 🔴 **Tech Club dinner today (Dinner 4 captain)**: Mutemwa reply draft still in Gmail (reply all once the restaurant and time are set)
+- ✅ Yesterday's coffee chats with Eileen (Phin) and OpenAI's Jeff (Meet) done; Jeff thank-you email sent; Eileen set up the **second case prep Wed 11/11 4:00–4:30 (Zoom)**
+- 🟠 ✅ TikTok 'Creative PM Intern (International Advertising) 2027' application receipt; LEAD midterm survey final reminder; FIN1 midterm grades released (answer file on Canvas)
+- Today: 3:30–4:30 X Moonshot (Innovation Labs); 5–6 Tech Club 'GitHub for Beginners' (Aldrich 009)
+- 🟢 Tech Club schedule: hackathon Sun 11/8 12–4:30; Whoop Corp Strategy VP fireside **Wed 11/11 6pm Aldrich 110** (conflicts with the JP & KR dinner at 6); Morgan Stanley Asia IB SA application due Sun 11/8; AI Club FDE re-announcement (body text date wrongly says 10/15)
 
-## 11/5 브리핑 (목)
-- 🔴 커피챗 2개 오늘로 이동: **3:20–3:50 Eileen Xia (Phin, 대면)** → **4:00–4:30 OpenAI Jeffrey Fan (Meet)** — 연달아 있으니 Meet용 조용한 장소 미리 확보 · 끝나고 둘 다 감사 메일
-- 🔴 IBM 'AI Foundations – Technical PM Intern 2027' **녹화 역량 인터뷰 초대** — 링크 7일 유효 (~11/11), 10–20분 (질문당 준비 1분·답변 3분) · 기존 IBM 녹화 인터뷰 링크는 오늘(~11/5)까지
-- 🔴 McKinsey 리크루팅팀 인터뷰 준비 안내 — PEI 4문항마다 예시 2개씩 · 인터뷰어 주도형 케이스 · Solve 게임 평가 · 'AI at McKinsey' 화상 수 11/11 5–6pm · McKinsey Japan: 캠퍼스 점심 금 11/20 12–1, 보스턴 디너 11/20 7–9, 오픈하우스 일 11/22 4–6 · 팀 커피챗 예약 링크 있음
-- 🔴 Tech Club 디너 **내일(금 11/6)** — Mutemwa 회신 초안 아직 Gmail에 (식당·시간 정해지면 전체 회신)
-- 🟠 TOM Beer Game 출석 설문 (필수) **수 11/11 11:59pm까지** — 게임은 수 11/18 오후 · STRAT Bisceglia 교수 커피챗 11/11 → **화 11/10**으로 변경 (신청했다면) · 수 11/11은 휴일
-- 🟠 ✅ MKT Quant #2 제출·채점 확인 (결과·답안 공개) · FRC 금요일 Nordstrom 토론 준비 · Section G **Flag Day 2: 금 11/20 2–5pm** (Day 1 초대장도 옴) · 섹션 MyTakes 초대
-- 🟠 CPD 프로필 사진 **월 11/9 1:10pm** (2:15로 바꾸는 요청은 만료) · CPD 유학생 세션: 영주권 경로 월 11/9 3:30 · 비정형 인턴십 서치 월 11/16 3:30 · ✅ Astera Labs Early Career 2027 지원 접수
-- 🟢 ✅ AABA 학기말 디너 & 노래방 **금 11/13 7:30pm, Da Long Yi Hot Pot** (캘린더에 있음) · X Moonshot 내일 3:30 리마인더 · Tech Club 2026-27 Outlook 그룹 추가됨
+## 11/5 Briefing (Thu)
+- 🔴 Two coffee chats moved to today: **3:20–3:50 Eileen Xia (Phin, in person)** → **4:00–4:30 OpenAI Jeffrey Fan (Meet)**; back to back, so secure a quiet spot for Meet in advance; send both thank-you emails afterward
+- 🔴 IBM 'AI Foundations – Technical PM Intern 2027' **recorded competency interview invite**: link valid for 7 days (~11/11), 10–20 minutes (1 minute to prepare and 3 minutes to answer per question); the existing IBM recorded interview link is valid through today (~11/5)
+- 🔴 McKinsey recruiting team interview prep info: 2 examples for each of the 4 PEI questions; interviewer-led case; Solve game assessment; 'AI at McKinsey' video call Wed 11/11 5–6pm; McKinsey Japan: campus lunch Fri 11/20 12–1, Boston dinner 11/20 7–9, open house Sun 11/22 4–6; team coffee chat booking link available
+- 🔴 Tech Club dinner **tomorrow (Fri 11/6)**: Mutemwa reply draft still in Gmail (reply all once the restaurant and time are set)
+- 🟠 TOM Beer Game attendance survey (required) **by Wed 11/11 11:59pm**; the game is the afternoon of Wed 11/18; STRAT Professor Bisceglia coffee chat 11/11 → moved to **Tue 11/10** (if signed up); Wed 11/11 is a holiday
+- 🟠 ✅ MKT Quant #2 submitted and graded (results and answers released); FRC prep for Friday's Nordstrom discussion; Section G **Flag Day 2: Fri 11/20 2–5pm** (Day 1 invite also arrived); section MyTakes invite
+- 🟠 CPD profile photo **Mon 11/9 1:10pm** (the request to move it to 2:15 expired); CPD international student sessions: green card paths Mon 11/9 3:30, non-traditional internship search Mon 11/16 3:30; ✅ Astera Labs Early Career 2027 application receipt
+- 🟢 ✅ AABA end-of-semester dinner & karaoke **Fri 11/13 7:30pm, Da Long Yi Hot Pot** (on calendar); X Moonshot tomorrow 3:30 reminder; added to the Tech Club 2026-27 Outlook group
 
-## 11/4 브리핑 (수)
-- 🔴 오늘 커피챗 2개: **2:00–2:30 OpenAI Jeffrey Fan** (Meet — 업데이트된 초대 왔지만 시간 동일) → **3:00 Eileen Xia (EC, CPD 케이스 프렙) Spangler Phin's Coffee 대면**
-- 🔴 Tech Club 디너 (금 11/6): Mutemwa가 왓츠앱 단톡방 만들었는지 확인 메일 → **전체 회신 초안 준비** (단톡방에서 정하는 중, 식당·시간 정해지면 알리겠다는 내용)
-- 🔴 **JP & KR 디너** (한·일 동기 모임) 초대 — **수 11/11 6–8pm, Myeongdong 1st Ave** · Outlook에서 수락/거절
-- 🔴 IBM 'AI Foundations – Technical PM Intern 2027' 지원 접수 (11/4 새벽) → 평가 안내: **평가 시작 전에 편의제공(Accommodation) 폼 먼저** (추가 시간 필요 없으면 그렇게 체크) → 코딩/녹화 역량/영어 평가 중 해당되는 것 초대 예정 · 기존 IBM 녹화 인터뷰 링크는 ~11/5 (내일)
-- 🔴 Jahlen이 앱 활용 아이디어로 콜드 아웃리치 예시 메일 전달 — 감사 답장 정도
-- [ ] **오늘 5pm 해커톤 팀 구성 폼 마감**
-- 🟠 FRC 중간고사 성적 Canvas 공개 · FRC Gandhi 교수 대면 오피스아워 날짜 2개 추가 (11월 중순·12월 초) · MKT 섹션 G 기말 리뷰 **월 12/7 1:30–2:30** · 섹션 G LEGO Q&A (선택)
-- 🟢 ⭐ Entrepreneurship Club 'An Evening with the Sharks' (Mark Cuban 등) **수 11/18 6pm** 티켓 오픈 · Rock Center 11월 소식 · 어제 OpenAI Nan Yu PM 토크·Lori Whelan 파이어사이드는 지나감
-- 오늘 그 외: BCG 해외 오피스 커피챗 3–6 · 4:30 BCG Practice Area 패널 · 7:30 BCG International Connection (등록했다면) · Drug Discovery 4pm
+## 11/4 Briefing (Wed)
+- 🔴 Two coffee chats today: **2:00–2:30 OpenAI Jeffrey Fan** (Meet; an updated invite arrived but the time is the same) → **3:00 Eileen Xia (EC, CPD case prep), in person at Spangler Phin's Coffee**
+- 🔴 Tech Club dinner (Fri 11/6): Mutemwa emailed to check whether the WhatsApp group chat was created → **reply-all draft ready** (deciding in the group chat; will share once the restaurant and time are set)
+- 🔴 **JP & KR dinner** (Korean and Japanese classmates) invite: **Wed 11/11 6–8pm, Myeongdong 1st Ave**; accept/decline in Outlook
+- 🔴 IBM 'AI Foundations – Technical PM Intern 2027' application received (early 11/4) → assessment instructions: **fill out the Accommodation form before starting the assessment** (check that no extra time is needed if so) → invites to the applicable coding / recorded competency / English assessments to follow; the existing IBM recorded interview link is valid until ~11/5 (tomorrow)
+- 🔴 Jahlen forwarded a sample cold outreach email as an idea for using the app; a thank-you reply is enough
+- [ ] **Hackathon team formation form due today 5pm**
+- 🟠 FRC midterm grades released on Canvas; FRC Professor Gandhi added 2 in-person office hour dates (mid-November and early December); MKT Section G final review **Mon 12/7 1:30–2:30**; Section G LEGO Q&A (optional)
+- 🟢 ⭐ Entrepreneurship Club 'An Evening with the Sharks' (Mark Cuban and others) **Wed 11/18 6pm** tickets open; Rock Center November news; yesterday's OpenAI Nan Yu PM talk and Lori Whelan fireside have passed
+- Also today: BCG international office coffee chats 3–6; 4:30 BCG Practice Area panel; 7:30 BCG International Connection (if registered); Drug Discovery 4pm
 
-## 11/3 브리핑 (화)
-- 🔴 ⭐ **OpenAI 커피챗 초대 (Jeffrey Fan)** — 수 11/4 2:00–2:30pm ET, Google Meet · 학교 계정으로 온 초대라 Outlook에서 수락 (구글 캘린더엔 겹치는 일정 없음)
-- 🔴 **HBS Tech Club 소규모 디너 — Julie가 Dinner 4 테이블 캡틴** (금 11/6 저녁, 6명) — ① 24시간 안에 왓츠앱 단톡방 (11/2 아침 메일 → 오늘 아침까지) ② 식당 후보 공유 (채식·할랄 등 식이 제한 → 인도·지중해식 무난) ③ 식당·시간 정해지면 전체 회신 · 4명 이상 되면 예약 OK · 금 3:30–4:30 X Moonshot 뒤라 6:30 이후 추천
-- 🔴 Tech Club × Lovable 'Everyday AI Hackathon' (일 11/8 12pm) 팀 구성 폼 **수 11/4 5pm까지** (안 내면 자리 취소) — 동기(윤식)가 전달, 같이 팀 하자는 건지 확인 · Julie 등록 여부는 Gmail로 확인 안 됨
-- 🔴 Bussgang: 11/2 당일 빈자리(4:20 → 3:00) 지나감 → 기존 초안을 **대기자 명단 유지 요청**으로 수정 (미발송)
-- 🔴 ⭐ **BCG Summer Consultant 지원 마감 화 11/10 11:59pm ET** — 이력서·GMAT/GRE 점수·학부 GPA·오피스 1–2곳·Digital BCG 관심 여부 (커버레터 없음) → CCA 11/12–13 · 온라인 케이스 목 11/12 3–7pm · 비평가 Case Structuring 워크숍 11/3–11/10 (1개만 신청) · 수 11/4 3–6 해외 오피스 커피챗(중동·일본·런던) · 4:30 Practice Area 패널
-- 🟠 FIN1 Online Exercise 3 → 11/9까지 연장 (이미 제출·채점됨 ✅) · MKT Quant #2는 11/2 밤 마감 지남 (제출 확인) · FIN1 리뷰 세션 오늘 4:30·5:30 Aldrich 007 (선택)
-- 🟠 Section G 설문 + 회비(Zelle) 링크 도착 · Flag Day 안내 곧 · ✅ Snowflake PM 인턴 (Summer 2027) 지원 접수 · Startup Bootcamp **11/19 워킹 디너 (필수)**
-- [ ] 택배 1개 더: Rock Center 지하 **Locker 7** (Amazon) · Mail Center (B010) 택배·카트 반납도
-- 오늘: 3:30–4 Manny Sahota (Microsoft) Meet · DaVita 커피챗 3:30–5:30 Spangler 212–213 / 디너 6–8 Waypoint (커리어 시스템 신청) · 5:30–7 Bain Women's Event (등록 필요) · **6:30–7:30 AI Club Rolodex Night** · 미국 선거일
-- 🟢 ⭐ AI Club 'Decoding the Anthropic IPO' (Vikram Gandhi 교수) **화 11/10 3:30–4:30 Aldrich 112** (선착순) · AI Club × HLS 'Building AI in Regulated Markets' 목 11/19 저녁 (Bootcamp 디너와 겹칠 수 있음) · ⭐ Asia Business Conference 토 11/7 Klarman (Hanwha CEO 등, 코드 HARVARD $35) · ✅ OpenAI Forum 네트워킹 화 11/24 12–1pm ET 등록됨
-- 🟢 이벤트 캘린더: McKinsey Case Coaching 워크숍 목 11/5 3:30 Aldrich 012 (IBM 3:30과 겹침) · McKinsey RC Women's Event 월 11/9 4:30 Aldrich 007 · CPD 프로필 사진 월 11/9 1–5 · Estée Lauder CEO 강연 월 11/23 4pm (RSVP)
+## 11/3 Briefing (Tue)
+- 🔴 ⭐ **OpenAI coffee chat invite (Jeffrey Fan)**: Wed 11/4 2:00–2:30pm ET, Google Meet; the invite came to the school account, so accept in Outlook (no conflicts on Google Calendar)
+- 🔴 **HBS Tech Club small dinner: Julie is Dinner 4 table captain** (Fri 11/6 evening, 6 people): ① WhatsApp group chat within 24 hours (11/2 morning email → by this morning) ② share restaurant options (dietary restrictions such as vegetarian/halal → Indian or Mediterranean is a safe bet) ③ reply all once the restaurant and time are set; booking is OK once 4+ people confirm; recommend 6:30 or later since it follows Fri 3:30–4:30 X Moonshot
+- 🔴 Tech Club × Lovable 'Everyday AI Hackathon' (Sun 11/8 12pm) team formation form **by Wed 11/4 5pm** (spot canceled otherwise); a classmate (Yoonsik) forwarded it; check whether he wants to team up; whether Julie registered can't be confirmed from Gmail
+- 🔴 Bussgang: the same-day 11/2 openings (4:20 → 3:00) passed → revised the existing draft into a **request to stay on the waitlist** (unsent)
+- 🔴 ⭐ **BCG Summer Consultant application due Tue 11/10 11:59pm ET**: resume, GMAT/GRE score, undergraduate GPA, 1–2 offices, interest in Digital BCG (no cover letter) → CCA 11/12–13; online case Thu 11/12 3–7pm; non-evaluative Case Structuring workshops 11/3–11/10 (sign up for one only); Wed 11/4 3–6 international office coffee chats (Middle East, Japan, London); 4:30 Practice Area panel
+- 🟠 FIN1 Online Exercise 3 → extended to 11/9 (already submitted and graded ✅); MKT Quant #2 deadline passed on the night of 11/2 (confirm submission); FIN1 review sessions today 4:30 and 5:30 Aldrich 007 (optional)
+- 🟠 Section G survey + dues (Zelle) link arrived; Flag Day info coming soon; ✅ Snowflake PM intern (Summer 2027) application receipt; Startup Bootcamp **11/19 working dinner (required)**
+- [ ] One more package: Rock Center basement **Locker 7** (Amazon); also Mail Center (B010) packages and cart return
+- Today: 3:30–4 Manny Sahota (Microsoft) Meet; DaVita coffee chats 3:30–5:30 Spangler 212–213 / dinner 6–8 Waypoint (sign up via the career system); 5:30–7 Bain Women's Event (registration required); **6:30–7:30 AI Club Rolodex Night**; US Election Day
+- 🟢 ⭐ AI Club 'Decoding the Anthropic IPO' (Professor Vikram Gandhi) **Tue 11/10 3:30–4:30 Aldrich 112** (first come first served); AI Club × HLS 'Building AI in Regulated Markets' Thu 11/19 evening (may conflict with the Bootcamp dinner); ⭐ Asia Business Conference Sat 11/7 Klarman (Hanwha CEO and others; code HARVARD $35); ✅ registered for OpenAI Forum networking Tue 11/24 12–1pm ET
+- 🟢 Events calendar: McKinsey Case Coaching workshop Thu 11/5 3:30 Aldrich 012 (conflicts with IBM 3:30); McKinsey RC Women's Event Mon 11/9 4:30 Aldrich 007; CPD profile photos Mon 11/9 1–5; Estée Lauder CEO talk Mon 11/23 4pm (RSVP)
 
-## 11/2 브리핑 (월)
-- 🔴 ⭐ **Bain Seoul Summer Associate 지원 마감 수 11/11 11:59pm PT** (Bain 서울 리크루팅팀 안내) — 영문 이력서 (+선택 커버레터), 오피스 최대 3곳에 비중(%) 배분
-- 🔴 IBM 녹화 역량 인터뷰 리마인더 — 링크 유효 ~11/5
-- 🔴 Bussgang 오늘 3:00 요청 초안·Avis 참석 확인 초안 Gmail에서 아직 미발송 (Outlook으로 답했는지 확인)
-- [ ] **오늘 11:59pm 마감**: MKT Quantitative Exercise #2 · FIN1 Exercise 3
-- [ ] 택배 3개 Student Mail Center (B010, 평일 8–5) · 이동 카트 반납 리마인더 또 옴
-- 오늘: 3:45 Samsung GSG 설명회 (Aldrich 107) · 4pm Starbucks 세션 (신청했다면) · 5–7 Samsung GSG 커피챗 (Spangler 201–202) · 5:30–7 Guido Fienga 토크 Hawes 203 · 저녁 The 250 Forum (선거 전날 학생 토론)
-- 🟢 ✅ AABA 학기말 디너 & 노래방 티켓 구매 완료 · 새 행사: Vicky Tsai (Tatcha) 토크 목 11/19 3:30 Aldrich 208 · CPD 'Tap Into the HBS Network'
+## 11/2 Briefing (Mon)
+- 🔴 ⭐ **Bain Seoul Summer Associate application due Wed 11/11 11:59pm PT** (from the Bain Seoul recruiting team): English resume (+ optional cover letter); split preference (%) across up to 3 offices
+- 🔴 IBM recorded competency interview reminder: link valid until ~11/5
+- 🔴 The Bussgang 'today 3:00' request draft and the Avis attendance confirmation draft are still unsent in Gmail (check whether replied via Outlook)
+- [ ] **Due today 11:59pm**: MKT Quantitative Exercise #2, FIN1 Exercise 3
+- [ ] 3 packages at the Student Mail Center (B010, weekdays 8–5); another moving cart return reminder
+- Today: 3:45 Samsung GSG info session (Aldrich 107); 4pm Starbucks session (if signed up); 5–7 Samsung GSG coffee chats (Spangler 201–202); 5:30–7 Guido Fienga talk Hawes 203; evening The 250 Forum (student debate the night before the election)
+- 🟢 ✅ AABA end-of-semester dinner & karaoke ticket purchased; new events: Vicky Tsai (Tatcha) talk Thu 11/19 3:30 Aldrich 208; CPD 'Tap Into the HBS Network'
 
-## 11/1 브리핑 (일)
-- 🔴 새 요청 없음 · Avis 참석 확인·Bussgang 월 11/2 3:00 초안 둘 다 Gmail에서 아직 미발송 (Outlook으로 답했는지 확인)
-- ❌ C3 AI 'AI Product Manager – MBA Intern' 불합격 통보 (10/31)
-- [ ] **오늘 10am–4pm Startup Bootcamp 킥오프** (Spangler 51 → 오후 Hives, 노트북) · **AI Club Rolodex 폼 오늘까지**
-- [ ] **내일 월 11/2 11:59pm**: MKT Quantitative Exercise #2 · FIN1 Exercise 3
-- [ ] 택배 3개 Student Mail Center (B010) — 평일 8–5 수령 · 이동 카트 반납
-- 🟢 ⭐ **Harvard x MIT x Yale x Columbia 코리아 믹서 참가 확정** — 토 11/21 3–7pm Harvard Lehman Hall, 세미 포멀, 간단한 음식 (Harvard-Yale 테일게이트 11–3:30과 30분 겹침)
+## 11/1 Briefing (Sun)
+- 🔴 No new requests; the Avis attendance confirmation and the Bussgang Mon 11/2 3:00 drafts are both still unsent in Gmail (check whether replied via Outlook)
+- ❌ C3 AI 'AI Product Manager – MBA Intern' rejection (10/31)
+- [ ] **Today 10am–4pm Startup Bootcamp kickoff** (Spangler 51 → Hives in the afternoon; bring a laptop); **AI Club Rolodex form due today**
+- [ ] **Tomorrow, Mon 11/2 11:59pm**: MKT Quantitative Exercise #2, FIN1 Exercise 3
+- [ ] 3 packages at the Student Mail Center (B010); pick up weekdays 8–5; return the moving cart
+- 🟢 ⭐ **Confirmed for the Harvard x MIT x Yale x Columbia Korea mixer**: Sat 11/21 3–7pm Harvard Lehman Hall, semi-formal, light food (overlaps 30 minutes with the Harvard-Yale tailgate 11–3:30)
 
-## 10/31 브리핑 (토)
-- 🔴 새 요청 없음 · Avis 참석 확인 초안 (마감 10/30)·Bussgang 월 11/2 3:00 초안 모두 Gmail에서 아직 미발송 — Outlook으로 답했는지 확인
-- [ ] **택배 3개: Student Mail Center (Rock Center 지하 B010)** — 2개 + Amazon 1개 (10/30 도착), 5 영업일 내 수령 · 토요일은 8am–12pm, 평일 8–5 · HBS ID 지참
-- [ ] 이동 카트: 10/30 4:37pm 다시 대여 기록 — 쓰고 나면 바로 메일센터 창구에 반납 (반납 전까지 리마인더 옴)
-- [ ] **월 11/2 11:59pm 마감**: MKT Quantitative Exercise #2 · FIN1 Exercise 3
-- [ ] TOM 모듈 1+2 피드백 설문 (익명) — 다음 TOM 수업 목 11/5 전까지
-- FRC 9주차 정리 슬라이드 (Canvas) · 학장 메일 'Our Mission and Values' (2027년 6월 캠퍼스 100주년)
-- 🟢 [ ] **AI Club Rolodex Night 매칭 폼 내일(일 11/1)까지** (https://forms.gle/WJJLRCwEE73v1aLT7) · GV Dave Munichiello 화상 토크는 어제 진행 · HBS Show Club Cabaret 2026
-- 내일 일 11/1 10am–4pm Startup Bootcamp 킥오프 (Spangler 51 → Hives, 노트북 필수)
+## 10/31 Briefing (Sat)
+- 🔴 No new requests; the Avis attendance confirmation draft (deadline 10/30) and the Bussgang Mon 11/2 3:00 draft are both still unsent in Gmail; check whether replied via Outlook
+- [ ] **3 packages: Student Mail Center (Rock Center basement B010)**: 2 + 1 Amazon (arrived 10/30); pick up within 5 business days; Saturdays 8am–12pm, weekdays 8–5; bring HBS ID
+- [ ] Moving cart: rental logged again 10/30 4:37pm; return it to the mail center window right after use (reminders continue until returned)
+- [ ] **Due Mon 11/2 11:59pm**: MKT Quantitative Exercise #2, FIN1 Exercise 3
+- [ ] TOM Modules 1+2 feedback survey (anonymous) before the next TOM class on Thu 11/5
+- FRC week 9 wrap-up slides (Canvas); dean's email 'Our Mission and Values' (campus centennial in June 2027)
+- 🟢 [ ] **AI Club Rolodex Night matching form due tomorrow (Sun 11/1)** (https://forms.gle/WJJLRCwEE73v1aLT7); GV Dave Munichiello video talk was yesterday; HBS Show Club Cabaret 2026
+- Tomorrow, Sun 11/1 10am–4pm Startup Bootcamp kickoff (Spangler 51 → Hives; laptop required)
 
-## 10/30 브리핑 (금)
-- 🔴 **Avis × HBS 드링크 (CEO Brian Choi)** 자리 확보 — 월 11/16 6–8pm Alden & Harlow · **오늘(10/30)까지 참석 확인 + 식이 제한 회신** → 답장 초안 준비 ([none] 확인)
-- 🔴 Jeff Bussgang: 월 11/2 3:00 요청 초안 아직 미발송 (Laura 새 메일 없음)
-- [ ] **월 11/2 11:59pm 마감 2개**: MKT Quantitative Exercise #2 (열면 1시간) · FIN1 Exercise 3 (90분)
-- [ ] **이동 카트 반납** (Operational Support Services 리마인더 — 이미 반납했거나 더 필요하면 회신)
-- LEAD 중간 참여 피드백 도착 (10/29, CONFIDENTIAL)
-- ✅ Flour 케이크 결제 완료 ($46.20)
-- FRC Gandhi 교수 화상 오피스아워 11월 초 자리 열림 (시트 신청) · Muse 앱 액세스 요청 만료 (필요하면 재요청)
-- [ ] 택배: Locker 2 (새로) · Locker 7 (리마인더)
-- 오늘: 12:30 Section G Heidi Roizen 대화 (Aldrich 008) · 3:30 RC Strategy 퀴즈 리뷰 (Aldrich 208) · 4pm Dave Munichiello · 4:30 AABA Fun Run
-- 🟢 WSA 'Beauty Standards in Business' (Nina Davuluri) · Morgan Stanley Asia IB 여름 어소시에이트 지원 마감 임박 · X Moonshot 11/6 3:30 캘린더에 자동 추가됨
+## 10/30 Briefing (Fri)
+- 🔴 **Avis × HBS drinks (CEO Brian Choi)** spot secured: Mon 11/16 6–8pm Alden & Harlow; **confirm attendance + reply with dietary restrictions by today (10/30)** → reply draft ready (confirm [none])
+- 🔴 Jeff Bussgang: Mon 11/2 3:00 request draft still unsent (no new email from Laura)
+- [ ] **2 deadlines Mon 11/2 11:59pm**: MKT Quantitative Exercise #2 (1 hour once opened), FIN1 Exercise 3 (90 minutes)
+- [ ] **Return the moving cart** (Operational Support Services reminder; reply if already returned or if you need it longer)
+- LEAD midterm participation feedback arrived (10/29, CONFIDENTIAL)
+- ✅ Flour cake payment done ($46.20)
+- FRC Professor Gandhi video office hours opened for early November (sign up on the sheet); Muse app access request expired (re-request if needed)
+- [ ] Packages: Locker 2 (new), Locker 7 (reminder)
+- Today: 12:30 Section G Heidi Roizen conversation (Aldrich 008); 3:30 RC Strategy quiz review (Aldrich 208); 4pm Dave Munichiello; 4:30 AABA Fun Run
+- 🟢 WSA 'Beauty Standards in Business' (Nina Davuluri); Morgan Stanley Asia IB summer associate application deadline approaching; X Moonshot 11/6 3:30 added to the calendar automatically
 
-## 10/29 브리핑 (목)
-- 🔴 **IBM 'AI-First Transformation – Strategy Consultant Intern' (133909)** 지원 완료 (10/29) → **녹화 역량 인터뷰(Knockri) 초대 — 링크 7일 유효 (~11/5)**, 10–20분, 질문당 준비 1분·답변 3분, 시작 전 연습 가능
-- 🔴 Jeff Bussgang: Laura 후속 메일 (10/28) — 남은 자리 11/2 3:00·3:40·4:20 → **초안을 월 3:00 요청으로 수정** (3:40·4:20은 Samsung GSG 3:45·Starbucks 4:00과 겹침)
-- ✅ C3 AI 'AI Product Manager – MBA Intern (Summer 2027)' 지원 접수 · ✅ LEAD 중간 과제(Midterm Response) 제출 확인 (10/28 4:49pm)
-- [ ] **오늘**: 1:50–3:50 FRC 중간고사 → 4pm Flour 케이크 픽업 → 5–6pm Archi 생일 파티 (Spangler, 수락 10명) ⚠️ Kent Bennett 5pm 겹침 · 7:30 Women@BCG
-- RC Strategy 퀴즈 답안 공개 (1번 D 선택 시 절반 점수) · 리뷰 세션 금 10/30 3:30–4:30 Aldrich 208
-- [ ] Section G Flag Day: 국가별 발표(5–7분)·음식·활동 계획 회신 요청 — 11/16(월)+11/20(금) 두 번으로 나눌지 금요일 수업 후 논의
-- [ ] 택배: Locker 1·2·3·7 (1·2·7은 리마인더)
-- 🟢 ✅ X (Moonshot Factory) 11/6 Eventbrite 등록 완료 · Harvard-Yale 테일게이트 티켓 오픈 (Eventbrite, 코드 ALDRICH_2026, 수량 한정) · E-Club 컨퍼런스 학생 티켓 얼마 안 남음 · AI Club Vercel 워크숍 녹화본 공개
-- HBS 이벤트 캘린더: ⭐ **SK Group** '27 Global Future Leadership Program 설명회 목 11/5 4:30–5:15 Aldrich 008 (Selipsky 4:30과 겹침) · ⭐ **IBM Corporate Strategy Internship** 화상 설명회 목 11/5 3:30–4:30 · Apollo Infrastructure Group 설명회 수 11/4 3:30 Aldrich 010 · Tech Basics for Non-Technical MBAs 11/4·11/5 3:30 Aldrich 108 · McKinsey Case Coaching 11/5 3:30
+## 10/29 Briefing (Thu)
+- 🔴 **IBM 'AI-First Transformation – Strategy Consultant Intern' (133909)** application done (10/29) → **recorded competency interview (Knockri) invite: link valid for 7 days (~11/5)**, 10–20 minutes, 1 minute to prepare and 3 minutes to answer per question; practice available before starting
+- 🔴 Jeff Bussgang: Laura's follow-up email (10/28): remaining slots 11/2 3:00, 3:40, 4:20 → **revised the draft to request Mon 3:00** (3:40 and 4:20 conflict with Samsung GSG 3:45 and Starbucks 4:00)
+- ✅ C3 AI 'AI Product Manager – MBA Intern (Summer 2027)' application receipt; ✅ LEAD Midterm Response submission confirmed (10/28 4:49pm)
+- [ ] **Today**: 1:50–3:50 FRC midterm → 4pm Flour cake pickup → 5–6pm Archi's birthday party (Spangler, 10 accepted) ⚠️ conflicts with Kent Bennett at 5pm; 7:30 Women@BCG
+- RC Strategy quiz answers released (half credit for choosing D on question 1); review session Fri 10/30 3:30–4:30 Aldrich 208
+- [ ] Section G Flag Day: asked to reply with country presentation (5–7 minutes), food, and activity plans; discuss after Friday class whether to split it into two days, 11/16 (Mon) + 11/20 (Fri)
+- [ ] Packages: Lockers 1, 2, 3, 7 (1, 2, 7 are reminders)
+- 🟢 ✅ X (Moonshot Factory) 11/6 Eventbrite registration done; Harvard-Yale tailgate tickets open (Eventbrite, code ALDRICH_2026, limited quantity); few E-Club conference student tickets left; AI Club Vercel workshop recording released
+- HBS events calendar: ⭐ **SK Group** '27 Global Future Leadership Program info session Thu 11/5 4:30–5:15 Aldrich 008 (conflicts with Selipsky 4:30); ⭐ **IBM Corporate Strategy Internship** video info session Thu 11/5 3:30–4:30; Apollo Infrastructure Group info session Wed 11/4 3:30 Aldrich 010; Tech Basics for Non-Technical MBAs 11/4 and 11/5 3:30 Aldrich 108; McKinsey Case Coaching 11/5 3:30
 
-## 10/28 브리핑 (수)
-- 🔴 Jeff Bussgang: Laura가 새 대면 자리 공지 (10/27) — 10/30 2:20 / 11/2 3:00·3:20·3:40·4:20 → **새 스레드에 금 2:20 + 월 3:00·3:20 답장 초안** (3:40·4:20은 Samsung GSG 설명회 3:45–4:30·Starbucks 세션 4–5pm과 겹쳐 제외) · 예전 스레드 초안 2개는 보내지 말 것
-- [ ] **목 10/29**: 1:50–3:50 FRC 중간고사 → **4pm Flour Bakery (Harvard Sq) 케이크 픽업** (주문 $42 — 인보이스 마감 10/27, 결제됐는지 확인) → **5–6pm Archi 생일 파티 (Spangler, Julie 주최 — 5명 수락)** ⚠️ 5pm Kent Bennett와 겹침 · 7:30 Women@BCG
-- [ ] Section G 회비: Zelle uagarwal@mba2028.hbs.edu (메모: 이름 / A 또는 NA / 파트너 이름) — 금액은 첨부 PDF
-- MKT 중간 참여 피드백 도착 (10/27)
-- SAS 확인 메일 (10/27) — 답장 필수 아님 (필요하면 Janelle Mills 상담 예약)
-- Section G Heidi Roizen 대화: 금 10/30 12:30–1:15 **Aldrich 008** (장소 추가)
-- Startup Bootcamp 킥오프: **일 11/1 10am–4pm, Spangler 51 → 오후 Hives** (노트북 필수, The Grill 11시 오픈이라 커피 챙기기)
-- [ ] MKT Starbucks 임원 소그룹 세션 월 11/2 4–5pm (섹션당 5명, 선착순 시트) · FRC Hors d'oeuvres Night 4번째 날 목 11/12 6–8pm 추가 (대기자면 시트 확인)
-- FIN1 중간고사 내용 얘기 금지 (전원 응시 전까지)
-- [ ] 택배: Locker 7 (10/27)
-- 🟢 ⭐ 'Inside Alphabet's Moonshot Factory' (X) **금 11/6 3:30–4:30 I-Lab** · AI x Marketing 'Future of Influence' (날짜는 초대장) · Lectures That Last 월 11/9 6pm Klarman (Eventbrite, 75% 마감) · Chinese Culture Association 연사 시리즈 · 오늘 1pm Harvard-Yale 테일게이트 티켓 오픈
+## 10/28 Briefing (Wed)
+- 🔴 Jeff Bussgang: Laura announced new in-person slots (10/27): 10/30 2:20 / 11/2 3:00, 3:20, 3:40, 4:20 → **reply draft in a new thread for Fri 2:20 + Mon 3:00 and 3:20** (excluded 3:40 and 4:20 because they conflict with the Samsung GSG info session 3:45–4:30 and the Starbucks session 4–5pm); do not send the 2 drafts in the old thread
+- [ ] **Thu 10/29**: 1:50–3:50 FRC midterm → **4pm Flour Bakery (Harvard Sq) cake pickup** (order $42; invoice due 10/27, check whether paid) → **5–6pm Archi's birthday party (Spangler, hosted by Julie; 5 accepted)** ⚠️ conflicts with Kent Bennett at 5pm; 7:30 Women@BCG
+- [ ] Section G dues: Zelle uagarwal@mba2028.hbs.edu (memo: name / A or NA / partner name); amount in the attached PDF
+- MKT midterm participation feedback arrived (10/27)
+- SAS confirmation email (10/27); reply not required (book with Janelle Mills if needed)
+- Section G Heidi Roizen conversation: Fri 10/30 12:30–1:15 **Aldrich 008** (location added)
+- Startup Bootcamp kickoff: **Sun 11/1 10am–4pm, Spangler 51 → Hives in the afternoon** (laptop required; The Grill opens at 11, so bring coffee)
+- [ ] MKT Starbucks executive small-group session Mon 11/2 4–5pm (5 per section, first come first served sheet); FRC Hors d'oeuvres Night 4th date added Thu 11/12 6–8pm (check the sheet if waitlisted)
+- Don't discuss FIN1 midterm content (until everyone has taken it)
+- [ ] Packages: Locker 7 (10/27)
+- 🟢 ⭐ 'Inside Alphabet's Moonshot Factory' (X) **Fri 11/6 3:30–4:30 I-Lab**; AI x Marketing 'Future of Influence' (date in the invite); Lectures That Last Mon 11/9 6pm Klarman (Eventbrite, 75% full); Chinese Culture Association speaker series; Harvard-Yale tailgate tickets open today at 1pm
 
-## 10/27 브리핑 (화)
-- 🔴 Jeff Bussgang: 10/26 아침 12:50 급구 자리 메일 → 3분 만에 마감 · 월 대면 자리는 지나서 **답장 초안을 금 10/30 2:20 요청 + 대기 유지로 수정** (Gmail 초안, 미발송)
-- ✅ 10/26 Marketing 결석 → 출결 포털 제출 완료 (excused) · Moynihan 교수 답장 — 필요하면 오피스아워에서 수업·중간고사 내용 정리 도와준다고 함
-- [ ] LEAD Module 2 (Enhancing Interpersonal Effectiveness) Reflection 마감 10/26 11:30pm 지남 — 제출했는지 확인 · LEAD Midpoint Case & Content Poll (Qualtrics)
-- [ ] **FIN1 Exercise 3** — 10/26 3pm 오픈, **월 11/2 11:59pm 마감** (90분, 오픈북, 인터넷·협업 불가)
-- 오늘: 1–2pm 'AI, Ethics & the Future of Civil Society' Askwith Hall (12:30 점심) · 5–6pm MKT TA Celine Chammas 정량 기법 리뷰 Aldrich 107 (Quantitative Exercise 대비, 녹화) · FIN1 리뷰 세션 5–6 / 6–7pm Aldrich 007 (Zoom 가능) · 6pm NextView
-- 📅 SIPs 날짜 정정: **Startup Bootcamp 1/16–1/22, 2027** (배정은 그대로)
-- ✅ Microsoft Product Management Intern (200063148) 지원 완료 (10/26) — 예전 'Senior Strategy & Investment Analyst' 미완료 건과는 별개
-- TOM Kyle Myers 교수 답장 (10/21 메일에 대한 감사 답장)
-- [ ] 택배 3개: Rock Center 지하 Locker 1 · 2 · 7 (10/26)
-- 🟢 ⭐ AI Club: 'Inside Ode with Anthropic' **월 11/9 3:30–4:30 Aldrich 109** · Adam Selipsky (전 AWS CEO) **목 11/5 4pm 입장, 4:30–5:30 Klarman** (Eventbrite 등록, 선착순·Harvard ID 필요) · Rolodex Night 디렉토리 폼 11/1까지 (https://forms.gle/WJJLRCwEE73v1aLT7)
-- Harvard/Yale 테일게이트 티켓 **수 10/28 1pm** 오픈 (11/21 11–3:30 Time Out Market, $40/$60/$80) · Spirit Week 테마 안내 (SA)
-- HBS 이벤트 캘린더 (화 11/3): ⭐ Strategy& 1:1 커피챗 3:30–6 Spangler 209–210 · L.E.K. 설명회 3:30 & 커피챗 4:30 · Bain Women's Event 5:30 — 3:30대는 Manny Sahota와 겹침
+## 10/27 Briefing (Tue)
+- 🔴 Jeff Bussgang: 10/26 morning email about urgent 12:50 slots → filled within 3 minutes; Monday's in-person slots have passed, so **revised the reply draft to request Fri 10/30 2:20 + stay on the waitlist** (Gmail draft, unsent)
+- ✅ Missed Marketing on 10/26 → attendance portal submission done (excused); Professor Moynihan replied that he can help go over class and midterm content in office hours if needed
+- [ ] LEAD Module 2 (Enhancing Interpersonal Effectiveness) Reflection deadline 10/26 11:30pm passed; check whether submitted; LEAD Midpoint Case & Content Poll (Qualtrics)
+- [ ] **FIN1 Exercise 3**: opened 10/26 3pm, **due Mon 11/2 11:59pm** (90 minutes, open book, no internet or collaboration)
+- Today: 1–2pm 'AI, Ethics & the Future of Civil Society' Askwith Hall (lunch 12:30); 5–6pm MKT TA Celine Chammas quantitative methods review Aldrich 107 (for the Quantitative Exercise, recorded); FIN1 review sessions 5–6 / 6–7pm Aldrich 007 (Zoom available); 6pm NextView
+- 📅 SIPs date correction: **Startup Bootcamp 1/16–1/22, 2027** (assignment unchanged)
+- ✅ Microsoft Product Management Intern (200063148) application done (10/26); separate from the earlier incomplete 'Senior Strategy & Investment Analyst' application
+- TOM Professor Kyle Myers replied (thank-you reply to the 10/21 email)
+- [ ] 3 packages: Rock Center basement Lockers 1, 2, 7 (10/26)
+- 🟢 ⭐ AI Club: 'Inside Ode with Anthropic' **Mon 11/9 3:30–4:30 Aldrich 109**; Adam Selipsky (former AWS CEO) **Thu 11/5 doors 4pm, 4:30–5:30 Klarman** (Eventbrite registration, first come first served, Harvard ID required); Rolodex Night directory form by 11/1 (https://forms.gle/WJJLRCwEE73v1aLT7)
+- Harvard/Yale tailgate tickets open **Wed 10/28 1pm** (11/21 11–3:30 Time Out Market, $40/$60/$80); Spirit Week theme announcement (SA)
+- HBS events calendar (Tue 11/3): ⭐ Strategy& 1:1 coffee chats 3:30–6 Spangler 209–210; L.E.K. info session 3:30 & coffee chats 4:30; Bain Women's Event 5:30; the 3:30 slot conflicts with Manny Sahota
 
-## 10/26 브리핑 (월)
-- [ ] **오늘 3pm Cathy Hutchinson (CPD) 커리어 코치 상담** — Zoom https://hbs.zoom.us/my/cathyhutchinson · 캘린더에 없음 · ⚠️ FRC 중간고사 리뷰 세션(3–5pm, Aldrich 207 + Zoom, 녹화)과 겹침 → 리뷰는 녹화로
-- 🔴 Jeff Bussgang: 대면 자리 답장 초안(10/22) 아직 Gmail에 그대로 — **오늘 12:50·1:10 자리**는 오전 중 보내야 함, 금 10/30 2:20도 있음 · Kabir 답 없음
-- [ ] **오늘 마감:** ⭐ Jane Street S&P 해피아워 관심 폼 (행사 수 10/28 5:30) · 'Humble Design' 케이스 실물 Spangler 지하 수령
-- ✅ American Express 2027 여름 인턴 지원 2건 (10/26 새벽): Digital Product Management, Enterprise Technology Services (NY, 26012057) · Product Management, Global Commercial Services (NY, 26012558)
-- FIN1 Tutorial 'Portfolio Optimization' 채점됨 (Canvas)
-- [ ] 택배 리마인더: Rock Center 지하 Locker 1 (10/23부터 대기)
-- Section G: Heidi Roizen 후속 대화 (Feldberg 교수 참석) — **금 10/30 12:30–1:15pm** (초대장 기준, 장소 미기재)
-- 🟢 ⭐ AI Club × MIT 'Nuclear Power: AI & Policy' 믹서 화 11/3 5:30–6:30pm Aldrich 012 (Luma 등록 https://luma.com/yri7c31m) · ⭐ AI Club × Healthcare Club 'AI in Drug Discovery' (Sanofi Shameer Khader) 수 11/4 4–5pm Aldrich 107 · AABA × AASU 핼러윈 토 10/31 8–11pm
-- HBS 이벤트 캘린더: ⭐ **Samsung GSG** 설명회 월 11/2 3:45–4:30 Aldrich 107 + 커피챗 5–7pm Spangler 201–202 (RC) · ⭐ Strategy& 리크루터 오피스아워 11/2 3:30–6 (화상) · EY-Parthenon 화상 설명회 11/2 7:30pm · Founder Legal Essentials (스타트업 고용법) 화 11/3 3:30–4:30 Chao Center 300, Luma RSVP — Manny Sahota 3:30과 겹침
-- Dropbox: Ronghua Bei가 'Labprint_SampleVideo' 폴더 공유 (어젯밤 Dropbox 가입 — 이메일 인증 메일 와 있음)
-- 어제 Gallatin 고래 관찰 예정대로 진행 (1:10 Klarman 집합)
+## 10/26 Briefing (Mon)
+- [ ] **Today 3pm career coach session with Cathy Hutchinson (CPD)**: Zoom https://hbs.zoom.us/my/cathyhutchinson; not on the calendar; ⚠️ conflicts with the FRC midterm review session (3–5pm, Aldrich 207 + Zoom, recorded) → watch the review recording
+- 🔴 Jeff Bussgang: the in-person slot reply draft (10/22) is still sitting in Gmail; **today's 12:50 and 1:10 slots** require sending this morning; Fri 10/30 2:20 is also open; no reply from Kabir
+- [ ] **Due today:** ⭐ Jane Street S&P happy hour interest form (event Wed 10/28 5:30); pick up the 'Humble Design' case print copy in the Spangler basement
+- ✅ 2 American Express 2027 summer intern applications (early 10/26): Digital Product Management, Enterprise Technology Services (NY, 26012057); Product Management, Global Commercial Services (NY, 26012558)
+- FIN1 Tutorial 'Portfolio Optimization' graded (Canvas)
+- [ ] Package reminder: Rock Center basement Locker 1 (waiting since 10/23)
+- Section G: Heidi Roizen follow-up conversation (Professor Feldberg attending): **Fri 10/30 12:30–1:15pm** (per the invite; no location listed)
+- 🟢 ⭐ AI Club × MIT 'Nuclear Power: AI & Policy' mixer Tue 11/3 5:30–6:30pm Aldrich 012 (Luma registration https://luma.com/yri7c31m); ⭐ AI Club × Healthcare Club 'AI in Drug Discovery' (Sanofi Shameer Khader) Wed 11/4 4–5pm Aldrich 107; AABA × AASU Halloween Sat 10/31 8–11pm
+- HBS events calendar: ⭐ **Samsung GSG** info session Mon 11/2 3:45–4:30 Aldrich 107 + coffee chats 5–7pm Spangler 201–202 (RC); ⭐ Strategy& recruiter office hours 11/2 3:30–6 (video); EY-Parthenon video info session 11/2 7:30pm; Founder Legal Essentials (startup employment law) Tue 11/3 3:30–4:30 Chao Center 300, Luma RSVP; conflicts with Manny Sahota at 3:30
+- Dropbox: Ronghua Bei shared the 'Labprint_SampleVideo' folder (signed up for Dropbox last night; email verification message waiting)
+- Yesterday's Gallatin whale watch went ahead as planned (meet at Klarman 1:10)
 
-## 10/25 브리핑 (일)
-- ✅ 지원 접수 확인 4건 (10/24–25): EA 'Product Manager Intern, MBA Level' (Apex Legends, Req 216272) · Epic Games PM Intern · Qualcomm PM Internship Summer 2027 (3095762) · Intuit MBA Pricing & Monetization Strategy Intern
-- 🔴 Jeff Bussgang: 다음 주 대면 자리 답장 초안(10/22) 아직 Gmail에 그대로 — **월 10/26 12:50·1:10 자리는 내일** · Kabir 답 없음
-- ⭐ AI Club FDE (Rama Pyarasani) 재공지 — 10/22 공지대로 **11/5(목)**로 연기된 세션으로 보임, 6–7pm Aldrich 111 (대면만) · 본문 날짜가 'October 15'로 잘못 남아 있어 첨부 초대장(invite.ics)으로 확인 필요 · 질문 제출 폼 있음
-- HBS 이벤트 캘린더: ⭐ Women@BCG 해피아워 목 10/29 7:30–9pm (12twenty에서 등록) · Kearney PEPI 1:1 커피챗 금 10/30 1:30–5pm (화상) · Paul Cheek 'No One Works Here' 워크숍 RSVP 10/29까지
-- Replit: HBS x MIT 해커톤 워크스페이스 추가 + Replit Core 1개월 무료 체험 초대 (프로젝트 계속하려면 활성화)
-- 다가오는 것: 오늘 2pm Gallatin 고래 관찰 · 월 10/26 Jane Street 관심 폼 마감 & 3–5pm FRC 리뷰 · 화 10/27 6pm NextView · 목 10/29 1:50 FRC 중간고사 & 5pm Kent Bennett · 금 10/30 4pm Dave Munichiello & 4:30 AABA Fun Run · 일 11/1 10am–4pm Startup Bootcamp 워크숍 (대면 필수, 캘린더 있음)
+## 10/25 Briefing (Sun)
+- ✅ 4 application receipts (10/24–25): EA 'Product Manager Intern, MBA Level' (Apex Legends, Req 216272), Epic Games PM Intern, Qualcomm PM Internship Summer 2027 (3095762), Intuit MBA Pricing & Monetization Strategy Intern
+- 🔴 Jeff Bussgang: the reply draft for next week's in-person slots (10/22) is still in Gmail; **the Mon 10/26 12:50 and 1:10 slots are tomorrow**; no reply from Kabir
+- ⭐ AI Club FDE (Rama Pyarasani) re-announcement: appears to be the session postponed to **Thu 11/5** as announced on 10/22, 6–7pm Aldrich 111 (in person only); the body still wrongly says 'October 15', so check the attached invite (invite.ics); question submission form available
+- HBS events calendar: ⭐ Women@BCG happy hour Thu 10/29 7:30–9pm (register on 12twenty); Kearney PEPI 1:1 coffee chats Fri 10/30 1:30–5pm (video); Paul Cheek 'No One Works Here' workshop RSVP by 10/29
+- Replit: added to the HBS x MIT hackathon workspace + invited to a 1-month free Replit Core trial (activate to keep working on the project)
+- Coming up: today 2pm Gallatin whale watch; Mon 10/26 Jane Street interest form deadline & 3–5pm FRC review; Tue 10/27 6pm NextView; Thu 10/29 1:50 FRC midterm & 5pm Kent Bennett; Fri 10/30 4pm Dave Munichiello & 4:30 AABA Fun Run; Sun 11/1 10am–4pm Startup Bootcamp workshop (in person, required; on calendar)
 
-## 10/24 브리핑 (토)
-- [ ] **오늘 AI 해커톤** — 8:30 입장, 9시 시작 (Batten Hall, 125 Western Ave) · Replit 크레딧은 https://hbs-x-mit-hackathon.replit.app 에서 Luma 등록 이메일로 · 팀 없으면 9시 전에 와서 현장 매칭
-- 🔴 Cisco 리크루터 Nilay Ajbani가 직접 연락 (10/23): Strategy & Planning MBA 로테이션 — 가상 설명회 등록 + 캠퍼스·화상 커피챗 관심 폼
-- 🔴 Jeff Bussgang: 다음 주 대면 자리(월 10/26 12:50·1:10, 금 10/30 2:20) 답장 초안 아직 Gmail에 그대로 — 월요일 자리면 이틀 남음 · Kabir는 답 없음, 제안했던 시간 모두 지남
-- [ ] **목 10/29 1:50–3:50pm FRC 중간고사** (평소 강의실) — 월 10/26 3–5pm 리뷰 세션 (Aldrich 207 + Zoom, 녹화) · Canvas에 연습 문제·해설·가이드 · 결과는 11/3 · 'Humble Design' 케이스 실물 월 10/26 Spangler 지하에서 수령
-- ✅ January SIPs 확정: **Startup Bootcamp** (~~Week 2, 1/21–1/24~~ → 10/26 정정: **1/16–1/22, 2027**) — 전 세션 출석 필수, P/LP/F 성적, 철회 마감 1/12 12pm
-- [ ] 택배: Rock Center 지하 Locker 1 (10/23)
-- LEAD 중간 설문 · TOM 선택 기술 노트 'Production Processes' Canvas에
-- Section G: Heidi Roizen 케이스 후속 대화 (Feldberg 교수) · International Flag Day 안내
-- SA '250 Forum' (선거 전날 학생 토론) · WII x VCPE Steve Klinsky 리마인드
+## 10/24 Briefing (Sat)
+- [ ] **AI hackathon today**: doors 8:30, starts at 9 (Batten Hall, 125 Western Ave); get Replit credits at https://hbs-x-mit-hackathon.replit.app with your Luma registration email; if you have no team, arrive before 9 for on-site matching
+- 🔴 Cisco recruiter Nilay Ajbani reached out directly (10/23): Strategy & Planning MBA rotation; register for the virtual info session + campus/video coffee chat interest form
+- 🔴 Jeff Bussgang: the reply draft for next week's in-person slots (Mon 10/26 12:50 and 1:10, Fri 10/30 2:20) is still in Gmail; two days left for the Monday slots; no reply from Kabir, and all proposed times have passed
+- [ ] **Thu 10/29 1:50–3:50pm FRC midterm** (usual classroom); review session Mon 10/26 3–5pm (Aldrich 207 + Zoom, recorded); practice problems, solutions, and guide on Canvas; results 11/3; pick up the 'Humble Design' case print copy Mon 10/26 in the Spangler basement
+- ✅ January SIPs confirmed: **Startup Bootcamp** (~~Week 2, 1/21–1/24~~ → corrected 10/26: **1/16–1/22, 2027**); attendance required at all sessions, P/LP/F grading, withdrawal deadline 1/12 12pm
+- [ ] Package: Rock Center basement Locker 1 (10/23)
+- LEAD midterm survey; TOM optional technical note 'Production Processes' on Canvas
+- Section G: Heidi Roizen case follow-up conversation (Professor Feldberg); International Flag Day info
+- SA '250 Forum' (student debate the night before the election); WII x VCPE Steve Klinsky reminder
 
-## 10/23 브리핑 (금)
-- 🔴 Jeff Bussgang: 10/22 오후 3:40 급구 Zoom 자리 메일 → 16분 만에 마감 · 다음 주 대면 자리(10/26 12:50·1:10, 10/30 2:20) 답장 초안은 아직 Gmail에 그대로
-- [ ] **오늘 LEAD 수업 ('12 Angry Men' 미리 다 보기)**
-- ✅ GoFundMe MBA Product Management Internship (Summer 2027) 지원 접수 (10/23)
-- [ ] Microsoft: 'Senior Strategy & Investment Analyst - AI Experiences' (Mountain View) 지원서 작성 중으로 남아 있다는 알림 — 마무리할지 결정
-- TikTok 채용 사이트 인증 메일 (지원 진행 중인 듯)
-- ✅ HBS Tech Club 소규모 저녁 모임 신청서 제출 (10/22)
-- [ ] **내일 토 10/24 9am–6pm AI 해커톤** — Harvard i-lab, Batten Hall (125 Western Ave)
-- [ ] 월 10/26: ⭐ Jane Street S&P 해피아워 관심 폼 마감 (행사는 수 10/28 5:30)
-- 다가오는 것: 일 10/25 2pm Gallatin 고래 관찰 · 10/26–30 HBS Spirit Week · 화 10/27 6pm NextView · 목 10/29 5pm Kent Bennett · 금 10/30 4pm Dave Munichiello (GV) & 4:30 AABA Fun Run
-- AI Club FDE 세션 (Rama Pyarasani)은 11/5로 연기 · President's Innovation Challenge (Harvard i-lab) 공지 · McKinsey 'What a summer could look like' 메일
+## 10/23 Briefing (Fri)
+- 🔴 Jeff Bussgang: 10/22 3:40pm email about urgent Zoom slots → filled within 16 minutes; the reply draft for next week's in-person slots (10/26 12:50 and 1:10, 10/30 2:20) is still in Gmail
+- [ ] **LEAD class today (watch all of '12 Angry Men' beforehand)**
+- ✅ GoFundMe MBA Product Management Internship (Summer 2027) application receipt (10/23)
+- [ ] Microsoft: notice that the 'Senior Strategy & Investment Analyst - AI Experiences' (Mountain View) application is still in progress; decide whether to finish it
+- TikTok careers site verification email (application seems to be in progress)
+- ✅ HBS Tech Club small dinner sign-up form submitted (10/22)
+- [ ] **Tomorrow, Sat 10/24 9am–6pm AI hackathon**: Harvard i-lab, Batten Hall (125 Western Ave)
+- [ ] Mon 10/26: ⭐ Jane Street S&P happy hour interest form deadline (event Wed 10/28 5:30)
+- Coming up: Sun 10/25 2pm Gallatin whale watch; 10/26–30 HBS Spirit Week; Tue 10/27 6pm NextView; Thu 10/29 5pm Kent Bennett; Fri 10/30 4pm Dave Munichiello (GV) & 4:30 AABA Fun Run
+- AI Club FDE session (Rama Pyarasani) postponed to 11/5; President's Innovation Challenge (Harvard i-lab) announcement; McKinsey 'What a summer could look like' email
 
-## 10/22 브리핑 (목)
-- 🔴 **Jeff Bussgang 대면 오피스아워** (Laura, 10/21 아침 메일): 10/26 (월) 12:50 / 1:10 PM, 10/30 (금) 2:20 PM — 먼저 답하는 사람 배정, 나머지는 대기자 → 세 시간 다 가능하다는 답장 초안 작성 (하루 지나서 찼을 수 있음 · 학교 메일이라 Outlook 발송도 OK)
-- ✅ David Askaryan 커피챗 완료 + 감사 메일 주고받음 (10/21) · ✅ Anne Marie도 감사 메일에 답장
-- TOM 중간 참여 피드백 (Prof. Myers) 도착
-- [ ] 냉장 택배 또 도착 (10/21) — Student Mail Center Cold Storage B010
-- [ ] **내일 금 10/23 LEAD 수업 전 '12 Angry Men' 전체 시청** · 오늘 LEAD Feedback Workshop (180분)
-- 오늘 8:40pm Meet Market Harvard x MIT — Cantab (등록함)
-- AI 해커톤 (토 10/24 9–6, Batten Hall): **등록 오늘 5pm 마감** — 팀원 각자 같은 팀 이름으로 등록됐는지 확인
-- 학사 일정 공지: 봄 RC 시험 4/30 (금) 종료, 5/1부터 출발 가능 · 2/26 (금) 트렉용 휴강일 · 봄 학기 금요일은 12:30 종료, 월요일 9:10 시작 · 12/1 상세 시간표 전 여행은 환불 가능하게
-- 기타: AI Club 'Forward-Deployed Engineering' 파이어사이드 (Rama Pyarasani) · Section G Flag Day 안내
+## 10/22 Briefing (Thu)
+- 🔴 **Jeff Bussgang in-person office hours** (Laura, 10/21 morning email): Mon 10/26 12:50 / 1:10 PM, Fri 10/30 2:20 PM; assigned to whoever replies first, others go on the waitlist → wrote a reply draft saying all three times work (may have filled after a day; it's school email, so sending via Outlook is fine)
+- ✅ David Askaryan coffee chat done + exchanged thank-you emails (10/21); ✅ Anne Marie also replied to the thank-you email
+- TOM midterm participation feedback (Prof. Myers) arrived
+- [ ] Another refrigerated package arrived (10/21): Student Mail Center Cold Storage B010
+- [ ] **Watch all of '12 Angry Men' before LEAD class tomorrow, Fri 10/23**; LEAD Feedback Workshop today (180 minutes)
+- Today 8:40pm Meet Market Harvard x MIT at Cantab (registered)
+- AI hackathon (Sat 10/24 9–6, Batten Hall): **registration closes today at 5pm**; confirm every teammate registered under the same team name
+- Academic calendar notice: spring RC exams end Fri 4/30, departures OK from 5/1; Fri 2/26 is a no-class day for treks; spring Fridays end at 12:30 and Mondays start at 9:10; book travel before the detailed 12/1 schedule only if refundable
+- Other: AI Club 'Forward-Deployed Engineering' fireside (Rama Pyarasani); Section G Flag Day info
 
-## 10/21 브리핑 (수)
-- [ ] **오늘 4:00–4:30 David Askaryan 커피챗** (Meet qfg-sfhd-ski) — 3:30 Toast Product Internship Spotlight (Aldrich 208, 12twenty 등록함)과 겹칠 수 있음 → 4시 전에 빠져나오기
-- 오늘 4:30–5:30 AI Club × Liberate AI 파이어사이드 (Hawes 201) · McKinsey: Explained (10/21, 등록 필요)
-- [ ] **택배 5개**: Rock Center 지하 Locker 7 (3개), Locker 2 (1개), **냉장 택배 1개 — Student Mail Center Cold Storage B010 (먼저 찾기)**
-- ✅ NVIDIA Enterprise AI PM MBA 인턴 (JR2026707) 추천 도착 (10/20) → 지원 완료 (10/21 새벽)
-- ✅ Google: CPD Cathy가 리크루터에게 확인 — Chris·Jason 추천 2개 모두 프로필에 보임, 추가로 할 것 없음
-- ✅ Anne Marie 커리어 코치 상담 완료 (10/20)
-- ✗ Duolingo PM MBA 인턴 — 불합격 (10/20)
-- [ ] 토 10/24 AI 해커톤: 팀원 각자 Luma에 같은 팀 이름으로 등록해야 함 (솔로면 팀 찾기 링크 메일 있음)
-- Section G: 섹션 회비 안내 세션 (금액·납부 방법 곧 공지) · 주간 Grafton 모임
-- MKT: Moynihan 교수 오피스아워 예약 링크 · 중간 수업 피드백 설문
-- 기타: CVS 메일 — Gatorade·Gatorade Zero 리콜 안내 (샀으면 확인) · WII x VCPE Lori Whelan (Silversmith) 파이어사이드 · AABA Bodyrok 클래스 취소
+## 10/21 Briefing (Wed)
+- [ ] **Today 4:00–4:30 coffee chat with David Askaryan** (Meet qfg-sfhd-ski); may conflict with the 3:30 Toast Product Internship Spotlight (Aldrich 208, registered on 12twenty) → leave before 4
+- Today 4:30–5:30 AI Club × Liberate AI fireside (Hawes 201); McKinsey: Explained (10/21, registration required)
+- [ ] **5 packages**: Rock Center basement Locker 7 (3), Locker 2 (1), **1 refrigerated package at Student Mail Center Cold Storage B010 (pick up first)**
+- ✅ NVIDIA Enterprise AI PM MBA intern (JR2026707) referral arrived (10/20) → application done (early 10/21)
+- ✅ Google: CPD Cathy confirmed with the recruiter that both referrals (Chris and Jason) show on the profile; nothing more to do
+- ✅ Anne Marie career coach session done (10/20)
+- ✗ Duolingo PM MBA intern: rejected (10/20)
+- [ ] Sat 10/24 AI hackathon: every teammate must register on Luma under the same team name (if solo, there's a team-finding link in the email)
+- Section G: section dues info session (amount and payment method to be announced soon); weekly Grafton gathering
+- MKT: Professor Moynihan office hours booking link; mid-course feedback survey
+- Other: CVS email about a Gatorade and Gatorade Zero recall (check if purchased); WII x VCPE Lori Whelan (Silversmith) fireside; AABA Bodyrok class canceled
 
-## 10/20 브리핑 (화)
-- [ ] **오늘 12:45pm Anne Marie (CPD) 커리어 코치 상담** — Zoom https://hbs.zoom.us/my/acheccone (12Twenty 확정, Outlook 캘린더에 자동 등록)
-- [ ] **오늘 Jamie Dimon Leader's Forum (Klarman)** — 4:15 입장 시작 (Spangler 쪽 문), **4:45 이후엔 좌석 보장 안 됨**, 5:20 문 닫음. 티켓 QR + 하버드 학생증 필수
-- FIN1 중간 리뷰 세션 오늘 4:30–6 Aldrich 007 (Zoom도 있음) — Jamie Dimon과 겹침. FIN1 Module 2도 오늘 시작
-- ✅ David Askaryan 커피챗 확정: 수 10/21 4:00–4:30 (Google Meet, Julie가 초대 보냄) — 이어서 4:30 Liberate AI (Hawes 201)
-- Arun에게 NVIDIA Enterprise AI PM MBA 인턴 (JR2026707) 추천 추가 요청 (10/19)
-- TOM 중간 퀴즈 점수·해설, Strategy 중간 퀴즈 점수 Canvas에 올라옴 · FIN1 Statistics 튜토리얼 채점 완료
-- ⭐ NextView Ventures Rob Go 리마인드: MBA Founders & Innovators Night 화 10/27 6pm (Longfellow Bar, luma 등록)
-- AI Club: 해커톤 자원봉사 모집 (토 10/24 Batten Hall) · Vercel 'Prototype to Production' 워크숍 (GitHub+Vercel 계정 미리 만들고 시트에 참석 표시)
-- October Buzz: 추수감사절 호스트 가족 매칭·캠퍼스 식사 신청 11/13까지 · myHBS 앱 삭제 권장 (QR 스캔 방해) · 11/2 3:30 'Boost Your Class Participation' 패널 (Aldrich 208) · 11/16·17 시험 작문 워크숍
-- 기타: WII x VCPE Steve Klinsky (New Mountain Capital) 파이어사이드 · Strategy& 리크루팅 일정 · Exa API 크레딧 소진 알림 (Exa 쓰는 프로젝트 있으면 충전 필요)
+## 10/20 Briefing (Tue)
+- [ ] **Today 12:45pm career coach session with Anne Marie (CPD)**: Zoom https://hbs.zoom.us/my/acheccone (confirmed on 12Twenty; added to the Outlook calendar automatically)
+- [ ] **Jamie Dimon Leader's Forum today (Klarman)**: doors open 4:15 (Spangler-side door), **seats not guaranteed after 4:45**, doors close 5:20. Ticket QR + Harvard student ID required
+- FIN1 midterm review session today 4:30–6 Aldrich 007 (Zoom also available); conflicts with Jamie Dimon. FIN1 Module 2 also starts today
+- ✅ David Askaryan coffee chat confirmed: Wed 10/21 4:00–4:30 (Google Meet; Julie sent the invite), followed by 4:30 Liberate AI (Hawes 201)
+- Asked Arun for an additional referral for the NVIDIA Enterprise AI PM MBA intern role (JR2026707) (10/19)
+- TOM midterm quiz score and solutions, and Strategy midterm quiz score, posted on Canvas; FIN1 Statistics tutorial graded
+- ⭐ NextView Ventures Rob Go reminder: MBA Founders & Innovators Night Tue 10/27 6pm (Longfellow Bar, luma registration)
+- AI Club: hackathon volunteers wanted (Sat 10/24 Batten Hall); Vercel 'Prototype to Production' workshop (create GitHub + Vercel accounts in advance and mark attendance on the sheet)
+- October Buzz: Thanksgiving host family matching and campus meal sign-up by 11/13; recommended to delete the myHBS app (it interferes with QR scanning); 11/2 3:30 'Boost Your Class Participation' panel (Aldrich 208); 11/16 and 11/17 exam writing workshops
+- Other: WII x VCPE Steve Klinsky (New Mountain Capital) fireside; Strategy& recruiting schedule; Exa API credits exhausted notice (top up if any project uses Exa)
 
-## 10/19 브리핑 (월)
-- [ ] **오늘 1:50–2:50 Strategy 중간 퀴즈** (오픈북, 노트북·충전기) · Gallatin 323 냉장고 8am 전 비우기 · 8–10pm 12 Angry Men 섹션 상영 (선택, 10/23 LEAD 전 시청 필수)
-- ✅ AI Club 해커톤 (Replit) 등록 승인 — 토 10/24 9am–6pm Harvard i-lab. **팀 2–3명만 가능, 팀원 각자 같은 팀 이름으로 등록** — 팀 있는지 확인. 상금 $9,000 + Replit 크레딧
-- ✅ CPD 프로필 사진 촬영 대기 → 등록 확정: 11/9 (월) 2:15pm
-- [ ] NVIDIA 추천 2건 — Workday 지원 완료 확인 메일 아직 없음 (링크로 지원했는지 확인)
-- David (daskaryan)에게 화상 커피챗 요청 보냄 (10/19 새벽)
-- Kabir 아직 답 없음 (수 3:30 / 목 5 / 금 1pm 이후 제안 중)
-- 내일 화 10/20: FIN1 Module 2 시작 · Jamie Dimon Leader's Forum (Eventbrite 5pm, 캘린더 4:30–6, Klarman)
-- 기타: Akira에게 보낸 $30 Zelle이 상대 미등록으로 대기 중 · Lectures that Last (11월) 사전 공지 · CPD Kristen 'Your Career Path' 안내 메일
+## 10/19 Briefing (Mon)
+- [ ] **Today 1:50–2:50 Strategy midterm quiz** (open book; laptop and charger); empty the Gallatin 323 fridge before 8am; 8–10pm 12 Angry Men section screening (optional; must be watched before LEAD on 10/23)
+- ✅ AI Club hackathon (Replit) registration approved: Sat 10/24 9am–6pm Harvard i-lab. **Teams of 2–3 only; every teammate registers under the same team name**; check whether you have a team. $9,000 in prizes + Replit credits
+- ✅ CPD profile photo waitlist → registration confirmed: Mon 11/9 2:15pm
+- [ ] 2 NVIDIA referrals: no Workday application confirmation email yet (check whether applied via the link)
+- Sent David (daskaryan) a video coffee chat request (early 10/19)
+- Still no reply from Kabir (proposing Wed 3:30 / Thu 5 / Fri after 1pm)
+- Tomorrow, Tue 10/20: FIN1 Module 2 starts; Jamie Dimon Leader's Forum (Eventbrite 5pm, calendar 4:30–6, Klarman)
+- Other: the $30 Zelle sent to Akira is pending because the recipient isn't enrolled; advance notice for Lectures that Last (November); CPD Kristen 'Your Career Path' email
 
-## 10/18 브리핑 (일)
-- ✅ Amazon MBA 온라인 평가 제출 완료 (10/17 저녁)
-- Kabir에게 다음 주 새 시간 제안 보냄 (10/17 밤): 수 10/21 3:30–4 / 목 10/22 5–5:30 / 금 10/23 1pm 이후
-- [ ] NVIDIA 추천 2건 — 메일 속 링크로 지원했는지 확인 (아직 Workday 지원 확인 메일 없음)
-- [ ] 월 10/19: 1:50 Strategy 중간 퀴즈 · Gallatin 323 냉장고 8am 전 비우기 · 8pm 12 Angry Men 섹션 상영 (선택)
-- AI Club 다가오는 행사: 목 10/29 5–6 Kent Bennett (Bessemer) Aldrich 108 · 금 10/30 4–5 Dave Munichiello (GV, 화상) Aldrich 108 · 월 11/2 4–5 Jehan Hamedi (Vizit) Aldrich 011 — 각 메일에 질문 폼
-- 오늘 저녁 8:30 Too Hot 예약 (캘린더에 있음)
+## 10/18 Briefing (Sun)
+- ✅ Amazon MBA online assessment submitted (evening of 10/17)
+- Sent Kabir new times for next week (night of 10/17): Wed 10/21 3:30–4 / Thu 10/22 5–5:30 / Fri 10/23 after 1pm
+- [ ] 2 NVIDIA referrals: check whether applied via the link in the email (no Workday application confirmation email yet)
+- [ ] Mon 10/19: 1:50 Strategy midterm quiz; empty the Gallatin 323 fridge before 8am; 8pm 12 Angry Men section screening (optional)
+- AI Club upcoming events: Thu 10/29 5–6 Kent Bennett (Bessemer) Aldrich 108; Fri 10/30 4–5 Dave Munichiello (GV, video) Aldrich 108; Mon 11/2 4–5 Jehan Hamedi (Vizit) Aldrich 011; question forms in each email
+- Tonight 8:30 Too Hot reservation (on calendar)
 
-## 10/17 브리핑
-- 🔴 Harvard Korea Society 와인 나잇: 구글폼은 닫혔지만 Venmo 입금 후 국문/영문 이름·학교·세부 분야·이메일 보내면 처리해준다고 함 (10/16) → 회신 초안 작성 (세부 분야는 'MBA (AI·테크)'로 적어둠 · **Venmo 먼저 보내고 발송**)
-- [ ] **NVIDIA 추천 2건 도착 (10/16)** — Product Management MBA Intern, Data Center GPU (JR2025670). 메일 속 링크로 각각 지원서를 완료해야 추천이 확정됨 (spark@으로 1건, gmail로 1건)
-- [ ] **Amazon MBA 온라인 평가** — 10/16 저녁 메일, 1주 안에 (~10/23) 완료, 최소 2시간 필요, 메일 속 개인 링크로 시작 (준비 가이드 먼저 보기)
-- NVIDIA 재형에게 Laptop PM (JR2025905) + GPU Data Center PM (JR2025670) 추천 요청 (10/16)
-- ✅ Duolingo Product Manager MBA Intern 지원 완료 (10/17)
-- [ ] 월 10/19 1:50 Strategy 중간 퀴즈 · Disney (A)·Baskin-Robbins Japan 케이스 실물은 Spangler 배부처에서 수령
-- [ ] 10/23 LEAD 수업 전 '12 Angry Men' 전체 시청 (Canvas 링크) — 섹션 상영은 월 10/19 8–10pm Aldrich 008 (선택)
-- [ ] Gallatin 323 주방 냉장고 월 10/19 교체 — 쓰고 있으면 월 8am 전에 물건 옮기기
-- FIN1 Module 2 화 10/20 시작 · FRC 7주차 wrap 슬라이드 Canvas에 올라옴
-- McKinsey: Solve 게임 10/16 권장 기한 지남 — 했는지 확인 · 10/21 McKinsey: Explained, 10/22 Affinity Mixer (등록 필요)
-- 기타: Rock Center 창업자 법률 워크숍 2회, LEGO Q&A (Moynihan 교수) 목 11/5 3:30 Aldrich 107
+## 10/17 Briefing
+- 🔴 Harvard Korea Society wine night: the Google Form is closed, but they'll process it if you send Venmo payment plus Korean/English name, school, field, and email (10/16) → reply draft written (field filled in as 'MBA (AI/tech)'; **send the Venmo first, then send the email**)
+- [ ] **2 NVIDIA referrals arrived (10/16)**: Product Management MBA Intern, Data Center GPU (JR2025670). The referral is only final once each application is completed via the link in the email (1 to spark@, 1 to gmail)
+- [ ] **Amazon MBA online assessment**: email the evening of 10/16; complete within 1 week (~10/23); needs at least 2 hours; start via the personal link in the email (read the prep guide first)
+- Asked NVIDIA's Jaehyoung for referrals for Laptop PM (JR2025905) + GPU Data Center PM (JR2025670) (10/16)
+- ✅ Duolingo Product Manager MBA Intern application done (10/17)
+- [ ] Mon 10/19 1:50 Strategy midterm quiz; pick up the Disney (A) and Baskin-Robbins Japan case print copies at the Spangler distribution desk
+- [ ] Watch all of '12 Angry Men' before LEAD class on 10/23 (Canvas link); section screening Mon 10/19 8–10pm Aldrich 008 (optional)
+- [ ] Gallatin 323 kitchen fridge replaced Mon 10/19; if you use it, move your things before 8am Monday
+- FIN1 Module 2 starts Tue 10/20; FRC week 7 wrap slides posted on Canvas
+- McKinsey: the Solve game recommended date of 10/16 passed; check whether done; 10/21 McKinsey: Explained, 10/22 Affinity Mixer (registration required)
+- Other: 2 Rock Center founder legal workshops; LEGO Q&A (Professor Moynihan) Thu 11/5 3:30 Aldrich 107
 
-## 10/16 브리핑
-- 🔴 Jeff Bussgang 오피스아워: 10/15 Laura가 "10/23 10:00·10:20 두 자리만 남음, 먼저 답하는 사람 배정" → 어제 초안을 두 시간 다 가능하다는 내용으로 수정 (학교 메일이라 Outlook으로 보내도 됨)
-- [ ] **오늘 4pm Anne Marie (CPD) 이력서 세션** — Gmail 수락 초안 그대로, 12Twenty 확정 메일·캘린더 일정 없음 → 확정됐는지 확인
-- [ ] **오늘 WesTrek 2027 관심 설문 마감**: https://forms.gle/HwS4dznwrVGtGQXn9
-- ✅ FIN1 Online Exercise 2 제출·채점 완료 (10/15)
-- [ ] **월 10/19 1:50–2:50pm Strategy 중간 퀴즈** — 평소 강의실, 노트북·충전기, Canvas 객관식 7문제, 오픈북·오픈노트 (Canvas 외 인터넷·AI 금지). 범위: 산업 매력도·경쟁우위·경쟁 상호작용 (crafting strategy 제외) → 연습문제·모듈 요약 복습
-- [ ] 택배 또 도착: Rock Center Basement Locker 1 (10/15)
-- NVIDIA Data Center GPU PM 인턴: Lokesh Batra에게도 추천 요청 (10/15 밤)
-- ⭐ Jane Street Strategy & Product 해피아워 수 10/28 5:30–7pm Cambridge — 월 10/26까지 관심 폼: https://docs.google.com/forms/d/e/1FAIpQLSen5r2i-6dpW6IKO5LXGHF7bH-GT6nN6jZMJWy8s13KX3nSGQ/viewform
-- AI Club: M&A 세션 슬라이드 공유됨 · 'From Bits to Bots' Physical AI & 중국 하드웨어 생태계 살롱 일 10/18 MIT
-- WSA 동문 멘토십 매칭 메일 곧 발송 예정 (신청했다면 확인)
-- 기숙사: 오늘부터 난방 모드 (68–73°F, 개인 히터 금지) · 10/19–10/23 9시 이후 외벽 담쟁이 정리 (사다리 작업, 블라인드 권장)
-- 기타: HBS NVC 킥오프 등록 (1주 후), AABA x Bodyrok 클래스 초대
-- Google 'eightfold.ai에 Google 계정으로 로그인' 알림 (10/15 12:37pm) — NVIDIA 지원 포털로 보임, 본인이면 무시
+## 10/16 Briefing
+- 🔴 Jeff Bussgang office hours: on 10/15 Laura said "only two slots left, 10/23 10:00 and 10:20; assigned to whoever replies first" → revised yesterday's draft to say both times work (it's school email, so sending via Outlook is fine)
+- [ ] **Today 4pm resume session with Anne Marie (CPD)**: the Gmail acceptance draft is unchanged, and there is no 12Twenty confirmation email or calendar event → check whether it's confirmed
+- [ ] **WesTrek 2027 interest survey due today**: https://forms.gle/HwS4dznwrVGtGQXn9
+- ✅ FIN1 Online Exercise 2 submitted and graded (10/15)
+- [ ] **Mon 10/19 1:50–2:50pm Strategy midterm quiz**: usual classroom, laptop and charger, 7 multiple-choice questions on Canvas, open book and open notes (no internet or AI outside Canvas). Scope: industry attractiveness, competitive advantage, competitive interaction (excluding crafting strategy) → review practice problems and module summaries
+- [ ] Another package arrived: Rock Center Basement Locker 1 (10/15)
+- NVIDIA Data Center GPU PM intern: also asked Lokesh Batra for a referral (night of 10/15)
+- ⭐ Jane Street Strategy & Product happy hour Wed 10/28 5:30–7pm Cambridge; interest form by Mon 10/26: https://docs.google.com/forms/d/e/1FAIpQLSen5r2i-6dpW6IKO5LXGHF7bH-GT6nN6jZMJWy8s13KX3nSGQ/viewform
+- AI Club: M&A session slides shared; 'From Bits to Bots' Physical AI & China hardware ecosystem salon Sun 10/18 at MIT
+- WSA alumni mentorship matching emails coming soon (check if you applied)
+- Dorm: heating mode from today (68–73°F, personal heaters prohibited); 10/19–10/23 after 9am, ivy trimming on the exterior walls (ladder work; blinds recommended)
+- Other: HBS NVC kickoff registration (1 week out); AABA x Bodyrok class invite
+- Google alert 'Signed in to eightfold.ai with your Google account' (10/15 12:37pm): looks like the NVIDIA application portal; ignore if it was you
 
-## 10/15 브리핑
-- [ ] **오늘 1:50pm TOM 중간 퀴즈** — 평소 Aldrich 강의실, 노트북 완충 (Canvas로 답 입력), 클로즈드북이지만 노트 1장(앞뒤) 허용, 늦어도 시간 연장 없음
-- 🔴 Jeff Bussgang 오피스아워 (Laura Whitmer): 10/23 (금) Zoom 10:00 / 10:20 / 10:40 / 11:20 / 11:40 중 가능한 시간 전부 알려달라고 함 → 5개 다 가능하다는 초안 작성 (캘린더엔 그날 오전 일정 없음, 수업 겹치면 빼기 · 학교 메일이라 Outlook 발송 권장)
-- [ ] Anne Marie (CPD) 내일 금 10/16 4pm 이력서 세션 — Gmail 수락 초안이 아직 안 보내진 상태 (Outlook으로 답했는지 확인)
-- ✅ Google 지원 완료 (10/15 새벽) — Chris Yoon·Jason Lee 둘 다 추천인으로 연결됨
-- ✅ Toast MBA Product Manager Intern 지원 완료 (12twenty, 10/14)
-- NVIDIA MBA 인턴 (Data Center GPU PM) 공고 열림 → Arun Venkatesan에게 추천 요청 (10/14)
-- Google 'Campus Outreach General Event' 등록 완료 (메일에 일시 없음)
-- FIN1 중간 참여 피드백 메일 도착 (Desai 교수) — 내용은 메일에서 확인
-- McKenzie 커피챗은 McKenzie 요청으로 5pm으로 바뀌어 완료, 감사 메일 보냄
-- 10/14 낮 Harvard Square 근처 '칼 든 사람' 경보 → 용의자 체포, 대피 해제
-- ⚠️ 10/15 2:16am Google 보안 알림: OpenAI에 Google 계정 데이터 접근 허용됨 — 본인이 연결한 게 아니면 계정 활동 확인
-- 오늘: 6pm AI Club M&A (온라인, Luma 등록해야 링크), Therapy dog 3–5pm Spangler
-- 다가오는 것: 화 10/20 4:30 Jamie Dimon Leader's Forum (Klarman, 티켓은 Eventbrite 앱), 수 10/21 4:30 Liberate AI, 일 10/25 2pm Gallatin 고래 관찰 재도전, Section G International Flag Day
+## 10/15 Briefing
+- [ ] **Today 1:50pm TOM midterm quiz**: usual Aldrich classroom, fully charged laptop (answers entered on Canvas), closed book but one sheet of notes (front and back) allowed, no extra time if late
+- 🔴 Jeff Bussgang office hours (Laura Whitmer): asked for all available times among Fri 10/23 Zoom 10:00 / 10:20 / 10:40 / 11:20 / 11:40 → wrote a draft saying all 5 work (nothing on the calendar that morning; remove any that conflict with class; it's school email, so sending via Outlook is recommended)
+- [ ] Anne Marie (CPD) resume session tomorrow, Fri 10/16 4pm: the Gmail acceptance draft hasn't been sent yet (check whether replied via Outlook)
+- ✅ Google application done (early 10/15): both Chris Yoon and Jason Lee linked as referrers
+- ✅ Toast MBA Product Manager Intern application done (12twenty, 10/14)
+- NVIDIA MBA intern (Data Center GPU PM) posting opened → asked Arun Venkatesan for a referral (10/14)
+- Registered for Google 'Campus Outreach General Event' (no date or time in the email)
+- FIN1 midterm participation feedback email arrived (Professor Desai); see the email for details
+- McKenzie coffee chat moved to 5pm at McKenzie's request and done; thank-you email sent
+- 10/14 midday alert about a 'person with a knife' near Harvard Square → suspect arrested, shelter-in-place lifted
+- ⚠️ 10/15 2:16am Google security alert: OpenAI was granted access to Google account data; if you didn't connect it yourself, check account activity
+- Today: 6pm AI Club M&A (online; register on Luma to get the link); therapy dogs 3–5pm Spangler
+- Coming up: Tue 10/20 4:30 Jamie Dimon Leader's Forum (Klarman; tickets in the Eventbrite app); Wed 10/21 4:30 Liberate AI; Sun 10/25 2pm Gallatin whale watch, second attempt; Section G International Flag Day
 
-## 10/14 브리핑
-- 🔴 입학처 Katya Gonzalez-Willette: HBS/GSB 듀얼 어드밋 연결 그룹 참여 요청 (원래 10/9 마감, 10/13 리마인드) — 1) 최대 10명 / 2) 2–4명, 총 ~2시간 / 3) 올해는 불가 중 회신. 학교 메일이라 Outlook에서 답장 권장
-- ✅ Chris Yoon Google 추천 초대 수락 (10/13) — 30일 안에 최대 3개, 초대 받은 spark@ 주소로 초대 링크 통해 지원 (Jason Lee 초대와 별개)
-- Intuit PM 인턴 지원 접수 확인 메일
-- [ ] 금 10/16 11:59pm FIN1 Exercise 2 (Canvas) — Tottenham 자료 업데이트됨
-- [ ] 금 10/16 WesTrek 2027 관심 설문 (5분): https://forms.gle/HwS4dznwrVGtGQXn9
-- [ ] 택배 도착: Rock Center Locker 1
-- 기숙사 렌트 답장 (Elina Davis): 방 타입 차액 $66, 이사일부터 학기말까지 일할 계산한 $26.05가 학생 계좌에 청구됨
-- Cathy Hutchinson (CPD) 복귀 — Julie 문의 확인 중이라고 답장
-- TOM 중간 퀴즈 리뷰 세션 (4A/4B) 안내
-- 오늘(수): McKenzie 4pm (Meet), AI Club Kevin Xo (OpenAI) 5:30–6:30 Aldrich 111, Physical AI Robots 5:30–7 150 Western Ave (Luma RSVP, Kevin Xo와 겹침), Bain Seoul 웨비나 8:30pm (RSVP 했으면), Kabir에게 '수 9pm 이후' 제안해둠
-- 수 10/21 4:30–5:30 AI Club × Liberate AI 파이어사이드 — Hawes 201, HBS 학생 여러 명 채용 예정
-- Rock Center 창업 전문가 상담 수·목 / 기숙사: Chase 게임나이트 금 8:30–11:30pm로 변경, Head of the Charles 브런치, Spanish Culture Night
+## 10/14 Briefing
+- 🔴 Admissions, Katya Gonzalez-Willette: request to join the HBS/GSB dual admit connection group (original deadline 10/9, reminder 10/13); reply with 1) up to 10 people / 2) 2–4 people, ~2 hours total / 3) not this year. It's school email, so replying in Outlook is recommended
+- ✅ Accepted Chris Yoon's Google referral invite (10/13): up to 3 within 30 days; apply via the invite link using the spark@ address that received it (separate from Jason Lee's invite)
+- Intuit PM intern application receipt email
+- [ ] Fri 10/16 11:59pm FIN1 Exercise 2 (Canvas); Tottenham materials updated
+- [ ] Fri 10/16 WesTrek 2027 interest survey (5 minutes): https://forms.gle/HwS4dznwrVGtGQXn9
+- [ ] Package arrived: Rock Center Locker 1
+- Dorm rent reply (Elina Davis): the room type difference is $66; $26.05, prorated from move-in to the end of the term, was charged to the student account
+- Cathy Hutchinson (CPD) is back and replied that she is looking into Julie's inquiry
+- TOM midterm quiz review sessions (4A/4B) info
+- Today (Wed): McKenzie 4pm (Meet); AI Club Kevin Xo (OpenAI) 5:30–6:30 Aldrich 111; Physical AI Robots 5:30–7 150 Western Ave (Luma RSVP; conflicts with Kevin Xo); Bain Seoul webinar 8:30pm (if RSVP'd); proposed 'Wed after 9pm' to Kabir
+- Wed 10/21 4:30–5:30 AI Club × Liberate AI fireside: Hawes 201; plans to hire several HBS students
+- Rock Center startup expert consultations Wed/Thu / dorm: Chase game night moved to Fri 8:30–11:30pm, Head of the Charles brunch, Spanish Culture Night
 
-## 10/13 브리핑
-- ⚠️ 10/12 7:54pm Google MBAinternship@google.com 으로 보낸 "Question About Multiple Referrals - Google MBA Internship 2027" 메일 **반송됨** (외부 발송 불가 그룹) → Jason Lee나 Google 캠퍼스 리크루터에게 직접 문의 필요
-- ✅ Adobe 2027 MBA Intern – Product Manager (R172261) 지원 완료, Adobe 지원자 계정 이메일 인증 메일 옴
-- Cathy Hutchinson (CPD) 휴가 중 자동응답 — 'Big Tech & AI Recruiting Contacts' 문의 답장 지연
-- 오늘(화): Google PM 패널 2:30, Physical AI in the Research Lab 3:30–4:30 Hawes Hall (Luma 등록됨), Google 버추얼 커피챗 4:10 — 3:30 행사와 4:10 커피챗 시간 겹침
-- 윤식 MyTake 초대 (Korean 친구들), SA MyTakes National Coming Out Day (수, Spangler 051)
+## 10/13 Briefing
+- ⚠️ The 10/12 7:54pm email to Google MBAinternship@google.com, "Question About Multiple Referrals - Google MBA Internship 2027", **bounced** (group doesn't accept external mail) → ask Jason Lee or the Google campus recruiter directly
+- ✅ Adobe 2027 MBA Intern – Product Manager (R172261) application done; Adobe candidate account email verification arrived
+- Cathy Hutchinson (CPD) out-of-office auto-reply; reply to the 'Big Tech & AI Recruiting Contacts' inquiry delayed
+- Today (Tue): Google PM panel 2:30; Physical AI in the Research Lab 3:30–4:30 Hawes Hall (registered on Luma); Google virtual coffee chats 4:10; the 3:30 event and the 4:10 coffee chat overlap
+- Yoonsik's MyTake invite (Korean friends); SA MyTakes National Coming Out Day (Wed, Spangler 051)
 
-## 10/12 브리핑 (Indigenous Peoples' Day 휴일)
-- [ ] **Bain Seoul 'Bridge to APAC' 웨비나 RSVP 오늘(10/12) 마감** — Gmail에 등록 확인 메일 없음
-- 화 10/13: Google Functional Panel (PM at Google) 2:30pm, Google Virtual Coffee Chats 4:10pm — 둘 다 12twenty 온라인, 캘린더엔 없음
-- 수 10/14: Tatte TOM 리뷰 세션 ('night before the TOM midterm' → TOM 중간고사 10/15로 보임), Strategy 퀴즈 리뷰 3:30–5 Aldrich 208, McKenzie 커피챗 4pm, Bain 웨비나 8:30pm
-- 목 10/15: FRC Costco 케이스, AI Club M&A 6pm (온라인, Luma 등록)
+## 10/12 Briefing (Indigenous Peoples' Day holiday)
+- [ ] **Bain Seoul 'Bridge to APAC' webinar RSVP due today (10/12)**: no registration confirmation email in Gmail
+- Tue 10/13: Google Functional Panel (PM at Google) 2:30pm, Google Virtual Coffee Chats 4:10pm; both online via 12twenty, not on the calendar
+- Wed 10/14: Tatte TOM review session ('night before the TOM midterm' → the TOM midterm looks like 10/15); Strategy quiz review 3:30–5 Aldrich 208; McKenzie coffee chat 4pm; Bain webinar 8:30pm
+- Thu 10/15: FRC Costco case; AI Club M&A 6pm (online, Luma registration)
 
-## 10/11 브리핑
-- [ ] 학생 계좌 청구 알림 (10/10): 미납 + 새 청구 → my.harvard.edu > Student > Student Account 확인 (연체 시 수강신청 영향)
-- HarvardKey 잠금 해제 요청 10/11 1:14am — 본인 아니면 HUIT(617-495-7777) 연락
-- AI Club "AI in M&A" 10/15 6pm → 온라인(Teams)으로 변경, Luma에서 등록해야 링크 받음 (캘린더 일정 위치는 아직 'tbd')
+## 10/11 Briefing
+- [ ] Student account billing notice (10/10): unpaid balance + new charges → check my.harvard.edu > Student > Student Account (late payment affects course registration)
+- HarvardKey unlock request 10/11 1:14am; if it wasn't you, contact HUIT (617-495-7777)
+- AI Club "AI in M&A" 10/15 6pm → moved online (Teams); register on Luma to get the link (calendar location still says 'tbd')
 
-## 10/10 브리핑
-- FIN1 퀴즈 건 해결 — Desai 교수 "Delighted it all worked out!"
-- [ ] 10/15 FRC Costco 케이스: 평소보다 준비 많이 필요 (주말에 미리)
-- [ ] (선택) An Evening with the Sharks 피칭 지원 10/10 11:59pm 마감 — Credit Coach 팀?
-- AI Club 해커톤 hold the date (RSVP 요청, $10K+ 상금)
-- Adobe PM/PMM 지원서 미제출 리마인더 계속 옴
-- GitHub 새 기기(iPhone Chrome) 로그인 인증 요청 10/9 5:24pm — 본인 아니면 비밀번호 변경
+## 10/10 Briefing
+- FIN1 quiz issue resolved: Professor Desai: "Delighted it all worked out!"
+- [ ] 10/15 FRC Costco case: needs more prep than usual (start over the weekend)
+- [ ] (Optional) An Evening with the Sharks pitch application due 10/10 11:59pm; Credit Coach team?
+- AI Club hackathon hold the date (RSVP requested, $10K+ in prizes)
+- Adobe PM/PMM unsubmitted application reminders keep coming
+- GitHub new device (iPhone Chrome) sign-in verification request 10/9 5:24pm; if it wasn't you, change the password
 
-## 10/9 브리핑
-- **Section G 리트릿 10/9–10/11 (Killington, VT)** — 4:30pm Highline Lodge 집합, Birch Ridge Inn 6번 방. Kevin Michels에게 식비 Venmo/Zelle ($125 / 술 안 마시면 $105)
-- [ ] 오늘 마감: Section G Norms 피드백, IFC 관심 설문
-- [ ] OSS 이동 카트 반납 (또는 연장 필요 시 회신)
-- FIN1 퀴즈 0점 건: 답이 저장 안 된 것으로 확인 → 재응시 기회 받음(10/8 밤 마감), Canvas에 10/8 재채점 기록 있음
-- PM Interview SIP: Sara Torti와 통화, 등록 관련 의사 회신 요청받음 (10/8 답장함)
-- 등록됨: Meet Market Harvard x MIT 10/22 8:30pm
+## 10/9 Briefing
+- **Section G retreat 10/9–10/11 (Killington, VT)**: meet at Highline Lodge 4:30pm; Birch Ridge Inn room 6. Venmo/Zelle Kevin Michels for meals ($125 / $105 if not drinking)
+- [ ] Due today: Section G Norms feedback, IFC interest survey
+- [ ] Return the OSS moving cart (or reply if an extension is needed)
+- FIN1 quiz zero score: confirmed the answers weren't saved → given a retake (due the night of 10/8); Canvas shows a 10/8 regrade
+- PM Interview SIP: call with Sara Torti; asked to reply about registration intent (replied 10/8)
+- Registered: Meet Market Harvard x MIT 10/22 8:30pm
 
-## 10/8 브리핑
-- CPD 헤드샷 11/9 대기 1번 (10/13은 188번)
-- Morgan Stanley Asia IB Summer Associate 지원 오픈
-- 예약 발송 확인됨: Rishi·Chris·Tanvi·Raghav에게 수정 이력서 (10/8)
+## 10/8 Briefing
+- CPD headshot 11/9 waitlist #1 (10/13 was #188)
+- Morgan Stanley Asia IB Summer Associate applications open
+- Scheduled send confirmed: revised resume to Rishi, Chris, Tanvi, Raghav (10/8)
 
-## 10/7 브리핑
-- [ ] **Startup Bootcamp 2027 합격 (Credit Coach 팀) — 팀 리드가 10/7 11:59pm까지 확인폼 제출** https://forms.cloud.microsoft/r/JpGAfksA5a · 필수 대면: 11/1 워크숍, 11/19 디너, 1/16–1/22
-- [ ] Adobe 2027 MBA Intern PM / PMM 지원서 미제출 (리마인더 10/7)
-- [ ] Microsoft Business Program Mgmt 인턴: Meghan Peterson 추천 완료 (10/5)
-- [ ] Bain Seoul 'Bridge to APAC' 웨비나 10/14 8:30pm ET — RSVP 10/12까지
-- [ ] NextView Ventures MBA Founders Night 10/27 6pm Longfellow Bar — RSVP luma.com/NextViewMBANight2026
-- [ ] IFC 관심 설문 10/9 (금)까지 · Rock Center 피칭 지원 10/10 마감
-- 등록됨: Google PM 패널 10/13 2:30pm, Jamie Dimon Leader's Forum 10/20 5pm, Tech Club WesTrek
-- SIPs: The Product Management Interview — 불합격 (10/6)
+## 10/7 Briefing
+- [ ] **Accepted to Startup Bootcamp 2027 (Credit Coach team): the team lead submits the confirmation form by 10/7 11:59pm** https://forms.cloud.microsoft/r/JpGAfksA5a; required in person: 11/1 workshop, 11/19 dinner, 1/16–1/22
+- [ ] Adobe 2027 MBA Intern PM / PMM application not submitted (reminder 10/7)
+- [ ] Microsoft Business Program Mgmt intern: Meghan Peterson referral done (10/5)
+- [ ] Bain Seoul 'Bridge to APAC' webinar 10/14 8:30pm ET: RSVP by 10/12
+- [ ] NextView Ventures MBA Founders Night 10/27 6pm Longfellow Bar: RSVP luma.com/NextViewMBANight2026
+- [ ] IFC interest survey by Fri 10/9; Rock Center pitch application due 10/10
+- Registered: Google PM panel 10/13 2:30pm, Jamie Dimon Leader's Forum 10/20 5pm, Tech Club WesTrek
+- SIPs: The Product Management Interview: rejected (10/6)
 
-## 학교 마감 (10/5 브리핑)
-- [ ] **AABA RC 보드 지원 마감 10/6 (화) 자정** — https://forms.gle/GYZpDmGF2KXMFzuQ9
-- [ ] **섹션 G Norms 피드백 10/9 (금)까지** — https://forms.gle/RaNsVPizAj9pj5tH8
-- HBS AI Club 보드: 불합격 (10/5)
-- Amazon Networking 10/5 7:30pm 대기 9번
+## School deadlines (10/5 briefing)
+- [ ] **AABA RC board application due Tue 10/6 midnight**: https://forms.gle/GYZpDmGF2KXMFzuQ9
+- [ ] **Section G Norms feedback by Fri 10/9**: https://forms.gle/RaNsVPizAj9pj5tH8
+- HBS AI Club board: rejected (10/5)
+- Amazon Networking 10/5 7:30pm waitlist #9
 
-## McKinsey 마감 / 할 일 (10/1 Samantha Johnson 메일)
-- [ ] McKinsey MBA Events 폼 작성 → Solve 게임 초대 받음 (https://jobs.mckinsey.com/events/EventDetails?folderId=107040)
-- [ ] **Solve 게임 10/16까지 완료 권장** (HBS 기준)
-- [ ] **Associate Intern 지원 마감 11/12 (목) 11:59pm** — 이력서 + 희망 오피스 1–3개, 커버레터 없음
-- 이후 이벤트 (등록 필요): 10/13 4pm Boston 오피스 밋업(virtual), 10/21 McKinsey: Explained, 10/22 Affinity & Community Mixer, 11/5 Case Coaching Workshop, 11/9 First Year Women's Event
+## McKinsey deadlines / to-dos (10/1 email from Samantha Johnson)
+- [ ] Fill out the McKinsey MBA Events form → received the Solve game invite (https://jobs.mckinsey.com/events/EventDetails?folderId=107040)
+- [ ] **Complete the Solve game by 10/16 (recommended)** (HBS timeline)
+- [ ] **Associate Intern application due Thu 11/12 11:59pm**: resume + 1–3 preferred offices, no cover letter
+- Later events (registration required): 10/13 4pm Boston office meetup (virtual), 10/21 McKinsey: Explained, 10/22 Affinity & Community Mixer, 11/5 Case Coaching Workshop, 11/9 First Year Women's Event
