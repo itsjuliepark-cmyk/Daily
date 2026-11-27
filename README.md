@@ -1,21 +1,23 @@
-# Daily — 메일 관리 봇
+# Daily: Email Management Bot
 
-학교 Outlook + 개인 Gmail(커피챗) 메일을 매일 아침 자동으로 분류하고,
-답해야 할 것 / 마감 / 이벤트 / 노이즈로 정리해서 카카오톡으로 요약을 보내주는 봇.
+A bot that sorts my school Outlook and personal Gmail (coffee chat) email automatically every morning,
+groups it into replies needed / deadlines / events / noise, and sends a summary to KakaoTalk.
 
-## 구조
+## Structure
 
-| 파일 | 역할 |
+| File | Role |
 |---|---|
-| `CLAUDE.md` | 봇의 동작 규칙 (분류 기준, 안전 규칙, 출력 형식) |
-| `rules.md` | 내가 직접 고치는 분류 규칙 (중요 발신자, 키워드, 무시할 것) |
-| `data/coffee-chats.md` | 커피챗 기록 — 누구와, 언제, 후속 조치 |
-| `prompts/daily-brief.md` | 매일 아침 자동 실행(Routine)에 쓰는 프롬프트 |
-| `docs/outlook-setup.md` | 학교 Outlook을 로그인 없이 연결하는 방법 |
+| `CLAUDE.md` | The bot's operating rules (classification criteria, safety rules, output format) |
+| `rules.md` | Classification rules I edit myself (key senders, keywords, things to ignore) |
+| `data/coffee-chats.md` | Coffee chat log: who, when, follow-ups |
+| `prompts/daily-brief.md` | Prompt used by the daily morning automated run (Routine) |
+| `docs/outlook-setup.md` | How to connect school Outlook without signing in each time |
 
-## 셋업 순서
+## Setup steps
 
-1. ✅ Gmail / Google Calendar / 카카오톡 연결 완료
-2. ✅ 학교 메일(spark@mba2028.hbs.edu)은 이미 Gmail로 들어오고 있음 — Outlook 별도 연결 불필요
-3. ✅ Gmail 라벨 `Daily/🔴답장필요` `Daily/🟠School` `Daily/🟢이벤트` `Daily/⚪노이즈` 생성
-4. ✅ 매일 아침 7:52 (ET) 자동 브리핑 Routine
+1. ✅ Gmail, Google Calendar, and KakaoTalk connected
+2. ✅ School email (spark@mba2028.hbs.edu) already arrives in Gmail, so no separate Outlook connection is needed
+3. ✅ Gmail labels created: `Daily/🔴답장필요` (reply needed), `Daily/🟠School`, `Daily/🟢이벤트` (events), `Daily/⚪노이즈` (noise)
+4. ✅ Automated briefing Routine every morning at 7:52 (ET)
+
+> Gmail label names are kept exactly as they exist in Gmail, since the bot looks them up by name.
